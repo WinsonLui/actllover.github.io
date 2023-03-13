@@ -4,7 +4,7 @@ setwd('C:/Users/Winson/Documents/UNSW/ACTL4001/Case Study/Data/Cleaned')
 #install.packages("pacman")
 library("pacman")
 
-p_load("dplyr","cluster", "dbscan", "fitdistrplus", "tibble")
+p_load("dplyr","cluster", "dbscan", "fitdistrplus", "tibble", "tidyr")
 
 # Load data
 Hazard_Data_Raw <- read.csv("Hazard Data (Grouped).csv")
@@ -73,7 +73,34 @@ Property_Data_by_Region <- Property_Value_Mean_by_Region %>%
   mutate(Total_Property_Value = Mean_Property_Value * Count) %>%
   dplyr::select(c("Region","Total_Property_Value"))
 
-Property_Data_by_Region$Region <- as.factor(Property_Data_by_Region$Region)
+
+Property_Data_by_Region_Year <- data.frame(Region = rep(1:6, rep(length(Economic_Data_Work$Year),6)),
+                                           Year = rep(Economic_Data_Work$Year, 6))
+
+Property_Data_by_Region_Year <- Property_Data_by_Region_Year %>%
+  left_join(Economic_Data_Work, by="Year") %>%
+  left_join(Property_Data_by_Region, by="Region") %>%
+  mutate(Total_Property_Value_Real = Total_Property_Value * Cumulative_Inflation / Economic_Data_Work$Cumulative_Inflation[Economic_Data_Work$Year == 2021]) %>%
+  dplyr::select(c("Region","Year","Total_Property_Value_Real"))
+  
+
+
+Property_Data_by_Region_Year$Region <- as.factor(Property_Data_by_Region_Year$Region)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Hazard_Data_Work <- Hazard_Data_Work %>% 
@@ -82,8 +109,8 @@ Hazard_Data_Work <- Hazard_Data_Work %>%
   filter(Property.Damage > 0) %>%
   #Left join Hazard_Data_Work with Economic_Data_Work
   left_join(Economic_Data_Work, by="Year") %>%
-  left_join(Property_Data_by_Region, by="Region") %>%
-  mutate(Property.Damage_Exposure = Property.Damage * Cumulative_Inflation / Total_Property_Value * 10^10) #to scale up the value to avoid error in MLE
+  left_join(Property_Data_by_Region_Year, by=c("Region","Year")) %>%
+  mutate(Property.Damage_Exposure = Property.Damage * Cumulative_Inflation / Total_Property_Value_Real * 10^10) #to scale up the value to avoid error in MLE
 
 # Hazard_Data_Work_Summary <- Hazard_Data_Work %>% 
 #   group_by(Region_HazardEvent) %>%
@@ -180,6 +207,9 @@ Hazard_Data_H_Cluster_1_fitdist <- fitdist(Hazard_Data_H_Cluster_1$Property.Dama
 summary(Hazard_Data_H_Cluster_1_fitdist)
 plot(Hazard_Data_H_Cluster_1_fitdist)
 
+Hazard_Data_H_Cluster_1_fitdist$estimate
+
+
 # Cluster_2
 Hazard_Data_H_Cluster_2 <- Hazard_Data_H_Cluster %>%
   filter(Cluster == 2)
@@ -245,87 +275,104 @@ plot(Hazard_Data_H_Cluster_6_fitdist)
 
 
 
-# Fitting Gamma Distributions in R
-# Region_1
-Hazard_Data_H_Region_1 <- Hazard_Data_H_Cluster %>%
-  filter(Region == 1) %>%
-  arrange(Property.Damage_Exposure)
-
-Hazard_Data_H_Region_1_fitdist <- fitdist(Hazard_Data_H_Region_1$Property.Damage_Exposure, 
-                                           distr = "gamma",
-                                           method = "mle",
-                                           start = list(scale = var(Hazard_Data_H_Region_1$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_1$Property.Damage_Exposure), 
-                                                        shape = mean(Hazard_Data_H_Region_1$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_1$Property.Damage_Exposure)))
-summary(Hazard_Data_H_Region_1_fitdist)
-plot(Hazard_Data_H_Region_1_fitdist)
-
-# Region_2
-Hazard_Data_H_Region_2 <- Hazard_Data_H_Cluster %>%
-  filter(Region == 2)
-
-Hazard_Data_H_Region_2_fitdist <- fitdist(Hazard_Data_H_Region_2$Property.Damage_Exposure, 
-                                           distr = "gamma",
-                                           method = "mle",
-                                           start = list(scale = var(Hazard_Data_H_Region_2$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_2$Property.Damage_Exposure), 
-                                                        shape = mean(Hazard_Data_H_Region_2$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_2$Property.Damage_Exposure)))
-summary(Hazard_Data_H_Region_2_fitdist)
-plot(Hazard_Data_H_Region_2_fitdist)
-
-# Region_3
-Hazard_Data_H_Region_3 <- Hazard_Data_H_Cluster %>%
-  filter(Region == 3)
-
-Hazard_Data_H_Region_3_fitdist <- fitdist(Hazard_Data_H_Region_3$Property.Damage_Exposure, 
-                                           distr = "gamma",
-                                           method = "mle",
-                                           start = list(scale = var(Hazard_Data_H_Region_3$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_3$Property.Damage_Exposure), 
-                                                        shape = mean(Hazard_Data_H_Region_3$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_3$Property.Damage_Exposure)))
-summary(Hazard_Data_H_Region_3_fitdist)
-plot(Hazard_Data_H_Region_3_fitdist)
-
-# Region_4
-Hazard_Data_H_Region_4 <- Hazard_Data_H_Cluster %>%
-  filter(Region == 4)
-
-Hazard_Data_H_Region_4_fitdist <- fitdist(Hazard_Data_H_Region_4$Property.Damage_Exposure, 
-                                           distr = "gamma",
-                                           method = "mle",
-                                           start = list(scale = var(Hazard_Data_H_Region_4$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_4$Property.Damage_Exposure), 
-                                                        shape = mean(Hazard_Data_H_Region_4$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_4$Property.Damage_Exposure)))
-summary(Hazard_Data_H_Region_4_fitdist)
-plot(Hazard_Data_H_Region_4_fitdist)
-
-# Region_5
-Hazard_Data_H_Region_5 <- Hazard_Data_H_Cluster %>%
-  filter(Region == 5)
-
-Hazard_Data_H_Region_5_fitdist <- fitdist(Hazard_Data_H_Region_5$Property.Damage_Exposure, 
-                                           distr = "gamma",
-                                           method = "mle",
-                                           start = list(scale = var(Hazard_Data_H_Region_5$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_5$Property.Damage_Exposure), 
-                                                        shape = mean(Hazard_Data_H_Region_5$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_5$Property.Damage_Exposure)))
-summary(Hazard_Data_H_Region_5_fitdist)
-plot(Hazard_Data_H_Region_5_fitdist)
-
-
-# Region_6
-Hazard_Data_H_Region_6 <- Hazard_Data_H_Cluster %>%
-  filter(Region == 6)
-
-Hazard_Data_H_Region_6_fitdist <- fitdist(Hazard_Data_H_Region_6$Property.Damage_Exposure, 
-                                           distr = "gamma",
-                                           method = "mle",
-                                           start = list(scale = var(Hazard_Data_H_Region_6$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_6$Property.Damage_Exposure), 
-                                                        shape = mean(Hazard_Data_H_Region_6$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_6$Property.Damage_Exposure)))
-summary(Hazard_Data_H_Region_6_fitdist)
-plot(Hazard_Data_H_Region_6_fitdist)
-
-
+# # Fitting Gamma Distributions in R
+# # Region_1
+# Hazard_Data_H_Region_1 <- Hazard_Data_H_Cluster %>%
+#   filter(Region == 1) %>%
+#   arrange(Property.Damage_Exposure)
+# 
+# Hazard_Data_H_Region_1_fitdist <- fitdist(Hazard_Data_H_Region_1$Property.Damage_Exposure, 
+#                                            distr = "gamma",
+#                                            method = "mle",
+#                                            start = list(scale = var(Hazard_Data_H_Region_1$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_1$Property.Damage_Exposure), 
+#                                                         shape = mean(Hazard_Data_H_Region_1$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_1$Property.Damage_Exposure)))
+# summary(Hazard_Data_H_Region_1_fitdist)
+# plot(Hazard_Data_H_Region_1_fitdist)
+# 
+# # Region_2
+# Hazard_Data_H_Region_2 <- Hazard_Data_H_Cluster %>%
+#   filter(Region == 2)
+# 
+# Hazard_Data_H_Region_2_fitdist <- fitdist(Hazard_Data_H_Region_2$Property.Damage_Exposure, 
+#                                            distr = "gamma",
+#                                            method = "mle",
+#                                            start = list(scale = var(Hazard_Data_H_Region_2$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_2$Property.Damage_Exposure), 
+#                                                         shape = mean(Hazard_Data_H_Region_2$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_2$Property.Damage_Exposure)))
+# summary(Hazard_Data_H_Region_2_fitdist)
+# plot(Hazard_Data_H_Region_2_fitdist)
+# 
+# # Region_3
+# Hazard_Data_H_Region_3 <- Hazard_Data_H_Cluster %>%
+#   filter(Region == 3)
+# 
+# Hazard_Data_H_Region_3_fitdist <- fitdist(Hazard_Data_H_Region_3$Property.Damage_Exposure, 
+#                                            distr = "gamma",
+#                                            method = "mle",
+#                                            start = list(scale = var(Hazard_Data_H_Region_3$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_3$Property.Damage_Exposure), 
+#                                                         shape = mean(Hazard_Data_H_Region_3$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_3$Property.Damage_Exposure)))
+# summary(Hazard_Data_H_Region_3_fitdist)
+# plot(Hazard_Data_H_Region_3_fitdist)
+# 
+# # Region_4
+# Hazard_Data_H_Region_4 <- Hazard_Data_H_Cluster %>%
+#   filter(Region == 4)
+# 
+# Hazard_Data_H_Region_4_fitdist <- fitdist(Hazard_Data_H_Region_4$Property.Damage_Exposure, 
+#                                            distr = "gamma",
+#                                            method = "mle",
+#                                            start = list(scale = var(Hazard_Data_H_Region_4$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_4$Property.Damage_Exposure), 
+#                                                         shape = mean(Hazard_Data_H_Region_4$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_4$Property.Damage_Exposure)))
+# summary(Hazard_Data_H_Region_4_fitdist)
+# plot(Hazard_Data_H_Region_4_fitdist)
+# 
+# # Region_5
+# Hazard_Data_H_Region_5 <- Hazard_Data_H_Cluster %>%
+#   filter(Region == 5)
+# 
+# Hazard_Data_H_Region_5_fitdist <- fitdist(Hazard_Data_H_Region_5$Property.Damage_Exposure, 
+#                                            distr = "gamma",
+#                                            method = "mle",
+#                                            start = list(scale = var(Hazard_Data_H_Region_5$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_5$Property.Damage_Exposure), 
+#                                                         shape = mean(Hazard_Data_H_Region_5$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_5$Property.Damage_Exposure)))
+# summary(Hazard_Data_H_Region_5_fitdist)
+# plot(Hazard_Data_H_Region_5_fitdist)
+# 
+# 
+# # Region_6
+# Hazard_Data_H_Region_6 <- Hazard_Data_H_Cluster %>%
+#   filter(Region == 6)
+# 
+# Hazard_Data_H_Region_6_fitdist <- fitdist(Hazard_Data_H_Region_6$Property.Damage_Exposure, 
+#                                            distr = "gamma",
+#                                            method = "mle",
+#                                            start = list(scale = var(Hazard_Data_H_Region_6$Property.Damage_Exposure)/mean(Hazard_Data_H_Region_6$Property.Damage_Exposure), 
+#                                                         shape = mean(Hazard_Data_H_Region_6$Property.Damage_Exposure)^2/var(Hazard_Data_H_Region_6$Property.Damage_Exposure)))
+# summary(Hazard_Data_H_Region_6_fitdist)
+# plot(Hazard_Data_H_Region_6_fitdist)
 
 
-
-
-
+Hazard_Data_H_Cluster_Distribution_Parameters <- Hazard_Data_H_Cluster %>%
+  dplyr::select(Region,Hazard.Event..Grouped.,Cluster) %>%
+  mutate(Scale = 
+           case_when(
+             Cluster == 1 ~ Hazard_Data_H_Cluster_1_fitdist$estimate['scale']
+             ,Cluster == 2 ~ Hazard_Data_H_Cluster_2_fitdist$estimate['scale']
+             ,Cluster == 3 ~ Hazard_Data_H_Cluster_3_fitdist$estimate['scale']
+             ,Cluster == 4 ~ Hazard_Data_H_Cluster_4_fitdist$estimate['scale']
+             ,Cluster == 5 ~ Hazard_Data_H_Cluster_5_fitdist$estimate['scale']
+             ,Cluster == 6 ~ Hazard_Data_H_Cluster_6_fitdist$estimate['scale']
+             ,TRUE ~ 0
+           )) %>%
+  mutate(Shape = 
+           case_when(
+             Cluster == 1 ~ Hazard_Data_H_Cluster_1_fitdist$estimate['shape']
+             ,Cluster == 2 ~ Hazard_Data_H_Cluster_2_fitdist$estimate['shape']
+             ,Cluster == 3 ~ Hazard_Data_H_Cluster_3_fitdist$estimate['shape']
+             ,Cluster == 4 ~ Hazard_Data_H_Cluster_4_fitdist$estimate['shape']
+             ,Cluster == 5 ~ Hazard_Data_H_Cluster_5_fitdist$estimate['shape']
+             ,Cluster == 6 ~ Hazard_Data_H_Cluster_6_fitdist$estimate['shape']
+             ,TRUE ~ 0
+           ))
 
 
 
@@ -351,3 +398,4 @@ plot(Hazard_Data_H_Region_6_fitdist)
 # k <- 10
 # set.seed(6)
 # KMeans_Model <- kmeans(Hazard_Data_Cleaned, centers = k)
+
