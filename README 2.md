@@ -61,7 +61,8 @@ In contrast, long term monitoring is essential for determining the effectiveness
 ### 3.1 Projected Costs
 
 The simulation results for costs under program associated with voluntary relocation is as follows: 
-
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz4.png)
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz5.png)
 The simulation results for costs under program associated with involuntary relocation is as follows: 
 
 As shown in the tables above, costs associated with voluntary relocation are significantly lower and less volatile in comparison to involuntary displacement costs. 
