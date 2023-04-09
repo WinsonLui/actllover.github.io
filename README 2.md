@@ -27,7 +27,7 @@ The following table summarises several key metrics to be reported semi-annually 
 ### 2.1 Eligibility Requirements
 
 All citizens of Storslysia may file a claim under the proposed program given they meet the following eligibility requirements:
-![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Table1.png)
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/3226b62186943bb9694e6fe1291332f4d174c3a4/Graphs/Table1.png)
 
 ### 2.2 Claim Coverage
 
