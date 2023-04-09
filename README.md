@@ -25,6 +25,7 @@ All citizens of Storslysia may file a claim under the proposed program given the
 
 As mentioned in Section 1.1, our proposed program provides coverage for both voluntary and involuntary displacement on the basis that costs have historically been higher for involuntary relocation. The amount of coverage offered to the claimant will vary depending on factors such as property value and geographical risk, with a limit of one claimant per household affected.
 Our program provides the following benefits:
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz1.png)
 
 #### 2.2.1 Voluntary Relocation
 We have determined the primary cost associated with voluntary relocation to be accommodation search/construction. Under our proposed program, successful claimants will receive a portion of their current property value based on the percentage reduction in risk exposure from relocating from region A to region B as a lumpsum. By basing the lumpsum benefit on the reduction in risk exposure, we aim to mitigate displacement risk and incentivise citizens to relocate to safer regions.  
