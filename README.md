@@ -1,17 +1,14 @@
 # Actuarial Theory and Practice A @ UNSW
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+_Social insurance program design for catastrophic climate-related displacement risk management_
 
 ---
 
-### Congrats on completing the [2023 SOA Research Challenge](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/)!
+## 1 Objectives
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+### 1.1 Objective of Proposed Program Design
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/elzutNYu) to accept your group assignment.
+Our team has been requested by Storslysia to design a social insurance program which provides coverage for both voluntary and involuntary displacement. The purpose of the program is to manage Storslysia’s exposure to displacement risk arising from catastrophic climate-related events, and to prevent relocation costs from exceeding 10% of its GDP each year with 90% certainty. Storslysia has confirmed that they require the program to cover the entire population, and we have incorporated benefits varying by geographic risk and socio-economic status within the program design in response to Storslysia’s diverse geography.
 
 
 #### Follow the [guide doc](Doc1.pdf) to submit your work. 
