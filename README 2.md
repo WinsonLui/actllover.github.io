@@ -71,18 +71,20 @@ The simulation results for costs under program associated with voluntary relocat
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz4.png)
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz5.png)
 The simulation results for costs under program associated with involuntary relocation is as follows: 
-
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz6.png)
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz7.png)
 As shown in the tables above, costs associated with voluntary relocation are significantly lower and less volatile in comparison to involuntary displacement costs. 
 
 ### 3.2 Projected Costs without Program
 
 The simulated projected cost associated with hazardous climate-related events for Storslysia’s citizens without the introduction of the program is summarised in the table below. 
-
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz8.png)
 We can see that projected costs are significantly lower for voluntary relocation under the proposed program, particularly in the long term as we incentivise safer relocations to reduce risk. Costs associated with involuntary displacement are partially subsidised under the program and are therefore also reduced significantly.
 
 ### 3.3 Capital Requirements
 
 We used the 99.5th percentile of program costs cash flows under the worst-case scenario (very high emissions) to calculate the required economic capital for program to remain solvent. As outlined in the table below, we require a cash reserve of _Ꝕ 2,223,747,478.12_ for this program. 
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz9.png)
 
 ## 4 Assumptions
 
@@ -95,10 +97,13 @@ When projecting costs for temporary accommodation, we have assumed a fixed perio
 
 #### 4.1.2 Voluntary Model
 We have used property value as a proxy for socio-economic status within our models under the assumption that all residents will spend a fixed proportion of income on property. We have defined geographic risk from most risky to least risky as follows:
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz10.png)
 
 These rankings form the basis of our movements frequency assumptions between regions along with population density, average regional income, living expenses and ease of entry into the region. For simplicity of the model and due to the limited relevant data available, we have assumed these to be the only factors which affects claimants’ decisions to voluntarily relocate.
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz11.png)
 
 We have assumed a fixed relocation rate (outlined in the table above) and total number of households within Storslysia over the course of the social insurance program. As such, we expect the number of households by regions to evolve following a Markov process. 
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz12.png)
 
 Property values for each region were assumed to follow a _Uniform distribution_ within each bin, with the mean and variance of the estimated distributions computed for each region based on data provided by Storslysia. As the number of households relocating between regions was too large, simulating the property value of every movement would be computationally heavy and time-consuming. As such, the overall property value movement was assumed to follow a _Normal distribution_ according to the Central Limit Theorem, with parameters equal to the previously calculated aggregate mean and variance respectively. 
 
@@ -108,13 +113,16 @@ Property values for each region were assumed to follow a _Uniform distribution_ 
 
 We have implemented the Risk Categorisation and Definition (RCD) tool to identify 12 key risks associated with this policy. Below, we summarised these risks and potential mitigation techniques to be implemented.
 
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz14.png)
 ### 5.2 Sensitivity Analyses
 
 Given the level of uncertainty surrounding climate-related events, we have conducted sensitivity analyses on the proposed program to determine the financial impact of the difference between actual and expected costs under favourable and unfavourable scenarios. Our baseline projected costs outlined in Section 3.1 assumes that carbon emission levels will be low over the next decade. The table below summarises the projected costs (IUD) for the program for varying levels of carbon emission.
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz13.png)
 
 As expected, the short-term costs of our program have relatively low volatility which then increases in the long term in response to global warming. We can see that as emission levels increase, experience becomes more unfavourable in the long term as more catastrophic climate-related events increase in prevalence. Regardless, projected costs still remain below 10% of GDP with 90% certainty under each scenario tested. 
 
 We have also tested for the impact of a healthy and recessive economic environment below. During a healthy economic environment _(GDP growth = 5% and Inflation rate = 2%)_, the inflation rate is maintained at a relatively low level and Storslysia’s GDP is experiencing healthy growth, driving up the confidence level. 
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Graph1.png)
 
 In contrast, under economic recessions _(GDP growth = 0% and Inflation rate = 10%)_, the inflationary environment will push the costs up, resulting in a lower confidence level, especially in the long term.  
 
@@ -129,8 +137,10 @@ We have set the fixed portions to be 70% for voluntary costs and 60% for involun
 ### 6.1 Data Sources
 
 The following table summarises the data we have received from the client, Storslysia:
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Virz15.png)
 
 ### 6.2 Data Limitations
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz16.png)
 
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/image.png)
 
