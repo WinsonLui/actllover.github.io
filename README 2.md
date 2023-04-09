@@ -125,12 +125,12 @@ The following table summarises the data we have received from the client, Storsl
 
 ### 6.2 Data Limitations
 
-https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/image.png
+![alt text]https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/image.png
 
-https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme1
+![alt text]https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme1
 
-https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme2
+![alt text]https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme2
 
-https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme3
+![alt text]https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme3
 
-https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme4
+![alt text]https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme4
