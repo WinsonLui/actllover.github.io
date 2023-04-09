@@ -5,7 +5,7 @@ _Social insurance program design for catastrophic climate-related displacement r
 ---
 # Table of Contents
 - [Objectives](##-1-Objectives)
-- [Program Design](##-2-Program Design)
+- [Program Design](##-2-Program-Design)
 - [Pricing/Costs](##-3-Pricing/Costs)
 - [Assumptions](##-4-Assumptions)
 - [Risk and Risk Mitigation Considerations](##-5-Risk-and-Risk-Mitigation-Considerations)
