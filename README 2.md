@@ -123,9 +123,11 @@ Given the level of uncertainty surrounding climate-related events, we have condu
 As expected, the short-term costs of our program have relatively low volatility which then increases in the long term in response to global warming. We can see that as emission levels increase, experience becomes more unfavourable in the long term as more catastrophic climate-related events increase in prevalence. Regardless, projected costs still remain below 10% of GDP with 90% certainty under each scenario tested. 
 
 We have also tested for the impact of a healthy and recessive economic environment below. During a healthy economic environment _(GDP growth = 5% and Inflation rate = 2%)_, the inflation rate is maintained at a relatively low level and Storslysia’s GDP is experiencing healthy growth, driving up the confidence level. 
+
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Graph1.png)
 
 In contrast, under economic recessions _(GDP growth = 0% and Inflation rate = 10%)_, the inflationary environment will push the costs up, resulting in a lower confidence level, especially in the long term.  
+
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Graph2.png)
 
 ### 5.3 Degrees of Certainty
@@ -143,6 +145,8 @@ The following table summarises the data we have received from the client, Storsl
 
 ### 6.2 Data Limitations
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz16.png)
+
+---
 
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/image.png)
 
