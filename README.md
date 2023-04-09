@@ -104,7 +104,7 @@ As expected, the short-term costs of our program have relatively low volatility 
 
 We have also tested for the impact of a healthy and recessive economic environment below. During a healthy economic environment _(GDP growth = 5% and Inflation rate = 2%)_, the inflation rate is maintained at a relatively low level and Storslysia’s GDP is experiencing healthy growth, driving up the confidence level. 
 
-In contrast, under economic recessions (GDP growth = 0% and Inflation rate = 10%), the inflationary environment will push the costs up, resulting in a lower confidence level, especially in the long term.  
+In contrast, under economic recessions _(GDP growth = 0% and Inflation rate = 10%)_, the inflationary environment will push the costs up, resulting in a lower confidence level, especially in the long term.  
 
 ### 5.3 Degrees of Certainty
 
