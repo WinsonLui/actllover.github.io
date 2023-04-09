@@ -46,10 +46,8 @@ The temporary housing cost used in the calculation above is based on the median 
 ### 2.3 Monitoring and Performance Evaluation
 
 As this program is new, we will be required to continue monitoring its performance in the short and long-term and make necessary adjustments. For this report, we have defined our short and long-term timeframes as the following:
-
-•	Short-term: 2 years
-
-•	Long-term: 10 years
+* Short-term: 2 years
+* Long-term: 10 years
 
 Short term monitoring should be conducted once the program has started to run so that there is sufficient data available to make relevant adjustments in the scheme for effective risk management. Lack of awareness of this newly developed social insurance program would cause delays in claims filed and insufficient data. Further, we note that the confirmation of eligibility for initial claims made will delay the full implementation of the program, particularly due to the back log of claims being processed with an inefficient system. As such, we have selected a 2-year short term period.
 
