@@ -31,8 +31,11 @@ Our program provides the following benefits:
 We have determined the primary cost associated with voluntary relocation to be accommodation search/construction. Under our proposed program, successful claimants will receive a portion of their current property value based on the percentage reduction in risk exposure from relocating from region A to region B as a lumpsum. By basing the lumpsum benefit on the reduction in risk exposure, we aim to mitigate displacement risk and incentivise citizens to relocate to safer regions.  
 
 The value of the payout for this benefit is calculated as follows:
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz2.png)
 
 The subsidised amount, expressed as a percentage of current property value under the voluntary relocation scheme is outlined in table below:
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Viz3.png)
+
 
 #### 2.2.2 Involuntary Displacement
 Our proposed program accounts for a range of payments in relation to involuntary displacement including accommodation search/construction, temporary accommodation, and the repair/replacement of household items. 
