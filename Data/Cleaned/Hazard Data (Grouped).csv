@@ -1,0 +1,3367 @@
+﻿Hazard Unique Identifier,Region,Hazard Event,Quarter,Year,Duration,Fatalities,Injuries,Property Damage,Hazard Event (Grouped)
+1,3,Severe Storm/Thunder Storm,3,1960,1,0,0,74258,Storms
+2,4,Wind,1,1960,1,0,0,71952,Wind
+3,1,Winter Weather,1,1960,1,3,0,43429,Winter Weather
+4,1,Winter Weather,1,1960,3,0,0,23533,Winter Weather
+5,5,Winter Weather,1,1960,3,0,0,22145,Winter Weather
+6,3,Winter Weather,1,1960,3,0,0,21192,Winter Weather
+7,4,Winter Weather,1,1960,3,0,0,20617,Winter Weather
+8,1,Severe Storm/Thunder Storm,3,1960,1,0,0,8644,Storms
+9,1,Hail/ Severe Storm/Thunder Storm,2,1960,1,0,25,4271,Hail/Storms
+10,1,Hail/ Wind,1,1960,1,0,0,2334,Hail/Storms
+11,3,Hail/ Wind,1,1960,1,0,0,2316,Hail/Storms
+12,5,Hail/ Wind,1,1960,1,0,0,2306,Hail/Storms
+13,4,Hail/ Wind,1,1960,1,0,0,2300,Hail/Storms
+14,1,Hail,4,1960,1,0,0,842,Hail
+15,3,Wind,1,1960,1,0,0,789,Wind
+16,2,Wind,3,1960,1,0,0,730,Wind
+17,3,Hail/ Wind,3,1960,1,0,0,435,Hail/Storms
+18,3,Wind,3,1960,1,0,0,401,Wind
+19,3,Wind,4,1960,1,0,0,401,Wind
+20,3,Severe Storm/Thunder Storm,3,1960,1,0,0,396,Storms
+21,4,Hail,2,1960,1,0,0,0,Hail
+22,1,Severe Storm/Thunder Storm,2,1961,2,0,0,278907,Storms
+23,3,Lightning,2,1961,1,0,0,81186,Lightning
+24,3,Severe Storm/Thunder Storm,2,1961,1,24,0,80274,Storms
+25,2,Wind,2,1961,1,1,13,73503,Wind
+26,5,Winter Weather,1,1961,2,0,0,18332,Winter Weather
+27,6,Winter Weather,1,1961,2,0,0,17962,Winter Weather
+28,4,Winter Weather,1,1961,2,0,0,17850,Winter Weather
+29,1,Winter Weather,1,1961,2,0,0,17459,Winter Weather
+30,3,Winter Weather,1,1961,2,0,0,16278,Winter Weather
+31,2,Winter Weather,1,1961,2,0,0,16267,Winter Weather
+32,1,Severe Storm/Thunder Storm,4,1961,4,0,0,13764,Storms
+33,3,Severe Storm/Thunder Storm,3,1961,1,0,26,8660,Storms
+34,4,Tornado,4,1961,1,0,0,8037,Storms
+35,4,Lightning/ Wind,3,1961,1,0,0,4059,Wind
+36,2,Lightning/ Wind,3,1961,1,0,0,4000,Wind
+37,5,Lightning/ Wind,3,1961,1,0,0,3608,Wind
+38,3,Lightning/ Wind,3,1961,1,0,0,3454,Wind
+39,1,Severe Storm/Thunder Storm/ Wind,1,1961,1,0,0,2474,Storms
+40,3,Severe Storm/Thunder Storm/ Wind,1,1961,1,0,0,2436,Storms
+41,6,Severe Storm/Thunder Storm/ Wind,1,1961,1,0,0,2279,Storms
+42,5,Severe Storm/Thunder Storm/ Wind,1,1961,1,0,0,2219,Storms
+43,4,Severe Storm/Thunder Storm/ Wind,1,1961,1,0,0,2198,Storms
+44,6,Wind,4,1961,1,0,0,1882,Wind
+45,4,Wind,1,1961,1,0,0,1878,Wind
+46,5,Wind,1,1961,1,0,0,1864,Wind
+47,6,Wind,1,1961,1,0,0,1843,Wind
+48,3,Winter Weather,1,1961,2,0,0,1837,Winter Weather
+49,1,Winter Weather,1,1961,2,0,0,1813,Winter Weather
+50,6,Winter Weather,1,1961,2,0,0,1808,Winter Weather
+51,4,Winter Weather,1,1961,2,0,0,1769,Winter Weather
+52,1,Wind,1,1961,1,0,0,1741,Wind
+53,2,Wind,1,1961,1,0,0,1736,Wind
+54,4,Wind,4,1961,1,0,0,1730,Wind
+55,3,Wind,4,1961,1,0,0,1704,Wind
+56,2,Wind,4,1961,1,0,0,1692,Wind
+57,2,Winter Weather,1,1961,2,0,0,1677,Winter Weather
+58,1,Wind,4,1961,1,0,0,1665,Wind
+59,3,Wind,1,1961,1,0,0,1621,Wind
+60,5,Winter Weather,1,1961,2,0,0,1614,Winter Weather
+61,5,Wind,4,1961,1,0,0,1598,Wind
+62,4,Tornado,1,1961,1,0,0,738,Storms
+63,2,Coastal/ Wind,4,1962,8,0,0,124338,Coastal
+64,2,Tornado,3,1962,1,0,0,79537,Storms
+65,2,Coastal/ Wind,1,1962,3,3,0,11561,Coastal
+66,4,Tornado,3,1962,1,0,0,7181,Storms
+67,1,Winter Weather,1,1962,1,0,0,4019,Winter Weather
+68,3,Hail/ Wind,2,1962,1,0,0,3184,Hail/Storms
+69,5,Hail/ Wind,2,1962,1,0,0,3028,Hail/Storms
+70,4,Hail/ Wind,2,1962,1,0,0,2926,Hail/Storms
+71,4,Hail/ Wind,3,1962,1,0,0,2624,Hail/Storms
+72,4,Wind,1,1963,1,0,0,216551,Wind
+73,1,Winter Weather,4,1963,2,0,7,187182,Winter Weather
+74,3,Winter Weather,4,1963,2,0,7,186717,Winter Weather
+75,5,Winter Weather,4,1963,2,0,7,177895,Winter Weather
+76,2,Winter Weather,4,1963,2,0,6,172382,Winter Weather
+77,4,Winter Weather,4,1963,2,0,6,171210,Winter Weather
+78,6,Winter Weather,4,1963,2,0,6,167213,Winter Weather
+79,1,Severe Storm/Thunder Storm,1,1963,2,2,0,136891,Storms
+80,1,Severe Storm/Thunder Storm,1,1963,2,0,0,130656,Storms
+81,4,Hail,2,1963,1,0,0,73133,Hail
+82,5,Tornado,3,1963,1,0,0,72285,Storms
+83,4,Tornado,3,1963,1,0,0,71682,Storms
+84,1,Severe Storm/Thunder Storm,3,1963,1,0,0,12962,Storms
+85,4,Tornado,3,1963,1,0,12,8464,Storms
+86,4,Hail,2,1963,1,0,0,7761,Hail
+87,5,Severe Storm/Thunder Storm,3,1963,1,0,0,2449,Storms
+88,6,Hail,2,1963,1,0,0,0,Hail
+89,1,Hail,2,1963,1,0,0,0,Hail
+90,1,Hail/ Wind,2,1963,1,0,0,0,Hail/Storms
+91,2,Hail,2,1963,1,0,0,0,Hail
+92,4,Hail,2,1963,1,0,0,0,Hail
+93,3,Hail,2,1963,1,0,0,0,Hail
+94,5,Hail,2,1963,1,0,0,0,Hail
+95,2,Lightning,3,1963,1,11,0,0,Lightning
+96,2,Lightning,3,1963,1,11,0,0,Lightning
+97,1,Severe Storm/Thunder Storm,2,1964,3,0,0,1191538,Storms
+98,3,Tornado,3,1964,1,0,0,827791,Storms
+99,2,Severe Storm/Thunder Storm,2,1964,2,0,0,812494,Storms
+100,5,Severe Storm/Thunder Storm,4,1964,3,2,0,187699,Storms
+101,6,Severe Storm/Thunder Storm,4,1964,3,3,0,187458,Storms
+102,4,Severe Storm/Thunder Storm,4,1964,3,1,0,185976,Storms
+103,2,Severe Storm/Thunder Storm,4,1964,3,0,0,174863,Storms
+104,1,Severe Storm/Thunder Storm,4,1964,3,2,0,162078,Storms
+105,3,Severe Storm/Thunder Storm,4,1964,3,2,0,158822,Storms
+106,1,Tornado,2,1964,1,0,0,83444,Storms
+107,5,Lightning,3,1964,1,0,0,80219,Lightning
+108,1,Lightning,2,1964,1,0,0,77484,Lightning
+109,3,Tornado,3,1964,1,0,0,75970,Storms
+110,2,Tornado,3,1964,1,0,0,75772,Storms
+111,1,Lightning,3,1964,1,0,0,74480,Lightning
+112,4,Severe Storm/Thunder Storm,3,1964,2,0,0,33986,Storms
+113,3,Severe Storm/Thunder Storm,3,1964,2,0,0,33878,Storms
+114,5,Severe Storm/Thunder Storm,3,1964,2,0,0,33000,Storms
+115,6,Hurricane/Tropical Storm,3,1964,3,0,0,17798,Storms
+116,4,Hurricane/Tropical Storm,3,1964,3,0,0,17397,Storms
+117,5,Hurricane/Tropical Storm,3,1964,3,0,0,16937,Storms
+118,3,Hurricane/Tropical Storm,3,1964,3,0,0,16882,Storms
+119,1,Hurricane/Tropical Storm,3,1964,3,0,0,16362,Storms
+120,2,Hurricane/Tropical Storm,3,1964,3,0,0,16081,Storms
+121,5,Tornado,2,1964,1,0,0,8389,Storms
+122,1,Hail,2,1964,1,0,0,7530,Hail
+123,2,Severe Storm/Thunder Storm,3,1964,2,3,0,5062,Storms
+124,4,Severe Storm/Thunder Storm,3,1964,2,3,0,4985,Storms
+125,6,Winter Weather,1,1964,2,0,10,3930,Winter Weather
+126,1,Winter Weather,1,1964,2,0,10,3656,Winter Weather
+127,5,Hurricane/Tropical Storm,3,1964,2,0,0,1874,Storms
+128,3,Flooding,1,1964,31,0,0,1861,Flooding
+129,2,Wind,1,1964,1,0,1,1846,Wind
+130,6,Flooding,1,1964,31,0,0,1840,Flooding
+131,4,Wind,1,1964,1,0,2,1833,Wind
+132,5,Wind,1,1964,1,0,0,1822,Wind
+133,5,Flooding,1,1964,31,0,0,1794,Flooding
+134,1,Hurricane/Tropical Storm,3,1964,2,0,0,1775,Storms
+135,3,Wind,1,1964,1,0,0,1766,Wind
+136,6,Hurricane/Tropical Storm,3,1964,2,0,0,1744,Storms
+137,6,Wind,1,1964,1,0,0,1715,Wind
+138,2,Flooding,1,1964,31,0,0,1701,Flooding
+139,4,Hurricane/Tropical Storm,3,1964,2,0,0,1646,Storms
+140,1,Wind,1,1964,1,0,3,1627,Wind
+141,3,Hurricane/Tropical Storm,3,1964,2,0,0,1608,Storms
+142,4,Flooding,1,1964,31,0,0,1596,Flooding
+143,2,Hurricane/Tropical Storm,3,1964,2,0,0,1571,Storms
+144,1,Flooding,1,1964,31,0,0,1552,Flooding
+145,4,Tornado,2,1964,1,0,0,844,Storms
+146,6,Severe Storm/Thunder Storm,4,1964,2,0,0,0,Storms
+147,1,Severe Storm/Thunder Storm,4,1964,2,0,0,0,Storms
+148,2,Severe Storm/Thunder Storm,4,1964,2,0,0,0,Storms
+149,4,Severe Storm/Thunder Storm,4,1964,2,0,0,0,Storms
+150,3,Severe Storm/Thunder Storm,4,1964,2,0,0,0,Storms
+151,5,Severe Storm/Thunder Storm,4,1964,2,0,0,0,Storms
+152,2,Lightning,3,1964,1,13,13,0,Lightning
+153,6,Winter Weather,1,1964,2,0,0,0,Winter Weather
+154,1,Winter Weather,1,1964,2,0,0,0,Winter Weather
+155,2,Winter Weather,1,1964,2,0,0,0,Winter Weather
+156,4,Winter Weather,1,1964,2,0,0,0,Winter Weather
+157,3,Winter Weather,1,1964,2,0,0,0,Winter Weather
+158,5,Winter Weather,1,1964,2,0,0,0,Winter Weather
+159,3,Lightning,3,1964,1,0,347,0,Lightning
+160,2,Tornado,4,1965,1,0,0,764462,Storms
+161,2,Tornado,3,1965,1,0,511,734185,Storms
+162,1,Hail/ Severe Storm/Thunder Storm,2,1965,1,0,0,86068,Hail/Storms
+163,2,Tornado,2,1965,1,0,0,85957,Storms
+164,1,Lightning,3,1965,1,0,0,83833,Lightning
+165,3,Lightning,2,1965,1,0,0,80710,Lightning
+166,2,Tornado,2,1965,1,0,0,74932,Storms
+167,3,Lightning,2,1965,1,0,0,74623,Lightning
+168,3,Severe Storm/Thunder Storm,3,1965,1,0,21,71413,Storms
+169,3,Lightning/ Severe Storm/Thunder Storm,3,1965,1,0,0,42583,Lightning/Storms
+170,3,Lightning/ Wind,3,1965,1,0,0,40582,Wind
+171,3,Wind,1,1965,1,0,0,35724,Wind
+172,5,Lightning,3,1965,1,0,2,18415,Lightning
+173,3,Hail,2,1965,1,0,0,9643,Hail
+174,1,Hail,2,1965,1,0,0,8372,Hail
+175,3,Wind,1,1965,1,0,61,8099,Wind
+176,4,Wind,4,1965,1,0,0,8058,Wind
+177,4,Tornado,3,1965,1,0,0,7798,Storms
+178,3,Severe Storm/Thunder Storm,3,1965,1,0,0,3724,Storms
+179,3,Hail/ Severe Storm/Thunder Storm/ Wind,3,1965,31,0,0,1871,Hail/Storms
+180,1,Lightning,3,1965,1,0,0,1846,Lightning
+181,3,Lightning,3,1965,1,0,0,1836,Lightning
+182,6,Lightning,3,1965,1,0,0,1832,Lightning
+183,3,Hail/ Lightning/ Wind,3,1965,1,0,0,1824,Hail/Storms
+184,2,Hail/ Lightning/ Wind,3,1965,1,0,0,1793,Hail/Storms
+185,6,Hail/ Lightning/ Wind,3,1965,1,0,0,1788,Hail/Storms
+186,2,Hail/ Severe Storm/Thunder Storm/ Wind,3,1965,31,0,0,1772,Hail/Storms
+187,4,Hail/ Severe Storm/Thunder Storm/ Wind,3,1965,31,0,0,1768,Hail/Storms
+188,4,Hail/ Lightning/ Wind,3,1965,1,0,0,1731,Hail/Storms
+189,4,Lightning,3,1965,1,0,0,1674,Lightning
+190,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1965,31,0,0,1659,Hail/Storms
+191,5,Hail/ Lightning/ Wind,3,1965,1,0,0,1652,Hail/Storms
+192,5,Hail/ Severe Storm/Thunder Storm/ Wind,3,1965,31,0,0,1650,Hail/Storms
+193,5,Lightning,3,1965,1,0,0,1637,Lightning
+194,2,Lightning,3,1965,1,0,0,1571,Lightning
+195,6,Hail/ Severe Storm/Thunder Storm/ Wind,3,1965,31,0,0,1567,Hail/Storms
+196,1,Hail/ Lightning/ Wind,3,1965,1,0,0,1547,Hail/Storms
+197,6,Hail,4,1965,1,0,0,842,Hail
+198,1,Lightning,3,1965,1,0,12,838,Lightning
+199,1,Hail,4,1965,1,0,0,725,Hail
+200,3,Landslide,1,1965,1,83,0,0,Landslide
+201,6,Severe Storm/Thunder Storm,2,1965,1,13,13,0,Storms
+202,2,Lightning,3,1965,1,11,0,0,Lightning
+203,4,Lightning,3,1965,1,25,0,0,Lightning
+204,6,Hail,2,1965,1,0,0,0,Hail
+205,4,Lightning,2,1965,1,0,24,0,Lightning
+206,3,Lightning,2,1965,1,0,34,0,Lightning
+207,6,Severe Storm/Thunder Storm,2,1965,9,0,0,0,Storms
+208,1,Severe Storm/Thunder Storm,2,1965,9,0,0,0,Storms
+209,2,Severe Storm/Thunder Storm,2,1965,9,0,0,0,Storms
+210,4,Severe Storm/Thunder Storm,2,1965,9,0,0,0,Storms
+211,3,Severe Storm/Thunder Storm,2,1965,9,0,0,0,Storms
+212,5,Severe Storm/Thunder Storm,2,1965,9,0,0,0,Storms
+213,3,Lightning,3,1965,1,0,97,0,Lightning
+214,4,Winter Weather,1,1966,2,2,0,245677,Winter Weather
+215,5,Winter Weather,1,1966,2,2,0,220813,Winter Weather
+216,1,Winter Weather,1,1966,2,2,0,220405,Winter Weather
+217,3,Winter Weather,1,1966,2,3,0,209853,Winter Weather
+218,4,Wildfire,1,1966,17,0,0,184408,Wildfire
+219,1,Wildfire,1,1966,17,0,0,180497,Wildfire
+220,6,Wildfire,1,1966,17,0,0,179963,Wildfire
+221,5,Wildfire,1,1966,17,0,0,178774,Wildfire
+222,3,Wildfire,1,1966,17,0,0,171537,Wildfire
+223,2,Wildfire,1,1966,17,0,0,166248,Wildfire
+224,3,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1966,1,0,12,84792,Hail/Storms
+225,4,Severe Storm/Thunder Storm/ Wind,2,1966,1,0,0,81154,Storms
+226,1,Hail/ Lightning/ Severe Storm/Thunder Storm,2,1966,1,6,0,42045,Hail/Storms
+227,6,Winter Weather,1,1966,1,0,0,37804,Winter Weather
+228,4,Winter Weather,1,1966,1,0,0,36505,Winter Weather
+229,3,Lightning/ Wind,3,1966,1,0,0,36458,Wind
+230,3,Winter Weather,1,1966,1,0,0,35168,Winter Weather
+231,5,Winter Weather,1,1966,1,0,0,33142,Winter Weather
+232,4,Flooding,1,1966,5,0,0,18587,Flooding
+233,2,Flooding,1,1966,5,0,0,17795,Flooding
+234,5,Flooding,1,1966,5,0,0,16992,Flooding
+235,6,Flooding,1,1966,5,0,0,16314,Flooding
+236,1,Flooding,1,1966,5,0,0,16107,Flooding
+237,3,Flooding,1,1966,5,0,0,15859,Flooding
+238,1,Lightning/ Severe Storm/Thunder Storm,3,1966,1,0,0,7958,Lightning/Storms
+239,3,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1966,1,0,0,7295,Hail/Storms
+240,4,Severe Storm/Thunder Storm/ Wind,1,1966,1,0,0,1877,Storms
+241,6,Severe Storm/Thunder Storm/ Wind,1,1966,1,0,0,1864,Storms
+242,3,Severe Storm/Thunder Storm/ Wind,1,1966,1,0,0,1780,Storms
+243,1,Severe Storm/Thunder Storm/ Wind,1,1966,1,0,0,1748,Storms
+244,2,Severe Storm/Thunder Storm/ Wind,1,1966,1,0,0,1602,Storms
+245,5,Severe Storm/Thunder Storm/ Wind,1,1966,1,0,0,1570,Storms
+246,1,Hail/ Lightning/ Severe Storm/Thunder Storm,3,1966,1,0,0,801,Hail/Storms
+247,6,Winter Weather,1,1966,2,1,0,0,Winter Weather
+248,1,Winter Weather,1,1966,2,2,0,0,Winter Weather
+249,2,Winter Weather,1,1966,2,3,0,0,Winter Weather
+250,4,Winter Weather,1,1966,2,1,0,0,Winter Weather
+251,3,Winter Weather,1,1966,2,2,0,0,Winter Weather
+252,5,Winter Weather,1,1966,2,1,0,0,Winter Weather
+253,2,Hail/ Severe Storm/Thunder Storm,3,1966,1,0,0,0,Hail/Storms
+254,3,Tornado,4,1967,1,0,0,744330,Storms
+255,3,Severe Storm/Thunder Storm,3,1967,6,0,0,178688,Storms
+256,4,Severe Storm/Thunder Storm,3,1967,6,0,0,173450,Storms
+257,1,Severe Storm/Thunder Storm,3,1967,6,0,0,173123,Storms
+258,5,Severe Storm/Thunder Storm,3,1967,6,0,0,173088,Storms
+259,6,Severe Storm/Thunder Storm,3,1967,6,0,0,171503,Storms
+260,2,Severe Storm/Thunder Storm,3,1967,6,0,0,160269,Storms
+261,1,Tornado,2,1967,1,0,0,86314,Storms
+262,2,Tornado/ Wind,4,1967,1,0,12,84831,Storms
+263,2,Tornado,4,1967,1,0,12,83761,Storms
+264,1,Tornado,3,1967,1,0,0,83555,Storms
+265,2,Hurricane/Tropical Storm,2,1967,1,0,0,81059,Storms
+266,3,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1967,1,0,0,80559,Hail/Storms
+267,3,Hail/ Wind,1,1967,1,0,0,77278,Hail/Storms
+268,5,Tornado/ Wind,2,1967,1,0,0,73902,Storms
+269,4,Lightning/ Severe Storm/Thunder Storm/ Wind,4,1967,1,0,0,19407,Lightning/Storms
+270,3,Hail/ Tornado/ Wind,2,1967,1,0,38,8380,Hail/Storms
+271,5,Wind,2,1967,1,11,0,7534,Wind
+272,1,Winter Weather,1,1967,3,0,0,0,Winter Weather
+273,3,Severe Storm/Thunder Storm/ Wind,3,1968,1,0,0,739099,Storms
+274,6,Severe Storm/Thunder Storm/ Winter Weather,1,1968,5,0,0,268708,Storms
+275,3,Severe Storm/Thunder Storm/ Winter Weather,1,1968,5,0,0,254862,Storms
+276,1,Severe Storm/Thunder Storm/ Winter Weather,1,1968,5,0,0,248621,Storms
+277,5,Severe Storm/Thunder Storm/ Winter Weather,1,1968,5,0,0,241537,Storms
+278,2,Severe Storm/Thunder Storm/ Winter Weather,1,1968,5,0,0,240051,Storms
+279,2,Tornado,4,1968,1,0,0,78205,Storms
+280,1,Severe Storm/Thunder Storm/ Wind,3,1968,1,0,0,76192,Storms
+281,1,Wind,3,1968,1,0,0,38859,Wind
+282,1,Wind,1,1968,1,0,0,26649,Wind
+283,1,Hurricane/Tropical Storm,2,1968,2,0,0,1873,Storms
+284,6,Hurricane/Tropical Storm,2,1968,2,0,0,1705,Storms
+285,2,Hurricane/Tropical Storm,2,1968,2,0,0,1652,Storms
+286,4,Hurricane/Tropical Storm,2,1968,2,0,0,1620,Storms
+287,3,Hurricane/Tropical Storm,2,1968,2,0,0,1580,Storms
+288,5,Hurricane/Tropical Storm,2,1968,2,0,0,1559,Storms
+289,2,Tornado,1,1968,1,0,0,854,Storms
+290,1,Severe Storm/Thunder Storm,2,1968,1,0,12,823,Storms
+291,2,Tornado,3,1968,1,0,0,748,Storms
+292,6,Hail,2,1968,1,0,0,0,Hail
+293,1,Hail,2,1968,1,0,0,0,Hail
+294,1,Severe Storm/Thunder Storm,3,1969,1,0,0,776272,Storms
+295,2,Winter Weather,1,1969,3,0,0,179732,Winter Weather
+296,6,Winter Weather,1,1969,3,0,0,160592,Winter Weather
+297,3,Winter Weather,1,1969,3,0,0,160474,Winter Weather
+298,5,Winter Weather,1,1969,3,0,0,158871,Winter Weather
+299,4,Winter Weather,1,1969,3,11,0,155482,Winter Weather
+300,1,Winter Weather,1,1969,3,0,0,154200,Winter Weather
+301,1,Severe Storm/Thunder Storm/ Wind,2,1969,1,0,0,43376,Storms
+302,1,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1969,1,0,0,36394,Hail/Storms
+303,5,Wind/ Winter Weather,4,1969,1,2,2,33736,Winter Weather
+304,3,Wind/ Winter Weather,4,1969,1,1,1,30790,Winter Weather
+305,4,Wind/ Winter Weather,4,1969,1,2,2,29617,Winter Weather
+306,6,Wind,2,1969,1,0,0,763,Wind
+307,3,Wind,2,1969,1,0,0,423,Wind
+308,1,Winter Weather,4,1969,1,0,0,164,Winter Weather
+309,1,Lightning/ Severe Storm/Thunder Storm,2,1969,1,13,0,0,Lightning/Storms
+310,2,Coastal/ Hurricane/Tropical Storm/ Wind,4,1970,1,0,0,1127301,Coastal
+311,1,Severe Storm/Thunder Storm/ Wind,3,1970,1,0,0,788082,Storms
+312,2,Wind,2,1970,1,0,22,754634,Wind
+313,5,Wind,2,1970,1,0,2,163687,Wind
+314,1,Severe Storm/Thunder Storm/ Wind,3,1970,1,0,0,84150,Storms
+315,4,Lightning,3,1970,1,0,0,81764,Lightning
+316,4,Hail/ Severe Storm/Thunder Storm,2,1970,1,0,0,38875,Hail/Storms
+317,3,Hail/ Severe Storm/Thunder Storm/ Wind,2,1970,1,0,4,28292,Hail/Storms
+318,2,Winter Weather,1,1970,2,0,0,1835,Winter Weather
+319,5,Winter Weather,1,1970,2,0,0,1805,Winter Weather
+320,1,Winter Weather,1,1970,2,23,0,1690,Winter Weather
+321,4,Winter Weather,1,1970,2,11,0,1685,Winter Weather
+322,3,Winter Weather,1,1970,2,0,0,1655,Winter Weather
+323,6,Winter Weather,1,1970,2,0,0,1605,Winter Weather
+324,6,Winter Weather,4,1970,2,0,0,13,Winter Weather
+325,3,Winter Weather,4,1970,2,0,0,12,Winter Weather
+326,1,Winter Weather,4,1970,2,0,0,11,Winter Weather
+327,2,Winter Weather,4,1970,2,0,0,11,Winter Weather
+328,4,Winter Weather,4,1970,2,0,0,11,Winter Weather
+329,5,Winter Weather,4,1970,2,0,0,11,Winter Weather
+330,2,Hail/ Severe Storm/Thunder Storm/ Wind,3,1970,2,0,0,0,Hail/Storms
+331,2,Lightning,3,1970,1,0,34,0,Lightning
+332,4,Hail/ Severe Storm/Thunder Storm/ Wind,2,1971,1,0,0,1348604,Hail/Storms
+333,2,Hurricane/Tropical Storm,3,1971,4,0,0,1058006,Storms
+334,3,Severe Storm/Thunder Storm,3,1971,1,0,0,718412,Storms
+335,1,Winter Weather,1,1971,1,4,8,459526,Winter Weather
+336,4,Severe Storm/Thunder Storm/ Wind/ Winter Weather,4,1971,1,0,0,183012,Storms
+337,2,Severe Storm/Thunder Storm/ Wind/ Winter Weather,4,1971,1,0,0,181479,Storms
+338,5,Severe Storm/Thunder Storm/ Wind/ Winter Weather,4,1971,1,0,0,176293,Storms
+339,3,Severe Storm/Thunder Storm/ Wind/ Winter Weather,4,1971,1,0,12,173622,Storms
+340,1,Severe Storm/Thunder Storm/ Wind/ Winter Weather,4,1971,1,0,0,170400,Storms
+341,6,Severe Storm/Thunder Storm/ Wind/ Winter Weather,4,1971,1,0,0,157375,Storms
+342,4,Tornado,1,1971,1,0,0,79323,Storms
+343,3,Hail/ Severe Storm/Thunder Storm/ Wind,2,1971,1,0,0,63657,Hail/Storms
+344,5,Hail/ Severe Storm/Thunder Storm/ Wind,2,1971,1,0,33,60750,Hail/Storms
+345,1,Winter Weather,1,1971,2,0,0,5887,Winter Weather
+346,6,Severe Storm/Thunder Storm/ Wind,1,1971,1,0,0,1853,Storms
+347,4,Severe Storm/Thunder Storm/ Wind,1,1971,1,0,0,1804,Storms
+348,2,Severe Storm/Thunder Storm/ Wind,1,1971,1,0,0,1788,Storms
+349,1,Severe Storm/Thunder Storm/ Wind,1,1971,1,0,0,1782,Storms
+350,5,Severe Storm/Thunder Storm/ Wind,1,1971,1,0,0,1684,Storms
+351,3,Severe Storm/Thunder Storm/ Wind,1,1971,1,0,0,1654,Storms
+352,5,Tornado,3,1971,1,0,0,811,Storms
+353,5,Lightning/ Severe Storm/Thunder Storm,3,1971,1,11,0,0,Lightning/Storms
+354,3,Tornado,2,1971,1,0,0,0,Storms
+355,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1972,1,0,0,752811,Lightning/Storms
+356,2,Hail/ Severe Storm/Thunder Storm/ Wind,3,1972,1,0,0,85577,Hail/Storms
+357,4,Lightning/ Severe Storm/Thunder Storm,3,1972,1,0,0,82145,Lightning/Storms
+358,5,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1972,1,0,0,81724,Lightning/Storms
+359,3,Severe Storm/Thunder Storm/ Wind,3,1972,1,0,0,79640,Storms
+360,5,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1972,1,0,0,79608,Lightning/Storms
+361,4,Tornado,1,1972,1,0,0,75891,Storms
+362,2,Lightning/ Severe Storm/Thunder Storm,3,1972,1,10,10,72079,Lightning/Storms
+363,1,Severe Storm/Thunder Storm/ Wind,2,1972,1,0,0,41141,Storms
+364,1,Wind,1,1972,1,0,0,27175,Wind
+365,3,Wind,1,1972,1,0,11,7649,Wind
+366,1,Flooding/ Severe Storm/Thunder Storm,4,1972,4,0,0,3519,Flooding/Storms
+367,2,Flooding/ Severe Storm/Thunder Storm,4,1972,4,0,0,3247,Flooding/Storms
+368,6,Hurricane/Tropical Storm,2,1972,2,0,0,1777,Storms
+369,1,Hurricane/Tropical Storm,2,1972,2,0,0,1694,Storms
+370,5,Hurricane/Tropical Storm,2,1972,2,0,0,1626,Storms
+371,4,Hurricane/Tropical Storm,2,1972,2,0,0,1598,Storms
+372,2,Hurricane/Tropical Storm,2,1972,2,0,0,1574,Storms
+373,3,Hurricane/Tropical Storm,2,1972,2,0,0,1552,Storms
+374,6,Winter Weather,2,1972,30,0,0,0,Winter Weather
+375,1,Winter Weather,2,1972,30,0,0,0,Winter Weather
+376,2,Winter Weather,2,1972,30,0,0,0,Winter Weather
+377,4,Winter Weather,2,1972,30,0,0,0,Winter Weather
+378,3,Winter Weather,2,1972,30,0,0,0,Winter Weather
+379,5,Winter Weather,2,1972,30,0,0,0,Winter Weather
+380,1,Tornado,2,1973,1,0,165,2378056,Storms
+381,6,Winter Weather,1,1973,2,3,0,1882757,Winter Weather
+382,2,Winter Weather,1,1973,2,2,0,1778513,Winter Weather
+383,4,Winter Weather,1,1973,2,2,0,1769898,Winter Weather
+384,3,Winter Weather,1,1973,2,3,0,1700977,Winter Weather
+385,1,Winter Weather,1,1973,2,2,0,1692878,Winter Weather
+386,5,Winter Weather,1,1973,2,3,0,1655144,Winter Weather
+387,2,Tornado,2,1973,1,0,0,783405,Storms
+388,3,Winter Weather,1,1973,2,0,0,186475,Winter Weather
+389,4,Winter Weather,1,1973,2,0,0,182513,Winter Weather
+390,5,Winter Weather,1,1973,2,0,0,166696,Winter Weather
+391,1,Winter Weather,1,1973,2,0,0,166558,Winter Weather
+392,2,Winter Weather,1,1973,2,0,0,165335,Winter Weather
+393,6,Winter Weather,1,1973,2,0,0,160114,Winter Weather
+394,2,Flooding,1,1973,17,0,0,84134,Flooding
+395,3,Lightning/ Wind,3,1973,1,0,0,80551,Wind
+396,1,Tornado,2,1973,1,0,0,42060,Storms
+397,1,Tornado,1,1973,1,0,0,39394,Storms
+398,4,Tornado,2,1973,1,0,0,36469,Storms
+399,3,Flooding/ Severe Storm/Thunder Storm,2,1973,18,0,0,29408,Flooding/Storms
+400,4,Flooding/ Severe Storm/Thunder Storm,2,1973,18,0,0,27168,Flooding/Storms
+401,5,Flooding/ Severe Storm/Thunder Storm,2,1973,18,0,0,26389,Flooding/Storms
+402,4,Flooding,1,1973,1,0,0,16841,Flooding
+403,5,Flooding,1,1973,1,0,0,16792,Flooding
+404,2,Flooding,1,1973,1,0,0,16173,Flooding
+405,1,Flooding,1,1973,1,0,0,16026,Flooding
+406,6,Flooding,1,1973,1,0,0,15894,Flooding
+407,3,Flooding,1,1973,1,0,0,15541,Flooding
+408,2,Coastal,4,1973,1,0,0,14212,Coastal
+409,5,Winter Weather,4,1973,1,0,0,10243,Winter Weather
+410,3,Winter Weather,4,1973,1,0,0,9512,Winter Weather
+411,5,Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,7836,Storms
+412,1,Tornado,2,1973,1,0,0,7226,Storms
+413,2,Flooding,1,1973,17,0,0,5226,Flooding
+414,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1973,1,0,2,5217,Hail/Storms
+415,5,Flooding,1,1973,17,0,0,4767,Flooding
+416,4,Flooding,1,1973,17,0,0,4572,Flooding
+417,3,Flooding,1,1973,17,0,0,4473,Flooding
+418,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1973,1,0,0,4072,Hail/Storms
+419,1,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1973,1,0,0,3488,Hail/Storms
+420,3,Flooding/ Severe Storm/Thunder Storm,2,1973,7,0,0,2950,Flooding/Storms
+421,5,Flooding/ Severe Storm/Thunder Storm,2,1973,7,0,0,2878,Flooding/Storms
+422,6,Hail/ Lightning/ Wind,2,1973,2,0,1,2693,Hail/Storms
+423,1,Hail/ Lightning/ Wind,2,1973,2,0,1,2659,Hail/Storms
+424,6,Flooding/ Severe Storm/Thunder Storm,2,1973,7,0,0,2538,Flooding/Storms
+425,1,Flooding/ Severe Storm/Thunder Storm,2,1973,7,0,0,2531,Flooding/Storms
+426,5,Wind,4,1973,1,0,0,2518,Wind
+427,2,Wind,4,1973,1,0,0,2512,Wind
+428,3,Wind,4,1973,1,0,0,2496,Wind
+429,1,Wind,4,1973,1,0,0,2318,Wind
+430,6,Wind,4,1973,1,0,0,2201,Wind
+431,1,Flooding,4,1973,1,0,0,1386,Flooding
+432,1,Winter Weather,4,1973,1,0,0,541,Winter Weather
+433,3,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,460,Lightning/Storms
+434,5,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,448,Lightning/Storms
+435,5,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,418,Lightning/Storms
+436,4,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,413,Lightning/Storms
+437,4,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,383,Lightning/Storms
+438,3,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,381,Lightning/Storms
+439,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1973,1,0,0,358,Lightning/Storms
+440,6,Hail/ Lightning,4,1973,1,0,0,25,Hail/Storms
+441,1,Hail/ Lightning,4,1973,1,0,0,24,Hail/Storms
+442,1,Winter Weather,2,1973,2,0,0,0,Winter Weather
+443,3,Lightning,3,1973,1,11,0,0,Lightning
+444,2,Hail/ Severe Storm/Thunder Storm/ Wind,3,1974,1,0,0,148644,Hail/Storms
+445,3,Hail/ Severe Storm/Thunder Storm/ Wind,3,1974,1,0,0,145346,Hail/Storms
+446,1,Hail/ Wind,2,1974,1,0,5,126495,Hail/Storms
+447,2,Tornado,2,1974,1,0,0,87154,Storms
+448,6,Tornado,1,1974,1,0,12,80734,Storms
+449,3,Lightning/ Severe Storm/Thunder Storm/ Wind,2,1974,1,0,0,45086,Lightning/Storms
+450,4,Lightning/ Severe Storm/Thunder Storm/ Wind,2,1974,1,0,0,41407,Lightning/Storms
+451,5,Lightning/ Severe Storm/Thunder Storm/ Wind,2,1974,1,0,0,37732,Lightning/Storms
+452,1,Lightning/ Wind,2,1974,1,0,0,22441,Wind
+453,5,Winter Weather,4,1974,2,0,0,22276,Winter Weather
+454,6,Lightning/ Wind,2,1974,1,0,0,22214,Wind
+455,3,Winter Weather,4,1974,2,0,0,22087,Winter Weather
+456,4,Lightning/ Wind,2,1974,1,0,0,21686,Wind
+457,4,Winter Weather,4,1974,2,0,0,21213,Winter Weather
+458,3,Lightning/ Wind,2,1974,1,0,0,20918,Wind
+459,6,Winter Weather,4,1974,2,0,0,20462,Winter Weather
+460,5,Lightning/ Wind,2,1974,1,0,0,19871,Wind
+461,1,Winter Weather,4,1974,2,0,0,18944,Winter Weather
+462,6,Lightning/ Wind,1,1974,1,0,1,18552,Wind
+463,1,Hail/ Lightning/ Wind,1,1974,1,0,0,18482,Hail/Storms
+464,1,Lightning/ Wind,1,1974,1,0,2,18473,Wind
+465,5,Hail/ Lightning/ Wind,1,1974,1,0,0,18390,Hail/Storms
+466,4,Lightning/ Wind,1,1974,1,0,1,18187,Wind
+467,4,Hail/ Lightning/ Wind,1,1974,1,0,0,18156,Hail/Storms
+468,3,Hail/ Lightning/ Wind,1,1974,1,0,0,17811,Hail/Storms
+469,5,Lightning/ Wind,1,1974,1,0,2,17402,Wind
+470,2,Hail/ Lightning/ Wind,1,1974,1,0,0,17166,Hail/Storms
+471,3,Lightning/ Wind,1,1974,1,0,1,15952,Wind
+472,2,Lightning/ Wind,1,1974,1,0,1,15869,Wind
+473,2,Hail/ Lightning/ Wind,2,1974,1,0,0,14582,Hail/Storms
+474,1,Lightning/ Wind,2,1974,1,0,9,13104,Wind
+475,2,Coastal,4,1974,1,0,0,12360,Coastal
+476,2,Lightning/ Wind,2,1974,1,0,0,7958,Wind
+477,3,Lightning/ Severe Storm/Thunder Storm,2,1974,1,0,0,7745,Lightning/Storms
+478,6,Wind,4,1974,1,0,0,3979,Wind
+479,4,Lightning/ Wind,3,1974,1,0,0,3916,Wind
+480,3,Lightning/ Wind,3,1974,1,0,0,3669,Wind
+481,5,Lightning/ Wind,3,1974,1,0,0,3429,Wind
+482,1,Wind,4,1974,1,0,0,3417,Wind
+483,3,Hail/ Wind,3,1974,1,0,0,3298,Hail/Storms
+484,4,Hail/ Wind,3,1974,1,0,0,3094,Hail/Storms
+485,5,Hail/ Wind,3,1974,1,0,0,2956,Hail/Storms
+486,5,Hail/ Lightning/ Wind,2,1974,1,0,0,2736,Hail/Storms
+487,2,Hail/ Lightning/ Wind,2,1974,1,0,0,2589,Hail/Storms
+488,4,Hail/ Lightning/ Wind,2,1974,1,0,0,2559,Hail/Storms
+489,5,Hail/ Lightning/ Wind,2,1974,1,0,0,1655,Hail/Storms
+490,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1974,1,0,0,831,Hail/Storms
+491,3,Severe Storm/Thunder Storm,1,1974,1,0,0,623,Storms
+492,6,Severe Storm/Thunder Storm,1,1974,1,0,0,601,Storms
+493,4,Severe Storm/Thunder Storm,1,1974,1,0,0,596,Storms
+494,4,Lightning/ Wind,2,1974,1,0,0,338,Wind
+495,3,Lightning/ Wind,2,1974,1,0,0,332,Wind
+496,5,Lightning/ Wind,2,1974,1,0,0,320,Wind
+497,1,Winter Weather,1,1974,1,0,0,0,Winter Weather
+498,1,Hail/ Wind,1,1974,1,0,0,0,Hail/Storms
+499,1,Lightning/ Severe Storm/Thunder Storm,3,1974,1,0,0,0,Lightning/Storms
+500,1,Flooding/ Lightning/ Severe Storm/Thunder Storm,3,1975,1,5,17,3774757,Flooding/Storms
+501,3,Tornado,4,1975,1,0,79,748372,Storms
+502,6,Tornado,4,1975,1,0,44,740288,Storms
+503,1,Tornado,1,1975,1,0,52,431570,Storms
+504,2,Wind,2,1975,1,0,0,79180,Wind
+505,2,Hail/ Lightning/ Wind,2,1975,1,0,0,75875,Hail/Storms
+506,2,Flooding/ Severe Storm/Thunder Storm,4,1975,1,0,0,73323,Flooding/Storms
+507,3,Hail/ Lightning/ Wind,2,1975,1,0,0,46198,Hail/Storms
+508,1,Winter Weather,1,1975,2,0,0,43376,Winter Weather
+509,5,Wind,3,1975,1,0,0,43340,Wind
+510,4,Hail/ Lightning/ Wind,2,1975,1,0,0,42196,Hail/Storms
+511,1,Hail/ Lightning/ Wind,2,1975,1,0,0,42011,Hail/Storms
+512,3,Hail/ Lightning/ Wind,3,1975,1,0,0,24505,Hail/Storms
+513,5,Hail/ Lightning/ Wind,3,1975,1,0,0,23542,Hail/Storms
+514,5,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,3,22876,Lightning/Storms
+515,4,Hail/ Lightning/ Wind,3,1975,1,0,0,22471,Hail/Storms
+516,2,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,21706,Lightning/Storms
+517,1,Hail/ Lightning/ Wind,3,1975,1,0,0,21278,Hail/Storms
+518,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,1,21143,Lightning/Storms
+519,4,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,1,19644,Lightning/Storms
+520,3,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,2,19348,Lightning/Storms
+521,1,Severe Storm/Thunder Storm,3,1975,1,0,0,18639,Storms
+522,4,Lightning/ Wind,2,1975,1,0,0,18191,Wind
+523,3,Flooding/ Severe Storm/Thunder Storm,1,1975,7,0,0,17777,Flooding/Storms
+524,2,Flooding/ Severe Storm/Thunder Storm,1,1975,7,0,0,17724,Flooding/Storms
+525,4,Hail/ Lightning/ Wind,1,1975,1,0,3,17712,Hail/Storms
+526,2,Lightning/ Wind,2,1975,1,0,0,17624,Wind
+527,1,Flooding/ Severe Storm/Thunder Storm,1,1975,7,0,0,17517,Flooding/Storms
+528,1,Lightning/ Wind,2,1975,1,0,0,17405,Wind
+529,4,Flooding/ Severe Storm/Thunder Storm,1,1975,7,0,0,17195,Flooding/Storms
+530,5,Hail/ Lightning/ Wind,1,1975,1,0,3,16980,Hail/Storms
+531,6,Flooding/ Severe Storm/Thunder Storm,1,1975,7,0,0,16953,Flooding/Storms
+532,3,Lightning/ Wind,2,1975,1,0,0,16841,Wind
+533,2,Hail/ Lightning/ Wind,1,1975,1,0,3,16746,Hail/Storms
+534,5,Lightning/ Wind,2,1975,1,0,0,16725,Wind
+535,1,Hail/ Lightning/ Wind,1,1975,1,0,3,16315,Hail/Storms
+536,3,Hail/ Lightning/ Wind,1,1975,1,0,3,15825,Hail/Storms
+537,6,Lightning/ Wind,2,1975,1,0,0,15745,Wind
+538,6,Hail/ Lightning/ Wind,1,1975,1,0,3,15596,Hail/Storms
+539,5,Flooding/ Severe Storm/Thunder Storm,1,1975,7,0,0,15523,Flooding/Storms
+540,3,Hail/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,7919,Hail/Storms
+541,4,Hail/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,7540,Hail/Storms
+542,5,Hail/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,7492,Hail/Storms
+543,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,6892,Hail/Storms
+544,1,Flooding/ Severe Storm/Thunder Storm,4,1975,1,0,0,6358,Flooding/Storms
+545,1,Hail/ Wind,2,1975,1,0,0,5582,Hail/Storms
+546,1,Hail/ Lightning/ Wind,2,1975,1,0,0,2949,Hail/Storms
+547,6,Hail/ Lightning/ Wind,2,1975,1,0,0,2817,Hail/Storms
+548,1,Lightning,3,1975,1,0,0,2426,Lightning
+549,3,Flooding/ Severe Storm/Thunder Storm,3,1975,6,0,0,2391,Flooding/Storms
+550,1,Hail/ Lightning/ Wind,1,1975,1,0,0,2386,Hail/Storms
+551,5,Lightning,3,1975,1,0,0,2377,Lightning
+552,6,Hail/ Lightning/ Wind,2,1975,1,0,0,2354,Hail/Storms
+553,3,Hail/ Lightning/ Wind,2,1975,1,0,0,2339,Hail/Storms
+554,5,Hail/ Lightning/ Wind,2,1975,1,0,0,2281,Hail/Storms
+555,3,Hail/ Lightning/ Wind,1,1975,1,0,0,2277,Hail/Storms
+556,4,Flooding/ Severe Storm/Thunder Storm,3,1975,6,0,0,2238,Flooding/Storms
+557,1,Hail/ Lightning/ Wind,2,1975,1,0,0,2215,Hail/Storms
+558,3,Lightning,3,1975,1,0,0,2207,Lightning
+559,6,Lightning,3,1975,1,0,0,2202,Lightning
+560,2,Hail/ Lightning/ Wind,2,1975,1,0,0,2194,Hail/Storms
+561,2,Hail/ Lightning/ Wind,1,1975,1,0,0,2182,Hail/Storms
+562,4,Hail/ Lightning/ Wind,1,1975,1,0,0,2177,Hail/Storms
+563,2,Flooding/ Severe Storm/Thunder Storm,3,1975,6,0,0,2098,Flooding/Storms
+564,4,Lightning,3,1975,1,0,0,2071,Lightning
+565,5,Hail/ Lightning/ Wind,1,1975,1,0,0,2065,Hail/Storms
+566,5,Flooding/ Severe Storm/Thunder Storm,3,1975,6,0,0,2007,Flooding/Storms
+567,6,Severe Storm/Thunder Storm,1,1975,1,0,0,1875,Storms
+568,4,Wind,4,1975,1,0,0,1870,Wind
+569,4,Severe Storm/Thunder Storm,1,1975,1,0,0,1858,Storms
+570,2,Wind,4,1975,1,0,0,1840,Wind
+571,3,Severe Storm/Thunder Storm,1,1975,1,0,0,1834,Storms
+572,2,Severe Storm/Thunder Storm,1,1975,1,0,0,1823,Storms
+573,1,Severe Storm/Thunder Storm,1,1975,1,0,0,1760,Storms
+574,5,Severe Storm/Thunder Storm,1,1975,1,0,0,1745,Storms
+575,3,Wind,4,1975,1,0,0,1692,Wind
+576,5,Wind,4,1975,1,0,0,1676,Wind
+577,6,Wind,4,1975,1,0,0,1632,Wind
+578,1,Wind,4,1975,1,0,0,1609,Wind
+579,1,Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,230,Storms
+580,2,Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,219,Storms
+581,5,Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,219,Storms
+582,6,Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,208,Storms
+583,3,Severe Storm/Thunder Storm/ Wind,3,1975,1,0,0,208,Storms
+584,3,Hail/ Lightning/ Wind,2,1975,1,0,0,180,Hail/Storms
+585,6,Hail/ Lightning/ Wind,2,1975,1,0,0,174,Hail/Storms
+586,1,Hail/ Lightning/ Wind,2,1975,1,0,0,158,Hail/Storms
+587,4,Hail/ Lightning/ Wind,2,1975,1,0,0,155,Hail/Storms
+588,5,Hail/ Lightning/ Wind,2,1975,1,0,0,154,Hail/Storms
+589,2,Hail/ Lightning/ Wind,2,1975,1,0,0,152,Hail/Storms
+590,6,Winter Weather,1,1975,2,0,0,0,Winter Weather
+591,1,Winter Weather,1,1975,2,0,0,0,Winter Weather
+592,2,Winter Weather,1,1975,2,0,0,0,Winter Weather
+593,4,Winter Weather,1,1975,2,0,0,0,Winter Weather
+594,3,Winter Weather,1,1975,2,0,0,0,Winter Weather
+595,5,Winter Weather,1,1975,2,0,0,0,Winter Weather
+596,2,Tornado,1,1976,1,0,38,8490331,Storms
+597,1,Flooding,2,1976,2,7,27,2620856,Flooding
+598,1,Flooding/ Severe Storm/Thunder Storm,4,1976,2,0,4,1375553,Flooding/Storms
+599,1,Flooding/ Severe Storm/Thunder Storm,4,1976,1,0,0,858306,Flooding/Storms
+600,4,Tornado,2,1976,1,0,37,835955,Storms
+601,3,Tornado,2,1976,1,12,37,834766,Storms
+602,5,Wind,1,1976,1,0,1,360291,Wind
+603,2,Wind,1,1976,1,0,3,328027,Wind
+604,4,Wind,1,1976,1,0,2,314421,Wind
+605,4,Severe Storm/Thunder Storm/ Wind,1,1976,1,0,0,203513,Storms
+606,2,Severe Storm/Thunder Storm/ Wind,1,1976,1,0,0,201888,Storms
+607,4,Flooding,4,1976,11,0,0,188302,Flooding
+608,1,Flooding,4,1976,11,0,0,176500,Flooding
+609,5,Flooding,4,1976,11,0,0,173967,Flooding
+610,6,Flooding,4,1976,11,0,0,172485,Flooding
+611,2,Flooding,4,1976,11,0,0,161269,Flooding
+612,3,Flooding,4,1976,11,0,0,159925,Flooding
+613,4,Tornado,1,1976,1,0,0,86425,Storms
+614,1,Severe Storm/Thunder Storm/ Wind,3,1976,1,0,0,86377,Storms
+615,2,Hail,2,1976,1,0,0,84958,Hail
+616,1,Lightning,2,1976,1,0,0,41654,Lightning
+617,4,Lightning/ Wind,4,1976,1,0,0,24087,Wind
+618,2,Lightning/ Wind,4,1976,1,0,0,23350,Wind
+619,3,Lightning/ Wind,4,1976,1,0,0,23321,Wind
+620,5,Lightning/ Wind,4,1976,1,0,0,22049,Wind
+621,1,Hail/ Lightning/ Wind,2,1976,1,0,0,9483,Hail/Storms
+622,4,Hail/ Lightning/ Wind,2,1976,1,0,0,9280,Hail/Storms
+623,5,Hail/ Lightning/ Wind,2,1976,1,0,0,7711,Hail/Storms
+624,2,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1976,1,0,0,7659,Lightning/Storms
+625,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1976,2,0,0,5899,Lightning/Storms
+626,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1976,1,0,0,5836,Lightning/Storms
+627,1,Wind,1,1976,1,0,0,5605,Wind
+628,3,Severe Storm/Thunder Storm,2,1976,2,0,0,4194,Storms
+629,3,Flooding,3,1976,2,0,0,3981,Flooding
+630,3,Severe Storm/Thunder Storm,2,1976,1,0,0,3905,Storms
+631,2,Severe Storm/Thunder Storm/ Wind,4,1976,1,0,2,3730,Storms
+632,3,Severe Storm/Thunder Storm/ Wind,4,1976,1,0,2,3605,Storms
+633,5,Severe Storm/Thunder Storm/ Wind,4,1976,1,0,1,3258,Storms
+634,4,Severe Storm/Thunder Storm/ Wind,4,1976,1,0,3,3200,Storms
+635,1,Heat,1,1976,29,0,0,1830,Drought/Heat
+636,6,Heat,1,1976,29,0,0,1808,Drought/Heat
+637,3,Heat,1,1976,29,0,0,1804,Drought/Heat
+638,2,Heat,1,1976,29,0,0,1743,Drought/Heat
+639,5,Heat,1,1976,29,0,0,1612,Drought/Heat
+640,4,Heat,1,1976,29,0,0,1596,Drought/Heat
+641,3,Hail,2,1976,1,0,0,857,Hail
+642,4,Tornado,4,1977,1,0,78,7364839,Storms
+643,1,Flooding/ Severe Storm/Thunder Storm,4,1977,2,0,0,399192,Flooding/Storms
+644,3,Tornado,2,1977,1,0,0,86409,Storms
+645,2,Severe Storm/Thunder Storm,2,1977,1,0,0,84610,Storms
+646,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1977,1,0,0,78261,Hail/Storms
+647,1,Hail/ Lightning/ Wind,2,1977,1,0,0,42694,Hail/Storms
+648,1,Flooding,4,1977,2,0,0,28332,Flooding
+649,4,Lightning/ Wind,3,1977,1,0,0,18752,Wind
+650,2,Lightning/ Wind,3,1977,1,0,0,18730,Wind
+651,6,Lightning/ Wind,3,1977,1,0,0,18473,Wind
+652,3,Lightning/ Wind,3,1977,1,0,0,18458,Wind
+653,1,Drought/ Heat,3,1977,31,0,0,18427,Drought/Heat
+654,5,Drought/ Heat,3,1977,31,0,0,17306,Drought/Heat
+655,3,Drought/ Heat,3,1977,31,0,0,17161,Drought/Heat
+656,2,Drought/ Heat,3,1977,31,0,0,16348,Drought/Heat
+657,5,Lightning/ Wind,3,1977,1,0,0,16257,Wind
+658,6,Drought/ Heat,3,1977,31,0,0,16050,Drought/Heat
+659,4,Drought/ Heat,3,1977,31,0,0,15759,Drought/Heat
+660,1,Lightning/ Wind,3,1977,1,0,0,15730,Wind
+661,3,Wind,2,1977,1,0,0,8681,Wind
+662,1,Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,8565,Storms
+663,5,Hail/ Lightning/ Wind,2,1977,1,0,0,7214,Hail/Storms
+664,1,Severe Storm/Thunder Storm,3,1977,1,0,3,6229,Storms
+665,1,Flooding/ Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,3960,Flooding/Storms
+666,3,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,3787,Storms
+667,2,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,1,3783,Storms
+668,5,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,2,3726,Storms
+669,2,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,3704,Storms
+670,3,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,2,3556,Storms
+671,5,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,3415,Storms
+672,4,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,2,3303,Storms
+673,4,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,3220,Storms
+674,6,Hail/ Lightning/ Wind,2,1977,1,0,2,1883,Hail/Storms
+675,3,Wind,2,1977,1,0,0,1878,Wind
+676,3,Hail/ Lightning/ Wind,2,1977,1,0,2,1864,Hail/Storms
+677,3,Winter Weather,1,1977,31,0,0,1853,Winter Weather
+678,4,Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,1838,Storms
+679,6,Winter Weather,1,1977,31,0,0,1820,Winter Weather
+680,1,Hail/ Lightning/ Wind,2,1977,1,0,3,1819,Hail/Storms
+681,4,Winter Weather,1,1977,31,0,0,1818,Winter Weather
+682,2,Wind,2,1977,1,0,0,1816,Wind
+683,4,Hail/ Lightning/ Wind,2,1977,1,0,2,1814,Hail/Storms
+684,6,Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,1802,Storms
+685,2,Winter Weather,1,1977,31,0,0,1781,Winter Weather
+686,3,Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,1764,Storms
+687,6,Winter Weather,1,1977,31,0,0,1761,Winter Weather
+688,1,Wind,2,1977,1,0,0,1752,Wind
+689,5,Winter Weather,1,1977,31,0,0,1733,Winter Weather
+690,2,Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,1724,Storms
+691,2,Hail/ Lightning/ Wind,2,1977,1,0,0,1722,Hail/Storms
+692,6,Wind,2,1977,1,0,0,1705,Wind
+693,2,Winter Weather,1,1977,31,0,0,1670,Winter Weather
+694,5,Wind,2,1977,1,0,0,1670,Wind
+695,1,Winter Weather,1,1977,31,0,0,1623,Winter Weather
+696,5,Winter Weather,1,1977,31,0,0,1621,Winter Weather
+697,4,Winter Weather,1,1977,31,0,0,1619,Winter Weather
+698,5,Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,1608,Storms
+699,3,Winter Weather,1,1977,31,0,0,1599,Winter Weather
+700,5,Hail/ Lightning/ Wind,2,1977,1,0,0,1596,Hail/Storms
+701,4,Wind,2,1977,1,0,0,1575,Wind
+702,1,Severe Storm/Thunder Storm/ Wind,3,1977,1,0,0,1562,Storms
+703,1,Winter Weather,1,1977,31,0,0,1557,Winter Weather
+704,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1977,1,0,0,739,Hail/Storms
+705,1,Severe Storm/Thunder Storm,4,1977,1,0,0,642,Storms
+706,2,Wind,1,1977,1,0,0,184,Wind
+707,2,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,184,Storms
+708,4,Severe Storm/Thunder Storm,4,1977,1,0,0,184,Storms
+709,1,Wind,1,1977,1,0,0,181,Wind
+710,4,Wind,1,1977,1,0,0,181,Wind
+711,2,Severe Storm/Thunder Storm,4,1977,1,0,0,180,Storms
+712,6,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,178,Storms
+713,3,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,178,Storms
+714,1,Severe Storm/Thunder Storm,4,1977,1,0,0,177,Storms
+715,4,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,174,Storms
+716,5,Wind,1,1977,1,0,0,171,Wind
+717,5,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,171,Storms
+718,3,Wind,1,1977,1,0,0,169,Wind
+719,3,Severe Storm/Thunder Storm,4,1977,1,0,0,169,Storms
+720,5,Severe Storm/Thunder Storm,4,1977,1,0,0,168,Storms
+721,6,Severe Storm/Thunder Storm,4,1977,1,0,0,167,Storms
+722,1,Severe Storm/Thunder Storm/ Wind,1,1977,1,0,0,161,Storms
+723,6,Wind,1,1977,1,0,0,159,Wind
+724,6,Tornado,2,1978,1,0,0,4160753,Storms
+725,1,Flooding/ Severe Storm/Thunder Storm,3,1978,2,0,0,2036585,Flooding/Storms
+726,6,Flooding/ Wind,1,1978,2,0,0,187802,Wind
+727,2,Flooding/ Wind,1,1978,2,0,0,184287,Wind
+728,4,Flooding/ Wind,1,1978,2,0,0,179394,Wind
+729,3,Flooding/ Wind,1,1978,2,0,0,169263,Wind
+730,1,Flooding/ Wind,1,1978,2,0,0,167420,Wind
+731,5,Flooding/ Wind,1,1978,2,0,0,161337,Wind
+732,3,Severe Storm/Thunder Storm,2,1978,1,0,0,85886,Storms
+733,4,Severe Storm/Thunder Storm/ Wind,2,1978,1,0,0,77191,Storms
+734,4,Tornado,2,1978,1,0,0,74250,Storms
+735,2,Wind,1,1978,2,0,0,62197,Wind
+736,1,Flooding,1,1978,6,0,0,17788,Flooding
+737,5,Flooding,1,1978,6,0,0,17698,Flooding
+738,6,Flooding,1,1978,6,0,0,17617,Flooding
+739,2,Flooding,1,1978,6,0,0,17543,Flooding
+740,3,Flooding,1,1978,6,0,0,16706,Flooding
+741,4,Flooding,1,1978,6,0,0,15590,Flooding
+742,4,Tornado,3,1978,1,0,0,7335,Storms
+743,4,Tornado,3,1978,1,0,0,7161,Storms
+744,2,Hail,1,1978,1,0,0,6711,Hail
+745,1,Winter Weather,1,1978,1,0,0,6151,Winter Weather
+746,1,Severe Storm/Thunder Storm,2,1978,1,0,0,6080,Storms
+747,1,Winter Weather,1,1978,2,0,0,5886,Winter Weather
+748,1,Hail,2,1978,1,0,0,5432,Hail
+749,4,Lightning,3,1978,1,26,13,4311,Lightning
+750,6,Drought/ Heat,4,1978,31,0,0,1823,Drought/Heat
+751,3,Drought/ Heat,4,1978,31,0,0,1796,Drought/Heat
+752,2,Drought/ Heat,4,1978,31,0,0,1762,Drought/Heat
+753,1,Drought/ Heat,4,1978,31,0,0,1635,Drought/Heat
+754,5,Drought/ Heat,4,1978,31,0,0,1589,Drought/Heat
+755,4,Drought/ Heat,4,1978,31,0,0,1553,Drought/Heat
+756,4,Drought,2,1978,13,0,0,184,Drought/Heat
+757,1,Drought,2,1978,13,0,0,181,Drought/Heat
+758,6,Drought,2,1978,13,0,0,166,Drought/Heat
+759,2,Drought,2,1978,13,0,0,162,Drought/Heat
+760,3,Drought,2,1978,13,0,0,159,Drought/Heat
+761,5,Drought,2,1978,13,0,0,157,Drought/Heat
+762,1,Hail/ Severe Storm/Thunder Storm,2,1978,1,0,0,45,Hail/Storms
+763,1,Tornado,1,1979,1,0,24,8174876,Storms
+764,2,Tornado,3,1979,1,0,0,7436965,Storms
+765,5,Hurricane/Tropical Storm,3,1979,2,0,0,3774487,Storms
+766,2,Hurricane/Tropical Storm,3,1979,2,0,0,3696605,Storms
+767,4,Hurricane/Tropical Storm,3,1979,2,0,0,3515342,Storms
+768,3,Hurricane/Tropical Storm,3,1979,2,0,0,3119732,Storms
+769,5,Winter Weather,1,1979,1,0,0,2790471,Winter Weather
+770,3,Winter Weather,1,1979,1,0,0,2666034,Winter Weather
+771,6,Winter Weather,1,1979,1,0,0,2648861,Winter Weather
+772,1,Winter Weather,1,1979,1,0,0,2527329,Winter Weather
+773,4,Winter Weather,1,1979,1,0,0,2423499,Winter Weather
+774,3,Flooding/ Severe Storm/Thunder Storm,3,1979,1,0,0,831754,Flooding/Storms
+775,2,Tornado,3,1979,1,0,0,799178,Storms
+776,1,Flooding/ Severe Storm/Thunder Storm,2,1979,1,0,0,787131,Flooding/Storms
+777,2,Tornado,3,1979,1,0,0,759865,Storms
+778,1,Severe Storm/Thunder Storm,1,1979,1,0,15,253888,Storms
+779,6,Winter Weather,1,1979,2,0,0,188922,Winter Weather
+780,2,Winter Weather,1,1979,2,0,0,181789,Winter Weather
+781,4,Winter Weather,1,1979,2,0,0,173898,Winter Weather
+782,3,Winter Weather,1,1979,2,11,0,164870,Winter Weather
+783,1,Winter Weather,1,1979,2,0,0,163663,Winter Weather
+784,5,Winter Weather,1,1979,2,0,0,159907,Winter Weather
+785,2,Flooding,2,1979,3,0,0,119899,Flooding
+786,4,Tornado,2,1979,1,0,0,80559,Storms
+787,3,Severe Storm/Thunder Storm,3,1979,1,0,0,36275,Storms
+788,2,Coastal/ Hurricane/Tropical Storm/ Wind,2,1979,1,2,0,14394,Coastal
+789,6,Hail/ Severe Storm/Thunder Storm,2,1979,1,0,0,8250,Hail/Storms
+790,1,Hail/ Severe Storm/Thunder Storm,2,1979,1,0,0,7649,Hail/Storms
+791,1,Flooding,4,1979,1,0,0,2433,Flooding
+792,5,Tornado,3,1979,1,0,0,851,Storms
+793,4,Lightning,3,1979,1,12,0,0,Lightning
+794,1,Tornado,2,1980,1,0,30,4047411,Storms
+795,3,Tornado,2,1980,1,0,0,811305,Storms
+796,6,Flooding,1,1980,3,0,0,635168,Flooding
+797,4,Flooding,1,1980,3,0,0,624743,Flooding
+798,5,Severe Storm/Thunder Storm/ Wind,3,1980,1,11,15,260916,Storms
+799,3,Severe Storm/Thunder Storm/ Wind,3,1980,1,0,14,241973,Storms
+800,1,Lightning/ Wind,3,1980,1,0,0,207318,Wind
+801,1,Winter Weather,1,1980,2,0,0,187664,Winter Weather
+802,5,Winter Weather,1,1980,2,0,0,182082,Winter Weather
+803,2,Winter Weather,1,1980,2,0,0,181083,Winter Weather
+804,4,Winter Weather,1,1980,2,0,0,180600,Winter Weather
+805,3,Winter Weather,1,1980,2,0,0,169108,Winter Weather
+806,6,Winter Weather,1,1980,2,0,0,159546,Winter Weather
+807,1,Winter Weather,1,1980,1,0,0,129427,Winter Weather
+808,2,Wind,4,1980,3,1,1,114850,Wind
+809,5,Lightning,3,1980,1,0,0,83674,Lightning
+810,4,Tornado,3,1980,1,0,0,79656,Storms
+811,2,Wind,2,1980,1,0,0,77532,Wind
+812,2,Hail/ Severe Storm/Thunder Storm/ Wind,2,1980,1,0,0,74559,Hail/Storms
+813,2,Wind,3,1980,1,11,22,74361,Wind
+814,1,Lightning/ Wind,3,1980,1,0,12,28451,Wind
+815,4,Flooding,1,1980,17,0,0,18923,Flooding
+816,6,Winter Weather,1,1980,2,0,0,18905,Winter Weather
+817,4,Wind,1,1980,1,1,0,18504,Wind
+818,1,Wind,1,1980,1,1,0,18477,Wind
+819,3,Flooding,1,1980,17,0,0,18437,Flooding
+820,3,Winter Weather,1,1980,2,0,0,18211,Winter Weather
+821,2,Wind,1,1980,1,0,0,18065,Wind
+822,4,Flooding/ Wind,3,1980,1,0,0,17946,Wind
+823,5,Flooding,1,1980,17,0,0,17893,Flooding
+824,5,Wind,1,1980,1,1,0,17848,Wind
+825,1,Flooding/ Wind,3,1980,1,0,0,17729,Wind
+826,5,Flooding/ Wind,3,1980,1,0,0,17259,Wind
+827,5,Winter Weather,1,1980,2,0,0,17161,Winter Weather
+828,3,Flooding/ Wind,3,1980,1,0,0,17087,Wind
+829,1,Winter Weather,1,1980,2,0,0,17027,Winter Weather
+830,6,Flooding/ Wind,3,1980,1,0,0,16822,Wind
+831,2,Winter Weather,1,1980,2,0,0,16389,Winter Weather
+832,2,Flooding/ Wind,3,1980,1,0,0,16279,Wind
+833,6,Flooding,1,1980,17,0,0,16252,Flooding
+834,3,Wind,1,1980,1,2,0,16209,Wind
+835,1,Flooding,1,1980,17,0,0,15949,Flooding
+836,2,Flooding,1,1980,17,0,0,15830,Flooding
+837,4,Winter Weather,1,1980,2,0,0,15646,Winter Weather
+838,6,Wind,1,1980,1,0,0,15520,Wind
+839,1,Winter Weather,1,1980,1,0,0,14281,Winter Weather
+840,1,Winter Weather,1,1980,2,0,0,4421,Winter Weather
+841,2,Winter Weather,1,1980,2,0,0,4233,Winter Weather
+842,1,Winter Weather,1,1980,1,0,0,1682,Winter Weather
+843,2,Winter Weather,4,1980,3,0,0,686,Winter Weather
+844,4,Winter Weather,4,1980,1,0,0,394,Winter Weather
+845,1,Winter Weather,4,1980,1,0,0,381,Winter Weather
+846,3,Winter Weather,4,1980,1,0,0,380,Winter Weather
+847,5,Winter Weather,4,1980,1,0,0,378,Winter Weather
+848,2,Hurricane/Tropical Storm/ Severe Storm/Thunder Storm,3,1981,1,0,0,2381419,Storms
+849,2,Coastal/ Wind,1,1981,1,43,0,358928,Coastal
+850,3,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1981,1,0,5,196875,Lightning/Storms
+851,1,Winter Weather,4,1981,1,0,0,119996,Winter Weather
+852,2,Coastal/ Flooding,4,1981,4,0,0,113525,Coastal
+853,4,Tornado,3,1981,1,0,0,84530,Storms
+854,2,Severe Storm/Thunder Storm,3,1981,1,0,0,73680,Storms
+855,3,Lightning/ Severe Storm/Thunder Storm,3,1981,1,0,0,41470,Lightning/Storms
+856,5,Flooding,3,1981,1,0,0,25799,Flooding
+857,3,Flooding,3,1981,1,0,0,25339,Flooding
+858,4,Wind,1,1981,1,0,0,18821,Wind
+859,3,Wind,1,1981,1,0,0,18635,Wind
+860,2,Wind,1,1981,1,0,0,18530,Wind
+861,1,Wind,1,1981,1,0,0,16829,Wind
+862,6,Wind,1,1981,1,0,0,16827,Wind
+863,5,Wind,1,1981,1,0,0,16240,Wind
+864,1,Winter Weather,4,1981,1,0,0,12703,Winter Weather
+865,4,Lightning,2,1981,1,0,0,8233,Lightning
+866,3,Tornado,2,1981,1,0,0,7895,Storms
+867,2,Severe Storm/Thunder Storm,2,1981,1,0,0,7593,Storms
+868,4,Tornado,2,1981,1,0,0,7463,Storms
+869,4,Lightning,3,1981,1,10,10,7227,Lightning
+870,1,Severe Storm/Thunder Storm,2,1981,1,0,0,4273,Storms
+871,4,Tornado,1,1981,1,0,0,4227,Storms
+872,4,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1981,1,0,0,1098,Hail/Storms
+873,1,Winter Weather,1,1981,1,0,0,460,Winter Weather
+874,5,Wind,1,1981,1,6,0,0,Wind
+875,4,Wind,1,1981,1,7,0,0,Wind
+876,3,Heat,2,1981,1,11,0,0,Drought/Heat
+877,2,Coastal/ Severe Storm/Thunder Storm/ Wind,2,1982,2,0,0,10714814,Coastal
+878,2,Tornado,2,1982,1,0,93,3844506,Storms
+879,6,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,2,2111595,Hail/Storms
+880,5,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,2,2086077,Hail/Storms
+881,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,2,2072545,Hail/Storms
+882,4,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,3,2040841,Hail/Storms
+883,3,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,2,1802288,Hail/Storms
+884,1,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,2,1749513,Hail/Storms
+885,3,Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,0,780393,Lightning/Storms
+886,2,Tornado,2,1982,1,0,0,721503,Storms
+887,2,Severe Storm/Thunder Storm,4,1982,1,0,0,435018,Storms
+888,4,Lightning,3,1982,1,0,0,85093,Lightning
+889,1,Severe Storm/Thunder Storm,2,1982,1,0,0,82271,Storms
+890,2,Lightning/ Wind,2,1982,1,0,0,77460,Wind
+891,1,Lightning/ Severe Storm/Thunder Storm,3,1982,1,11,0,75098,Lightning/Storms
+892,1,Wind,2,1982,1,0,0,41728,Wind
+893,3,Winter Weather,1,1982,1,0,0,29457,Winter Weather
+894,1,Winter Weather,1,1982,1,0,0,29239,Winter Weather
+895,6,Winter Weather,1,1982,1,0,0,28647,Winter Weather
+896,5,Winter Weather,1,1982,1,0,0,28259,Winter Weather
+897,3,Winter Weather,1,1982,2,0,0,18917,Winter Weather
+898,6,Winter Weather,1,1982,2,0,0,18554,Winter Weather
+899,4,Winter Weather,1,1982,2,0,0,17970,Winter Weather
+900,2,Winter Weather,1,1982,2,0,0,17920,Winter Weather
+901,5,Winter Weather,1,1982,2,0,0,17321,Winter Weather
+902,1,Winter Weather,1,1982,2,0,0,16328,Winter Weather
+903,1,Flooding/ Severe Storm/Thunder Storm,2,1982,1,0,0,8593,Flooding/Storms
+904,4,Wind,3,1982,1,0,0,8403,Wind
+905,5,Severe Storm/Thunder Storm/ Wind,1,1982,1,0,0,7725,Storms
+906,4,Lightning,3,1982,1,0,23,7657,Lightning
+907,5,Lightning/ Wind,3,1982,1,0,0,7617,Wind
+908,5,Flooding/ Lightning,2,1982,1,0,0,4218,Flooding
+909,3,Flooding/ Lightning,2,1982,1,0,0,3997,Flooding
+910,4,Flooding/ Lightning,2,1982,1,0,0,3973,Flooding
+911,2,Flooding/ Lightning,2,1982,1,0,0,3950,Flooding
+912,3,Flooding,1,1982,14,0,0,3828,Flooding
+913,1,Flooding,1,1982,14,0,0,3516,Flooding
+914,4,Flooding,1,1982,14,0,0,3367,Flooding
+915,2,Hail/ Severe Storm/Thunder Storm,2,1982,1,0,0,3013,Hail/Storms
+916,1,Hail/ Severe Storm/Thunder Storm,2,1982,1,0,0,2868,Hail/Storms
+917,5,Winter Weather,1,1982,1,0,1,1848,Winter Weather
+918,6,Winter Weather,1,1982,1,0,1,1841,Winter Weather
+919,2,Winter Weather,1,1982,1,0,3,1840,Winter Weather
+920,3,Winter Weather,1,1982,1,12,1,1740,Winter Weather
+921,1,Winter Weather,1,1982,1,0,1,1722,Winter Weather
+922,4,Winter Weather,1,1982,1,0,1,1676,Winter Weather
+923,1,Winter Weather,4,1982,1,0,0,1230,Winter Weather
+924,1,Hail,2,1982,1,0,0,769,Hail
+925,4,Tornado,3,1982,1,0,0,737,Storms
+926,4,Hail/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,0,232,Hail/Storms
+927,3,Hail/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,0,227,Hail/Storms
+928,1,Hail/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,0,226,Hail/Storms
+929,5,Hail/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,0,212,Hail/Storms
+930,2,Hail/ Severe Storm/Thunder Storm/ Wind,2,1982,1,0,0,199,Hail/Storms
+931,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,2,0,0,170,Hail/Storms
+932,1,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,2,0,0,168,Hail/Storms
+933,6,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,2,0,0,166,Hail/Storms
+934,5,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,2,0,0,164,Hail/Storms
+935,3,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,2,0,0,156,Hail/Storms
+936,4,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1982,2,0,0,155,Hail/Storms
+937,6,Winter Weather,1,1982,1,0,0,0,Winter Weather
+938,6,Winter Weather,2,1982,1,0,0,0,Winter Weather
+939,1,Winter Weather,1,1982,1,0,0,0,Winter Weather
+940,1,Winter Weather,2,1982,1,0,0,0,Winter Weather
+941,2,Winter Weather,1,1982,1,0,0,0,Winter Weather
+942,2,Winter Weather,2,1982,1,0,0,0,Winter Weather
+943,4,Winter Weather,1,1982,1,0,0,0,Winter Weather
+944,4,Winter Weather,2,1982,1,0,0,0,Winter Weather
+945,3,Winter Weather,1,1982,1,0,0,0,Winter Weather
+946,3,Winter Weather,2,1982,1,0,0,0,Winter Weather
+947,5,Winter Weather,1,1982,1,0,0,0,Winter Weather
+948,5,Winter Weather,2,1982,1,0,0,0,Winter Weather
+949,1,Lightning,3,1982,1,11,0,0,Lightning
+950,3,Severe Storm/Thunder Storm/ Wind,2,1982,1,0,0,0,Storms
+951,6,Winter Weather,2,1982,2,0,0,0,Winter Weather
+952,1,Winter Weather,2,1982,2,0,0,0,Winter Weather
+953,2,Winter Weather,2,1982,2,0,0,0,Winter Weather
+954,4,Winter Weather,2,1982,2,0,0,0,Winter Weather
+955,3,Winter Weather,2,1982,2,0,0,0,Winter Weather
+956,5,Winter Weather,2,1982,2,0,0,0,Winter Weather
+957,5,Lightning,2,1982,1,0,12,0,Lightning
+958,4,Tornado,2,1983,1,0,0,1937312,Storms
+959,2,Coastal/ Severe Storm/Thunder Storm,1,1983,2,0,0,1203391,Coastal
+960,2,Coastal/ Severe Storm/Thunder Storm/ Wind,1,1983,2,0,0,1201693,Coastal
+961,4,Lightning,3,1983,1,0,12,799971,Lightning
+962,4,Tornado,2,1983,1,0,23,766919,Storms
+963,2,Flooding,1,1983,1,0,0,550544,Flooding
+964,6,Coastal/ Flooding/ Severe Storm/Thunder Storm/ Wind,1,1983,1,0,0,187458,Coastal
+965,6,Winter Weather,4,1983,1,7,0,187458,Winter Weather
+966,5,Winter Weather,4,1983,1,7,0,185321,Winter Weather
+967,4,Winter Weather,4,1983,1,7,0,185028,Winter Weather
+968,3,Winter Weather,4,1983,1,7,0,183426,Winter Weather
+969,3,Coastal/ Flooding/ Severe Storm/Thunder Storm/ Wind,1,1983,1,0,0,182099,Coastal
+970,2,Coastal/ Flooding/ Severe Storm/Thunder Storm/ Wind,1,1983,1,0,0,178998,Coastal
+971,4,Coastal/ Flooding/ Severe Storm/Thunder Storm/ Wind,1,1983,1,0,0,177878,Coastal
+972,1,Winter Weather,4,1983,1,6,0,169332,Winter Weather
+973,1,Coastal/ Flooding/ Severe Storm/Thunder Storm/ Wind,1,1983,1,0,0,167661,Coastal
+974,5,Coastal/ Flooding/ Severe Storm/Thunder Storm/ Wind,1,1983,1,0,0,157926,Coastal
+975,2,Winter Weather,4,1983,1,6,0,156720,Winter Weather
+976,1,Winter Weather,1,1983,2,0,0,127776,Winter Weather
+977,5,Lightning/ Wind,3,1983,1,0,0,82779,Wind
+978,4,Wind,1,1983,1,0,0,78895,Wind
+979,2,Flooding,1,1983,14,0,0,78820,Flooding
+980,1,Severe Storm/Thunder Storm/ Wind,3,1983,1,0,0,77658,Storms
+981,4,Tornado,3,1983,1,0,0,71968,Storms
+982,5,Severe Storm/Thunder Storm/ Wind,4,1983,1,0,0,46885,Storms
+983,4,Severe Storm/Thunder Storm/ Wind,4,1983,1,0,0,45067,Storms
+984,3,Severe Storm/Thunder Storm/ Wind,4,1983,1,0,0,44948,Storms
+985,3,Wind,4,1983,1,0,0,35784,Wind
+986,5,Severe Storm/Thunder Storm/ Wind,4,1983,2,0,0,30772,Storms
+987,1,Severe Storm/Thunder Storm/ Wind,4,1983,2,0,0,30763,Storms
+988,6,Severe Storm/Thunder Storm/ Wind,4,1983,2,0,0,29919,Storms
+989,4,Severe Storm/Thunder Storm/ Wind,4,1983,2,0,0,29016,Storms
+990,3,Severe Storm/Thunder Storm/ Wind,4,1983,2,0,0,28011,Storms
+991,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1983,1,0,12,27838,Hail/Storms
+992,3,Lightning/ Wind,3,1983,1,0,0,24595,Wind
+993,5,Lightning/ Wind,3,1983,1,0,0,24047,Wind
+994,1,Flooding/ Wind,4,1983,1,0,0,21953,Wind
+995,3,Flooding/ Wind,4,1983,1,0,0,21396,Wind
+996,1,Lightning/ Wind,3,1983,1,0,0,21192,Wind
+997,6,Flooding/ Wind,4,1983,1,0,0,21126,Wind
+998,4,Lightning/ Wind,3,1983,1,0,0,21036,Wind
+999,5,Flooding/ Wind,4,1983,1,0,0,20876,Wind
+1000,2,Winter Weather,4,1983,2,1,0,18935,Winter Weather
+1001,6,Winter Weather,4,1983,2,1,0,18892,Winter Weather
+1002,6,Lightning/ Wind,3,1983,1,0,0,18847,Wind
+1003,5,Winter Weather,1,1983,1,0,0,18759,Winter Weather
+1004,4,Flooding/ Wind,4,1983,1,0,0,18572,Wind
+1005,2,Winter Weather,1,1983,1,0,0,18218,Winter Weather
+1006,4,Lightning/ Wind,3,1983,1,0,0,18113,Wind
+1007,4,Winter Weather,1,1983,1,0,0,18032,Winter Weather
+1008,1,Winter Weather,1,1983,1,0,0,17366,Winter Weather
+1009,3,Winter Weather,4,1983,2,2,0,17307,Winter Weather
+1010,1,Winter Weather,4,1983,2,2,0,17235,Winter Weather
+1011,1,Lightning/ Wind,3,1983,1,0,0,16870,Wind
+1012,3,Winter Weather,1,1983,1,0,0,16837,Winter Weather
+1013,2,Lightning/ Wind,3,1983,1,0,0,16648,Wind
+1014,6,Winter Weather,1,1983,1,0,0,16427,Winter Weather
+1015,3,Lightning/ Wind,3,1983,1,0,0,16123,Wind
+1016,5,Lightning/ Wind,3,1983,1,0,0,16069,Wind
+1017,4,Winter Weather,4,1983,2,0,0,15980,Winter Weather
+1018,5,Winter Weather,4,1983,2,3,0,15678,Winter Weather
+1019,5,Lightning/ Tornado/ Wind,3,1983,1,0,0,8510,Lightning/Storms
+1020,3,Lightning,3,1983,1,0,25,8397,Lightning
+1021,2,Severe Storm/Thunder Storm/ Wind,1,1983,1,0,0,8319,Storms
+1022,4,Wind,3,1983,1,0,0,8319,Wind
+1023,2,Flooding/ Severe Storm/Thunder Storm,1,1983,1,0,0,7717,Flooding/Storms
+1024,4,Hail/ Severe Storm/Thunder Storm/ Wind,2,1983,1,0,0,7201,Hail/Storms
+1025,1,Severe Storm/Thunder Storm/ Wind,3,1983,1,0,0,7186,Storms
+1026,1,Winter Weather,4,1983,1,0,0,6557,Winter Weather
+1027,2,Wind/ Winter Weather,1,1983,1,0,0,1877,Winter Weather
+1028,1,Wind/ Winter Weather,1,1983,1,0,0,1851,Winter Weather
+1029,3,Wind/ Winter Weather,1,1983,1,0,0,1812,Winter Weather
+1030,6,Wind/ Winter Weather,1,1983,1,0,0,1613,Winter Weather
+1031,4,Wind/ Winter Weather,1,1983,1,0,0,1579,Winter Weather
+1032,5,Wind/ Winter Weather,1,1983,1,0,0,1575,Winter Weather
+1033,6,Winter Weather,2,1983,2,0,0,0,Winter Weather
+1034,1,Winter Weather,2,1983,2,0,0,0,Winter Weather
+1035,2,Winter Weather,2,1983,2,0,0,0,Winter Weather
+1036,4,Winter Weather,2,1983,2,0,0,0,Winter Weather
+1037,3,Winter Weather,2,1983,2,0,0,0,Winter Weather
+1038,5,Winter Weather,2,1983,2,0,0,0,Winter Weather
+1039,5,Lightning,3,1983,1,11,0,0,Lightning
+1040,2,Hurricane/Tropical Storm,3,1984,5,0,0,1335526,Storms
+1041,5,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,0,867738,Hail/Storms
+1042,3,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,38,845070,Hail/Storms
+1043,4,Flooding/ Severe Storm/Thunder Storm,3,1984,1,0,0,834449,Flooding/Storms
+1044,1,Flooding/ Lightning/ Wind,3,1984,1,0,24,822956,Flooding
+1045,4,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,0,801635,Hail/Storms
+1046,5,Lightning,1,1984,1,0,0,772785,Lightning
+1047,1,Hail/ Wind,1,1984,1,0,0,769139,Hail/Storms
+1048,4,Flooding/ Severe Storm/Thunder Storm,2,1984,1,11,0,745519,Flooding/Storms
+1049,2,Tornado,1,1984,1,0,89,740288,Storms
+1050,1,Lightning,3,1984,1,0,0,735215,Lightning
+1051,3,Flooding/ Lightning/ Severe Storm/Thunder Storm,2,1984,1,0,36,396894,Flooding/Storms
+1052,3,Hail,1,1984,1,0,0,373116,Hail
+1053,2,Flooding/ Wind,4,1984,13,0,0,140986,Wind
+1054,1,Flooding/ Severe Storm/Thunder Storm,3,1984,1,0,0,83722,Flooding/Storms
+1055,3,Wind,2,1984,1,0,0,83563,Wind
+1056,4,Wind,2,1984,1,0,0,80258,Wind
+1057,1,Flooding/ Severe Storm/Thunder Storm,2,1984,1,0,0,79989,Flooding/Storms
+1058,3,Hail,2,1984,1,0,0,78063,Hail
+1059,5,Lightning,2,1984,1,0,0,76168,Lightning
+1060,5,Lightning,3,1984,1,0,0,76026,Lightning
+1061,1,Hail/ Wind,2,1984,1,0,0,73085,Hail/Storms
+1062,1,Flooding,3,1984,2,0,0,72174,Flooding
+1063,3,Lightning,3,1984,1,0,0,40087,Lightning
+1064,3,Winter Weather,1,1984,1,0,0,30353,Winter Weather
+1065,1,Winter Weather,1,1984,1,0,0,28137,Winter Weather
+1066,2,Winter Weather,1,1984,1,0,0,27141,Winter Weather
+1067,5,Flooding/ Lightning/ Severe Storm/Thunder Storm,3,1984,1,0,0,27105,Flooding/Storms
+1068,2,Flooding/ Lightning/ Severe Storm/Thunder Storm,3,1984,1,0,0,26985,Flooding/Storms
+1069,4,Flooding/ Lightning/ Severe Storm/Thunder Storm,3,1984,1,0,0,26903,Flooding/Storms
+1070,5,Winter Weather,1,1984,1,0,0,25998,Winter Weather
+1071,3,Flooding/ Lightning/ Severe Storm/Thunder Storm,3,1984,1,0,0,25091,Flooding/Storms
+1072,3,Flooding/ Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,18907,Flooding/Storms
+1073,2,Flooding/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,3,18881,Flooding/Storms
+1074,1,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1984,1,0,0,18855,Hail/Storms
+1075,5,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1984,1,0,0,18397,Hail/Storms
+1076,5,Flooding/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,1,18368,Flooding/Storms
+1077,2,Flooding/ Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,18167,Flooding/Storms
+1078,1,Flooding/ Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,18120,Flooding/Storms
+1079,6,Flooding/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,2,17610,Flooding/Storms
+1080,4,Flooding/ Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,17574,Flooding/Storms
+1081,3,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1984,1,0,0,17533,Hail/Storms
+1082,1,Flooding/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,2,17145,Flooding/Storms
+1083,6,Flooding/ Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,16953,Flooding/Storms
+1084,4,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1984,1,0,0,16817,Hail/Storms
+1085,4,Flooding/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,1,16667,Flooding/Storms
+1086,6,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1984,1,0,0,16446,Hail/Storms
+1087,3,Flooding/ Severe Storm/Thunder Storm/ Wind,3,1984,1,0,2,16178,Flooding/Storms
+1088,5,Flooding/ Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,16167,Flooding/Storms
+1089,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,2,1984,1,0,0,16150,Hail/Storms
+1090,1,Flooding/ Severe Storm/Thunder Storm,1,1984,2,0,0,12429,Flooding/Storms
+1091,1,Flooding/ Severe Storm/Thunder Storm,1,1984,1,0,0,11847,Flooding/Storms
+1092,4,Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,8478,Storms
+1093,5,Wind,2,1984,1,0,0,8431,Wind
+1094,4,Flooding/ Wind,2,1984,1,0,0,8368,Wind
+1095,5,Hail/ Wind,1,1984,1,0,0,8279,Hail/Storms
+1096,1,Lightning,3,1984,1,0,0,8042,Lightning
+1097,3,Severe Storm/Thunder Storm/ Wind,1,1984,1,0,0,7965,Storms
+1098,2,Lightning,3,1984,1,0,0,7952,Lightning
+1099,5,Hail,2,1984,1,0,0,7886,Hail
+1100,4,Wind,3,1984,1,0,0,7750,Wind
+1101,3,Hail,1,1984,1,0,0,7615,Hail
+1102,1,Flooding/ Hail,2,1984,1,0,0,7567,Flooding
+1103,3,Lightning,3,1984,1,0,22,7479,Lightning
+1104,1,Lightning/ Wind,2,1984,1,0,0,7350,Wind
+1105,4,Lightning,3,1984,1,0,0,7268,Lightning
+1106,2,Hail,2,1984,1,0,0,7265,Hail
+1107,1,Winter Weather,1,1984,1,0,0,4753,Winter Weather
+1108,1,Hail/ Wind,2,1984,1,0,0,2900,Hail/Storms
+1109,5,Hail/ Wind,2,1984,1,0,0,2767,Hail/Storms
+1110,4,Hail/ Wind,2,1984,1,0,0,2739,Hail/Storms
+1111,3,Hail/ Wind,2,1984,1,0,0,2647,Hail/Storms
+1112,4,Wind,1,1984,1,0,0,1801,Wind
+1113,6,Wind,1,1984,1,0,0,1757,Wind
+1114,3,Wind,1,1984,1,0,0,1752,Wind
+1115,1,Wind,1,1984,1,0,0,1734,Wind
+1116,2,Wind,1,1984,1,0,0,1659,Wind
+1117,5,Wind,1,1984,1,0,0,1641,Wind
+1118,1,Wind,4,1984,1,0,0,1593,Wind
+1119,1,Winter Weather,4,1984,2,0,0,1389,Winter Weather
+1120,1,Severe Storm/Thunder Storm,1,1984,2,0,0,1367,Storms
+1121,3,Hail,2,1984,1,0,0,761,Hail
+1122,6,Drought,2,1984,20,0,0,0,Drought/Heat
+1123,1,Drought,2,1984,20,0,0,0,Drought/Heat
+1124,2,Drought,2,1984,20,0,0,0,Drought/Heat
+1125,4,Drought,2,1984,20,0,0,0,Drought/Heat
+1126,3,Drought,2,1984,20,0,0,0,Drought/Heat
+1127,5,Drought,2,1984,20,0,0,0,Drought/Heat
+1128,3,Hail,2,1984,1,0,0,0,Hail
+1129,2,Coastal/ Hurricane/Tropical Storm/ Severe Storm/Thunder Storm/ Wind,3,1985,2,0,0,9541131,Coastal
+1130,2,Hail/ Tornado,2,1985,1,0,0,858623,Hail/Storms
+1131,2,Tornado,4,1985,1,0,0,829535,Storms
+1132,2,Hail/ Tornado,2,1985,1,0,0,770724,Hail/Storms
+1133,5,Tornado,4,1985,1,0,0,715162,Storms
+1134,2,Winter Weather,1,1985,5,4,0,187923,Winter Weather
+1135,3,Wildfire,1,1985,21,0,0,184098,Wildfire
+1136,4,Winter Weather,1,1985,5,4,0,182530,Winter Weather
+1137,5,Winter Weather,1,1985,5,4,0,181806,Winter Weather
+1138,4,Wildfire,1,1985,21,0,0,177378,Wildfire
+1139,1,Wildfire,1,1985,21,0,0,176069,Wildfire
+1140,6,Wildfire,1,1985,21,0,0,175879,Wildfire
+1141,3,Winter Weather,1,1985,5,4,0,175397,Winter Weather
+1142,5,Wildfire,1,1985,21,0,0,170797,Wildfire
+1143,1,Winter Weather,1,1985,5,3,0,166696,Winter Weather
+1144,6,Winter Weather,1,1985,5,3,0,163129,Winter Weather
+1145,2,Wildfire,1,1985,21,0,0,162802,Wildfire
+1146,1,Hail/ Wind,2,1985,1,0,0,140285,Hail/Storms
+1147,1,Flooding/ Severe Storm/Thunder Storm,3,1985,3,0,0,90472,Flooding/Storms
+1148,5,Lightning,3,1985,1,0,0,87178,Lightning
+1149,4,Severe Storm/Thunder Storm/ Wind,2,1985,1,0,0,82160,Storms
+1150,1,Flooding/ Hail/ Wind,2,1985,1,0,0,76977,Flooding
+1151,5,Lightning,3,1985,1,0,0,74773,Lightning
+1152,2,Lightning,3,1985,1,0,0,74639,Lightning
+1153,2,Flooding,4,1985,1,0,0,74282,Flooding
+1154,1,Wind,3,1985,1,0,0,72839,Wind
+1155,1,Wind,2,1985,1,0,0,72673,Wind
+1156,3,Lightning,3,1985,1,0,0,72602,Lightning
+1157,2,Hurricane/Tropical Storm,4,1985,1,0,0,72094,Storms
+1158,5,Hail/ Severe Storm/Thunder Storm/ Wind/ Winter Weather,1,1985,2,0,0,18874,Hail/Storms
+1159,1,Hail/ Wind,2,1985,1,0,0,18564,Hail/Storms
+1160,3,Hail/ Severe Storm/Thunder Storm/ Wind/ Winter Weather,1,1985,2,0,0,18341,Hail/Storms
+1161,2,Hail/ Wind,2,1985,1,0,0,17886,Hail/Storms
+1162,6,Hail/ Wind,2,1985,1,0,0,17764,Hail/Storms
+1163,4,Hail/ Severe Storm/Thunder Storm/ Wind/ Winter Weather,1,1985,2,0,0,17316,Hail/Storms
+1164,5,Hail/ Wind,2,1985,1,0,0,16775,Hail/Storms
+1165,4,Hail/ Wind,2,1985,1,0,0,16389,Hail/Storms
+1166,2,Hail/ Severe Storm/Thunder Storm/ Wind/ Winter Weather,1,1985,2,0,0,16188,Hail/Storms
+1167,3,Hail/ Wind,2,1985,1,0,0,16152,Hail/Storms
+1168,1,Hail/ Severe Storm/Thunder Storm/ Wind/ Winter Weather,1,1985,2,0,0,16033,Hail/Storms
+1169,6,Hail/ Severe Storm/Thunder Storm/ Wind/ Winter Weather,1,1985,2,0,0,15957,Hail/Storms
+1170,1,Winter Weather,1,1985,1,0,0,14424,Winter Weather
+1171,2,Hail/ Wind,2,1985,1,0,0,14298,Hail/Storms
+1172,5,Hail/ Wind,2,1985,1,0,0,10832,Hail/Storms
+1173,1,Flooding/ Severe Storm/Thunder Storm,1,1985,1,0,0,8114,Flooding/Storms
+1174,5,Flooding,3,1985,1,0,0,7454,Flooding
+1175,1,Winter Weather,1,1985,1,0,0,4265,Winter Weather
+1176,4,Hail,2,1985,1,0,0,4160,Hail
+1177,5,Hail,2,1985,1,0,0,3944,Hail
+1178,3,Hail,2,1985,1,0,0,3762,Hail
+1179,3,Winter Weather,4,1985,1,0,0,1869,Winter Weather
+1180,2,Winter Weather,4,1985,1,0,0,1806,Winter Weather
+1181,1,Winter Weather,1,1985,1,0,0,1787,Winter Weather
+1182,4,Winter Weather,4,1985,1,0,0,1783,Winter Weather
+1183,2,Wildfire,2,1985,30,0,0,1782,Wildfire
+1184,1,Wildfire,2,1985,30,0,0,1770,Wildfire
+1185,1,Winter Weather,4,1985,1,0,0,1764,Winter Weather
+1186,3,Wildfire,2,1985,30,0,0,1669,Wildfire
+1187,4,Wildfire,2,1985,30,0,0,1662,Wildfire
+1188,5,Winter Weather,4,1985,1,0,0,1649,Winter Weather
+1189,6,Winter Weather,4,1985,1,0,0,1620,Winter Weather
+1190,5,Wildfire,2,1985,30,0,0,1605,Wildfire
+1191,6,Wildfire,2,1985,30,0,0,1549,Wildfire
+1192,2,Drought,1,1985,31,0,0,1144,Drought/Heat
+1193,4,Hail,3,1985,1,0,0,788,Hail
+1194,2,Hail,1,1985,1,0,0,731,Hail
+1195,4,Wind,3,1985,1,0,0,730,Wind
+1196,1,Winter Weather,1,1985,1,0,0,401,Winter Weather
+1197,6,Winter Weather,1,1985,1,0,0,0,Winter Weather
+1198,1,Winter Weather,1,1985,1,0,0,0,Winter Weather
+1199,2,Winter Weather,1,1985,1,0,0,0,Winter Weather
+1200,4,Winter Weather,1,1985,1,0,0,0,Winter Weather
+1201,3,Winter Weather,1,1985,1,0,0,0,Winter Weather
+1202,5,Winter Weather,1,1985,1,0,0,0,Winter Weather
+1203,1,Winter Weather,2,1985,1,0,0,0,Winter Weather
+1204,6,Heat,2,1985,7,0,0,0,Drought/Heat
+1205,1,Heat,2,1985,7,0,0,0,Drought/Heat
+1206,2,Heat,2,1985,7,0,0,0,Drought/Heat
+1207,4,Heat,2,1985,7,0,0,0,Drought/Heat
+1208,3,Heat,2,1985,7,0,0,0,Drought/Heat
+1209,5,Heat,2,1985,7,0,0,0,Drought/Heat
+1210,5,Winter Weather,4,1985,1,11,0,0,Winter Weather
+1211,3,Wind,3,1985,1,0,0,0,Wind
+1212,2,Coastal,4,1986,2,0,0,8675007,Coastal
+1213,3,Severe Storm/Thunder Storm/ Wind,1,1986,1,0,0,8037756,Storms
+1214,3,Drought,3,1986,31,0,0,1885686,Drought/Heat
+1215,2,Drought,3,1986,31,0,0,1854327,Drought/Heat
+1216,1,Drought,3,1986,31,0,0,1709592,Drought/Heat
+1217,5,Drought,3,1986,31,0,0,1689260,Drought/Heat
+1218,6,Drought,3,1986,31,0,0,1618616,Drought/Heat
+1219,4,Drought,3,1986,31,0,0,1566236,Drought/Heat
+1220,4,Wind,2,1986,1,0,0,863854,Wind
+1221,2,Lightning,3,1986,1,0,0,820578,Lightning
+1222,3,Wind,3,1986,1,0,12,795215,Wind
+1223,2,Wind,3,1986,1,0,0,791490,Wind
+1224,1,Lightning,3,1986,1,0,0,785466,Lightning
+1225,3,Flooding,3,1986,1,0,0,783643,Flooding
+1226,3,Lightning,3,1986,1,0,0,775083,Lightning
+1227,5,Wind,2,1986,1,0,0,748769,Wind
+1228,2,Flooding,3,1986,1,0,0,747818,Flooding
+1229,2,Lightning,4,1986,1,0,0,721186,Lightning
+1230,3,Wind,3,1986,1,0,0,87170,Wind
+1231,3,Hail,2,1986,1,0,0,84839,Hail
+1232,4,Wind,2,1986,1,0,0,84023,Wind
+1233,1,Hail,2,1986,1,0,0,83960,Hail
+1234,1,Lightning,3,1986,1,0,0,82422,Lightning
+1235,2,Flooding,4,1986,1,0,0,81859,Flooding
+1236,3,Wind,2,1986,1,0,0,81677,Wind
+1237,3,Hail,1,1986,1,0,0,81606,Hail
+1238,2,Flooding,4,1986,1,0,0,81518,Flooding
+1239,1,Hail,2,1986,1,0,0,81289,Hail
+1240,1,Flooding,2,1986,2,0,0,80845,Flooding
+1241,5,Lightning,3,1986,1,0,0,80409,Lightning
+1242,2,Hail,2,1986,1,0,0,78134,Hail
+1243,2,Lightning,3,1986,1,0,0,74425,Lightning
+1244,3,Flooding,3,1986,2,0,0,74187,Flooding
+1245,3,Hail,2,1986,1,0,0,71341,Hail
+1246,3,Lightning,2,1986,1,0,0,38110,Lightning
+1247,3,Winter Weather,1,1986,2,0,0,18743,Winter Weather
+1248,1,Winter Weather,1,1986,2,0,0,18714,Winter Weather
+1249,4,Drought,2,1986,30,0,0,18687,Drought/Heat
+1250,2,Drought,2,1986,30,0,0,18633,Drought/Heat
+1251,5,Winter Weather,1,1986,2,0,0,18628,Winter Weather
+1252,2,Winter Weather,1,1986,2,0,0,18163,Winter Weather
+1253,4,Winter Weather,1,1986,2,0,0,17898,Winter Weather
+1254,5,Drought,2,1986,30,0,0,17833,Drought/Heat
+1255,1,Drought,2,1986,30,0,0,17733,Drought/Heat
+1256,3,Drought,2,1986,30,0,0,17226,Drought/Heat
+1257,6,Drought,2,1986,30,0,0,16932,Drought/Heat
+1258,6,Winter Weather,1,1986,2,0,0,16293,Winter Weather
+1259,2,Wind,3,1986,1,0,0,8689,Wind
+1260,1,Severe Storm/Thunder Storm/ Wind,1,1986,1,0,0,8631,Storms
+1261,1,Wind,3,1986,1,0,0,8445,Wind
+1262,3,Wind,3,1986,1,0,0,8428,Wind
+1263,5,Wind,2,1986,1,0,0,8172,Wind
+1264,3,Wind,2,1986,1,0,0,8171,Wind
+1265,5,Lightning,3,1986,1,0,0,8034,Lightning
+1266,3,Lightning,3,1986,1,0,0,7606,Lightning
+1267,3,Lightning,4,1986,1,0,0,7368,Lightning
+1268,3,Flooding,4,1986,1,0,0,7236,Flooding
+1269,3,Wind,2,1986,1,0,0,7181,Wind
+1270,3,Wind,2,1986,1,0,0,861,Wind
+1271,3,Hail,3,1986,1,0,0,861,Hail
+1272,5,Wind,3,1986,1,0,0,857,Wind
+1273,1,Hail,2,1986,1,0,0,840,Hail
+1274,3,Wind,3,1986,1,0,0,839,Wind
+1275,1,Wind,3,1986,1,0,0,838,Wind
+1276,1,Winter Weather,4,1986,1,0,0,823,Winter Weather
+1277,1,Wind,2,1986,1,0,0,811,Wind
+1278,4,Wind,2,1986,1,0,0,802,Wind
+1279,5,Hail,2,1986,1,0,0,801,Hail
+1280,5,Severe Storm/Thunder Storm/ Wind,3,1986,1,0,0,800,Storms
+1281,1,Hail,2,1986,1,0,0,759,Hail
+1282,3,Flooding,3,1986,1,0,0,741,Flooding
+1283,3,Wind,3,1986,1,0,0,729,Wind
+1284,1,Wind,2,1986,1,0,0,714,Wind
+1285,1,Winter Weather,1,1986,1,0,0,101,Winter Weather
+1286,2,Hurricane/Tropical Storm,3,1986,1,0,0,68,Storms
+1287,2,Heat,3,1986,1,12,0,0,Drought/Heat
+1288,3,Heat,3,1986,1,11,0,0,Drought/Heat
+1289,6,Drought,2,1986,30,0,0,0,Drought/Heat
+1290,1,Drought,2,1986,30,0,0,0,Drought/Heat
+1291,2,Drought,2,1986,30,0,0,0,Drought/Heat
+1292,4,Drought,2,1986,30,0,0,0,Drought/Heat
+1293,3,Drought,2,1986,30,0,0,0,Drought/Heat
+1294,5,Drought,2,1986,30,0,0,0,Drought/Heat
+1295,4,Hail,2,1986,1,0,0,0,Hail
+1296,4,Lightning,2,1986,1,0,12,0,Lightning
+1297,4,Hail,2,1986,1,0,0,0,Hail
+1298,1,Hail,3,1986,1,0,0,0,Hail
+1299,6,Winter Weather,1,1986,2,0,0,0,Winter Weather
+1300,1,Winter Weather,1,1986,2,0,0,0,Winter Weather
+1301,2,Winter Weather,1,1986,2,0,0,0,Winter Weather
+1302,4,Winter Weather,1,1986,2,0,0,0,Winter Weather
+1303,3,Winter Weather,1,1986,2,0,0,0,Winter Weather
+1304,5,Winter Weather,1,1986,2,0,0,0,Winter Weather
+1305,6,Winter Weather,2,1986,2,0,0,0,Winter Weather
+1306,1,Winter Weather,2,1986,2,0,0,0,Winter Weather
+1307,2,Winter Weather,2,1986,2,0,0,0,Winter Weather
+1308,4,Winter Weather,2,1986,2,0,0,0,Winter Weather
+1309,3,Winter Weather,2,1986,2,0,0,0,Winter Weather
+1310,5,Winter Weather,2,1986,2,0,0,0,Winter Weather
+1311,6,Drought,2,1986,31,0,0,0,Drought/Heat
+1312,1,Drought,2,1986,31,0,0,0,Drought/Heat
+1313,2,Drought,2,1986,31,0,0,0,Drought/Heat
+1314,4,Drought,2,1986,31,0,0,0,Drought/Heat
+1315,3,Drought,2,1986,31,0,0,0,Drought/Heat
+1316,5,Drought,2,1986,31,0,0,0,Drought/Heat
+1317,2,Flooding,1,1987,1,0,0,73149054,Flooding
+1318,4,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,836668,Storms
+1319,2,Wind,2,1987,1,0,0,758835,Wind
+1320,4,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,11,756140,Storms
+1321,1,Lightning,2,1987,1,0,0,748135,Lightning
+1322,3,Tornado,3,1987,1,0,22,729984,Storms
+1323,2,Hail,2,1987,1,0,0,724515,Hail
+1324,4,Severe Storm/Thunder Storm,1,1987,15,0,0,722613,Storms
+1325,1,Winter Weather,1,1987,1,0,0,103652,Winter Weather
+1326,2,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,85680,Storms
+1327,4,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,85275,Storms
+1328,2,Lightning,2,1987,1,0,0,85172,Lightning
+1329,2,Flooding,2,1987,1,0,0,84308,Flooding
+1330,1,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,83207,Storms
+1331,2,Lightning,3,1987,1,0,0,82913,Lightning
+1332,5,Lightning,3,1987,1,0,0,81550,Lightning
+1333,4,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,73,81201,Storms
+1334,2,Wind,1,1987,1,0,0,77857,Wind
+1335,1,Hail,2,1987,1,0,0,77341,Hail
+1336,3,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,76699,Storms
+1337,2,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,76533,Storms
+1338,2,Lightning,2,1987,1,0,0,74472,Lightning
+1339,1,Hail,2,1987,1,0,0,73664,Hail
+1340,6,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,73608,Storms
+1341,1,Hail,2,1987,1,0,0,72332,Hail
+1342,1,Winter Weather,1,1987,1,0,0,45274,Winter Weather
+1343,6,Winter Weather,1,1987,1,0,0,38808,Winter Weather
+1344,5,Winter Weather,1,1987,1,0,0,38369,Winter Weather
+1345,1,Winter Weather,2,1987,1,0,0,28300,Winter Weather
+1346,1,Wind,1,1987,1,0,0,11229,Wind
+1347,3,Lightning,3,1987,1,0,0,8710,Lightning
+1348,3,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,8489,Storms
+1349,1,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,8486,Storms
+1350,5,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,8374,Storms
+1351,2,Flooding,1,1987,1,0,0,8367,Flooding
+1352,3,Hail,3,1987,1,0,0,8217,Hail
+1353,3,Lightning,2,1987,1,0,0,8179,Lightning
+1354,3,Flooding,1,1987,1,0,0,8129,Flooding
+1355,6,Hail,4,1987,1,0,0,8095,Hail
+1356,2,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,8068,Storms
+1357,1,Hail,2,1987,1,0,0,8045,Hail
+1358,2,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,7949,Storms
+1359,4,Hail,2,1987,1,0,0,7939,Hail
+1360,2,Severe Storm/Thunder Storm,2,1987,1,0,0,7882,Storms
+1361,2,Flooding,1,1987,1,0,0,7878,Flooding
+1362,2,Lightning,3,1987,1,0,0,7801,Lightning
+1363,1,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,7745,Storms
+1364,5,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,7705,Storms
+1365,4,Hail,3,1987,1,0,0,7664,Hail
+1366,3,Hail,2,1987,1,0,0,7650,Hail
+1367,3,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,7465,Storms
+1368,1,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,7437,Storms
+1369,3,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,7434,Storms
+1370,3,Lightning,2,1987,1,0,11,7394,Lightning
+1371,1,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,7372,Storms
+1372,1,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,7268,Storms
+1373,4,Hail,3,1987,1,0,0,7232,Hail
+1374,2,Lightning,3,1987,1,0,0,7185,Lightning
+1375,6,Winter Weather,1,1987,1,0,0,4566,Winter Weather
+1376,1,Winter Weather,1,1987,1,0,0,4268,Winter Weather
+1377,1,Winter Weather,1,1987,1,0,0,1236,Winter Weather
+1378,1,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,865,Storms
+1379,5,Hail,2,1987,1,0,0,851,Hail
+1380,4,Hail,3,1987,1,0,0,850,Hail
+1381,5,Lightning,3,1987,1,0,0,808,Lightning
+1382,4,Hail,2,1987,1,0,0,799,Hail
+1383,3,Hail,3,1987,1,0,0,790,Hail
+1384,1,Severe Storm/Thunder Storm/ Wind,2,1987,1,0,0,778,Storms
+1385,1,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,778,Storms
+1386,4,Hail,2,1987,1,0,0,761,Hail
+1387,3,Hail,2,1987,1,0,0,750,Hail
+1388,2,Hurricane/Tropical Storm,4,1987,2,0,0,77,Storms
+1389,1,Heat,3,1987,1,12,0,0,Drought/Heat
+1390,4,Lightning,3,1987,1,0,12,0,Lightning
+1391,4,Severe Storm/Thunder Storm/ Wind,3,1987,1,0,0,0,Storms
+1392,6,Winter Weather,4,1987,31,0,0,0,Winter Weather
+1393,1,Winter Weather,4,1987,31,0,0,0,Winter Weather
+1394,2,Winter Weather,4,1987,31,0,0,0,Winter Weather
+1395,4,Winter Weather,4,1987,31,0,0,0,Winter Weather
+1396,3,Winter Weather,4,1987,31,0,0,0,Winter Weather
+1397,5,Winter Weather,4,1987,31,0,0,0,Winter Weather
+1398,6,Winter Weather,2,1987,1,0,0,0,Winter Weather
+1399,1,Winter Weather,2,1987,1,0,0,0,Winter Weather
+1400,2,Winter Weather,2,1987,1,0,0,0,Winter Weather
+1401,4,Winter Weather,2,1987,1,0,0,0,Winter Weather
+1402,3,Winter Weather,2,1987,1,0,0,0,Winter Weather
+1403,5,Winter Weather,2,1987,1,0,0,0,Winter Weather
+1404,2,Hurricane/Tropical Storm,3,1987,4,0,0,0,Storms
+1405,4,Hurricane/Tropical Storm,3,1987,4,0,0,0,Storms
+1406,3,Hurricane/Tropical Storm,3,1987,4,0,0,0,Storms
+1407,5,Hurricane/Tropical Storm,3,1987,4,0,0,0,Storms
+1408,1,Lightning,2,1988,1,0,0,7904599,Lightning
+1409,1,Lightning,3,1988,1,0,0,1383055,Lightning
+1410,3,Hail/ Severe Storm/Thunder Storm,3,1988,1,0,0,787765,Hail/Storms
+1411,2,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,23,765493,Storms
+1412,1,Severe Storm/Thunder Storm/ Wind,3,1988,1,0,0,725229,Storms
+1413,2,Winter Weather,1,1988,5,0,0,187044,Winter Weather
+1414,6,Winter Weather,1,1988,5,0,0,170710,Winter Weather
+1415,1,Winter Weather,1,1988,5,0,0,163870,Winter Weather
+1416,3,Winter Weather,1,1988,5,0,0,163698,Winter Weather
+1417,5,Winter Weather,1,1988,5,0,0,163095,Winter Weather
+1418,4,Winter Weather,1,1988,5,0,0,155118,Winter Weather
+1419,2,Winter Weather,1,1988,1,0,0,87098,Winter Weather
+1420,3,Lightning,2,1988,1,0,0,85101,Lightning
+1421,2,Lightning,2,1988,1,0,0,83960,Lightning
+1422,2,Hail/ Severe Storm/Thunder Storm,2,1988,1,0,0,82596,Hail/Storms
+1423,3,Lightning,2,1988,1,0,0,82398,Lightning
+1424,2,Lightning,2,1988,1,0,0,81582,Lightning
+1425,4,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,78388,Storms
+1426,2,Flooding,3,1988,1,0,0,77595,Flooding
+1427,4,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,77437,Storms
+1428,5,Hurricane/Tropical Storm,3,1988,1,0,0,25661,Storms
+1429,4,Hurricane/Tropical Storm,3,1988,1,0,0,24052,Storms
+1430,2,Hurricane/Tropical Storm,3,1988,1,0,0,23282,Storms
+1431,3,Hurricane/Tropical Storm,3,1988,1,0,0,22141,Storms
+1432,4,Drought,2,1988,30,0,0,18942,Drought/Heat
+1433,2,Drought,2,1988,30,0,0,18327,Drought/Heat
+1434,5,Drought,2,1988,30,0,0,17428,Drought/Heat
+1435,6,Drought,2,1988,30,0,0,17230,Drought/Heat
+1436,3,Drought,2,1988,30,0,0,16637,Drought/Heat
+1437,1,Drought,2,1988,30,0,0,15670,Drought/Heat
+1438,4,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,8707,Storms
+1439,3,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,8676,Storms
+1440,2,Severe Storm/Thunder Storm/ Wind,4,1988,1,0,0,8385,Storms
+1441,4,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,8199,Storms
+1442,2,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,8061,Storms
+1443,4,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,8056,Storms
+1444,4,Hail,2,1988,1,0,0,7932,Hail
+1445,5,Severe Storm/Thunder Storm/ Wind,3,1988,1,0,0,7699,Storms
+1446,3,Hail,2,1988,1,0,0,7599,Hail
+1447,1,Severe Storm/Thunder Storm/ Wind,3,1988,1,0,0,7572,Storms
+1448,2,Lightning,2,1988,1,0,0,7319,Lightning
+1449,2,Lightning,2,1988,1,0,0,7215,Lightning
+1450,3,Winter Weather,1,1988,1,0,0,3089,Winter Weather
+1451,4,Winter Weather,1,1988,1,0,0,3065,Winter Weather
+1452,2,Winter Weather,1,1988,1,0,0,2668,Winter Weather
+1453,5,Winter Weather,1,1988,1,0,0,2604,Winter Weather
+1454,1,Wind,4,1988,1,0,0,2475,Wind
+1455,5,Wind,4,1988,1,0,0,2439,Wind
+1456,2,Wind,4,1988,1,0,0,2423,Wind
+1457,6,Wind,4,1988,1,0,0,2379,Wind
+1458,6,Drought,3,1988,31,0,0,1862,Drought/Heat
+1459,1,Drought,3,1988,31,0,0,1859,Drought/Heat
+1460,3,Winter Weather,1,1988,4,0,0,1811,Winter Weather
+1461,5,Winter Weather,1,1988,4,0,0,1810,Winter Weather
+1462,3,Drought,3,1988,31,0,0,1805,Drought/Heat
+1463,4,Winter Weather,1,1988,4,0,0,1782,Winter Weather
+1464,6,Winter Weather,1,1988,4,0,0,1762,Winter Weather
+1465,5,Drought,3,1988,31,0,0,1736,Drought/Heat
+1466,2,Drought,3,1988,31,0,0,1730,Drought/Heat
+1467,2,Winter Weather,1,1988,4,0,0,1650,Winter Weather
+1468,4,Drought,3,1988,31,0,0,1647,Drought/Heat
+1469,1,Winter Weather,1,1988,4,0,0,1596,Winter Weather
+1470,3,Hail,2,1988,1,0,0,868,Hail
+1471,3,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,864,Storms
+1472,1,Severe Storm/Thunder Storm/ Wind,3,1988,1,0,0,862,Storms
+1473,5,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,857,Storms
+1474,2,Lightning,2,1988,1,0,0,817,Lightning
+1475,5,Severe Storm/Thunder Storm/ Wind,2,1988,1,0,0,809,Storms
+1476,1,Lightning,2,1988,1,0,0,808,Lightning
+1477,3,Hail,2,1988,1,0,0,795,Hail
+1478,3,Hail,2,1988,1,0,0,784,Hail
+1479,1,Lightning,2,1988,1,0,0,767,Lightning
+1480,2,Flooding,3,1988,1,0,0,766,Flooding
+1481,1,Hail,2,1988,1,0,0,751,Hail
+1482,2,Severe Storm/Thunder Storm/ Wind,4,1988,1,0,0,746,Storms
+1483,1,Wind,4,1988,1,0,0,738,Wind
+1484,3,Hail,2,1988,1,0,0,733,Hail
+1485,3,Hail,2,1988,1,0,0,733,Hail
+1486,6,Drought,1,1988,28,0,0,182,Drought/Heat
+1487,4,Drought,1,1988,28,0,0,180,Drought/Heat
+1488,1,Wind,1,1988,1,0,0,180,Wind
+1489,5,Drought,1,1988,28,0,0,176,Drought/Heat
+1490,2,Drought,1,1988,28,0,0,170,Drought/Heat
+1491,3,Wind,1,1988,1,0,0,162,Wind
+1492,5,Wind,1,1988,1,0,0,159,Wind
+1493,1,Drought,1,1988,28,0,0,158,Drought/Heat
+1494,6,Wind,1,1988,1,0,0,158,Wind
+1495,2,Wind,1,1988,1,0,0,157,Wind
+1496,3,Drought,1,1988,28,0,0,151,Drought/Heat
+1497,4,Wind,1,1988,1,0,0,151,Wind
+1498,3,Hail,2,1988,1,0,0,51,Hail
+1499,6,Hail,2,1988,1,0,0,46,Hail
+1500,4,Hail,2,1988,1,0,0,43,Hail
+1501,6,Hail,2,1988,1,0,0,26,Hail
+1502,4,Hail,2,1988,1,0,0,24,Hail
+1503,3,Hail,2,1988,1,0,0,24,Hail
+1504,5,Hail,2,1988,1,0,0,23,Hail
+1505,6,Drought,3,1988,31,0,0,12,Drought/Heat
+1506,1,Drought,3,1988,31,0,0,12,Drought/Heat
+1507,3,Drought,3,1988,31,0,0,12,Drought/Heat
+1508,4,Drought,3,1988,31,0,0,11,Drought/Heat
+1509,1,Winter Weather,1,1988,1,12,0,0,Winter Weather
+1510,4,Heat,3,1988,1,12,0,0,Drought/Heat
+1511,6,Winter Weather,2,1988,1,0,0,0,Winter Weather
+1512,1,Winter Weather,2,1988,1,0,0,0,Winter Weather
+1513,3,Lightning,3,1988,1,0,13,0,Lightning
+1514,2,Lightning,3,1988,1,0,13,0,Lightning
+1515,2,Hurricane/Tropical Storm,3,1989,1,0,0,7877651400,Storms
+1516,5,Hurricane/Tropical Storm,3,1989,1,11,3831,3086384400,Storms
+1517,2,Hurricane/Tropical Storm,3,1989,1,0,0,743300280,Storms
+1518,4,Hurricane/Tropical Storm,3,1989,1,13,260,533869996,Storms
+1519,3,Hurricane/Tropical Storm,3,1989,1,11,358,426463185,Storms
+1520,3,Severe Storm/Thunder Storm/ Wind,2,1989,1,11,0,76993164,Storms
+1521,2,Winter Weather,4,1989,5,13,0,8641717,Winter Weather
+1522,1,Hail/ Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,8027452,Hail/Storms
+1523,4,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,12,7997334,Storms
+1524,5,Tornado,3,1989,1,0,0,7661271,Storms
+1525,1,Winter Weather,1,1989,1,0,0,1036813,Winter Weather
+1526,1,Winter Weather,1,1989,3,0,0,900784,Winter Weather
+1527,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,864013,Storms
+1528,1,Lightning,3,1989,1,0,0,825175,Lightning
+1529,1,Hail/ Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,802031,Hail/Storms
+1530,4,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,797989,Storms
+1531,5,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,754079,Storms
+1532,4,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,751543,Storms
+1533,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,743696,Storms
+1534,6,Winter Weather,4,1989,4,0,0,241013,Winter Weather
+1535,4,Winter Weather,4,1989,4,0,0,227407,Winter Weather
+1536,5,Winter Weather,4,1989,4,0,0,213977,Winter Weather
+1537,3,Winter Weather,4,1989,4,0,0,201736,Winter Weather
+1538,1,Winter Weather,4,1989,4,21,0,199138,Winter Weather
+1539,2,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,165177,Storms
+1540,3,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,161214,Storms
+1541,5,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,155888,Storms
+1542,4,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,148136,Storms
+1543,6,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,144237,Storms
+1544,2,Coastal,1,1989,1,0,0,86813,Coastal
+1545,2,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,86456,Storms
+1546,1,Hurricane/Tropical Storm,3,1989,1,0,0,84966,Storms
+1547,4,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,84483,Storms
+1548,2,Wind,2,1989,1,0,0,84213,Wind
+1549,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,83769,Storms
+1550,6,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,25,82802,Storms
+1551,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,82366,Storms
+1552,3,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,82208,Storms
+1553,6,Lightning,3,1989,1,0,0,81431,Lightning
+1554,2,Flooding/ Lightning,3,1989,1,0,0,80940,Flooding
+1555,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,80861,Storms
+1556,5,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,79545,Storms
+1557,5,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,79283,Storms
+1558,3,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,78752,Storms
+1559,2,Wind,2,1989,1,0,0,77286,Wind
+1560,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,75606,Storms
+1561,2,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,45,75233,Storms
+1562,4,Lightning,2,1989,1,0,0,74773,Lightning
+1563,1,Severe Storm/Thunder Storm/ Wind,4,1989,1,0,0,74631,Storms
+1564,1,Flooding,3,1989,1,0,0,73458,Flooding
+1565,1,Hail/ Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,72649,Hail/Storms
+1566,1,Flooding,3,1989,1,0,0,72618,Flooding
+1567,4,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,72102,Storms
+1568,1,Winter Weather,2,1989,1,0,0,45069,Winter Weather
+1569,6,Winter Weather,2,1989,1,0,0,42083,Winter Weather
+1570,2,Wind,1,1989,1,0,0,18699,Wind
+1571,4,Winter Weather,1,1989,1,0,0,18616,Winter Weather
+1572,5,Wind,1,1989,1,0,0,17967,Wind
+1573,1,Wind,1,1989,1,0,0,17900,Wind
+1574,2,Winter Weather,1,1989,1,0,0,17213,Winter Weather
+1575,3,Winter Weather,1,1989,1,0,0,17182,Winter Weather
+1576,4,Wind,1,1989,1,0,0,16930,Wind
+1577,3,Wind,1,1989,1,0,0,16255,Wind
+1578,5,Winter Weather,1,1989,1,0,0,16104,Winter Weather
+1579,6,Wind,1,1989,1,0,0,15890,Wind
+1580,1,Winter Weather,1,1989,1,0,0,15756,Winter Weather
+1581,6,Winter Weather,1,1989,1,0,0,15665,Winter Weather
+1582,2,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,8622,Storms
+1583,3,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,8588,Storms
+1584,5,Flooding,3,1989,1,0,0,8584,Flooding
+1585,5,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,8570,Storms
+1586,4,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,8488,Storms
+1587,1,Hail/ Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,8241,Hail/Storms
+1588,2,Winter Weather,1,1989,1,0,0,8221,Winter Weather
+1589,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,8194,Storms
+1590,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1989,1,0,0,8113,Lightning/Storms
+1591,2,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,8054,Storms
+1592,1,Severe Storm/Thunder Storm/ Wind,3,1989,1,0,0,7962,Storms
+1593,4,Lightning,3,1989,1,0,0,7877,Lightning
+1594,1,Flooding,4,1989,1,0,0,7716,Flooding
+1595,3,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,7661,Storms
+1596,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,7615,Storms
+1597,6,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1989,1,0,0,7588,Lightning/Storms
+1598,5,Lightning,3,1989,1,0,0,7318,Lightning
+1599,1,Severe Storm/Thunder Storm/ Wind,2,1989,1,0,0,7172,Storms
+1600,4,Wind,1,1989,1,0,0,869,Wind
+1601,1,Wind,1,1989,1,0,0,830,Wind
+1602,2,Severe Storm/Thunder Storm/ Wind,1,1989,1,0,0,815,Storms
+1603,2,Wind,1,1989,1,0,0,779,Wind
+1604,2,Winter Weather,1,1989,1,0,0,771,Winter Weather
+1605,1,Winter Weather,1,1989,1,0,0,65,Winter Weather
+1606,1,Winter Weather,2,1989,1,0,0,0,Winter Weather
+1607,1,Heat,3,1989,1,11,0,0,Drought/Heat
+1608,3,Lightning,3,1989,1,10,0,0,Lightning
+1609,5,Winter Weather,4,1989,1,13,0,0,Winter Weather
+1610,2,Winter Weather,4,1989,1,12,0,0,Winter Weather
+1611,1,Winter Weather,4,1989,1,12,0,0,Winter Weather
+1612,3,Tornado,2,1989,1,0,0,0,Storms
+1613,1,Lightning,2,1989,1,0,12,0,Lightning
+1614,2,Winter Weather,4,1989,1,0,10,0,Winter Weather
+1615,2,Winter Weather,1,1989,1,0,0,0,Winter Weather
+1616,4,Flooding,4,1990,21,0,0,4679357,Flooding
+1617,6,Flooding,4,1990,21,0,0,4339585,Flooding
+1618,5,Flooding,4,1990,21,0,0,4305779,Flooding
+1619,6,Severe Storm/Thunder Storm/ Wind,1,1990,1,0,0,4095493,Storms
+1620,6,Flooding,4,1990,1,0,0,841582,Flooding
+1621,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1990,1,0,0,840473,Hail/Storms
+1622,5,Flooding,4,1990,2,0,0,821846,Flooding
+1623,1,Tornado,1,1990,1,0,0,792996,Storms
+1624,1,Severe Storm/Thunder Storm/ Wind,2,1990,1,0,46,761847,Storms
+1625,1,Flooding,1,1990,1,0,0,740209,Flooding
+1626,4,Severe Storm/Thunder Storm,4,1990,1,0,0,739495,Storms
+1627,4,Lightning,2,1990,1,0,0,451544,Lightning
+1628,2,Lightning,3,1990,1,0,0,144300,Lightning
+1629,1,Severe Storm/Thunder Storm/ Wind,1,1990,1,0,0,85386,Storms
+1630,5,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1990,1,0,0,80100,Hail/Storms
+1631,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1990,1,0,0,79172,Hail/Storms
+1632,2,Severe Storm/Thunder Storm/ Wind,2,1990,1,0,0,75812,Storms
+1633,2,Severe Storm/Thunder Storm/ Wind,3,1990,1,0,0,74773,Storms
+1634,1,Lightning,3,1990,1,0,13,8691,Lightning
+1635,1,Severe Storm/Thunder Storm/ Wind,3,1990,1,0,0,8672,Storms
+1636,1,Severe Storm/Thunder Storm/ Wind,1,1990,1,0,0,8636,Storms
+1637,1,Severe Storm/Thunder Storm/ Wind,2,1990,1,0,0,7434,Storms
+1638,4,Lightning,2,1990,1,0,0,7421,Lightning
+1639,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1990,1,0,0,7403,Hail/Storms
+1640,4,Severe Storm/Thunder Storm/ Wind,2,1990,1,0,22,7333,Storms
+1641,3,Wind,1,1990,1,0,0,3967,Wind
+1642,1,Winter Weather,4,1990,2,0,0,944,Winter Weather
+1643,3,Heat,3,1990,1,12,0,0,Drought/Heat
+1644,2,Heat,2,1990,1,0,5,0,Drought/Heat
+1645,5,Heat,2,1990,1,0,5,0,Drought/Heat
+1646,6,Winter Weather,1,1990,1,0,0,0,Winter Weather
+1647,1,Winter Weather,1,1990,1,0,0,0,Winter Weather
+1648,2,Winter Weather,1,1990,1,0,0,0,Winter Weather
+1649,4,Winter Weather,1,1990,1,0,0,0,Winter Weather
+1650,3,Winter Weather,1,1990,1,0,0,0,Winter Weather
+1651,5,Winter Weather,1,1990,1,0,0,0,Winter Weather
+1652,3,Flooding,2,1991,1,0,0,5905504,Flooding
+1653,3,Lightning,3,1991,1,0,0,5801197,Lightning
+1654,1,Hail/ Severe Storm/Thunder Storm/ Wind,2,1991,1,12,0,1617696,Hail/Storms
+1655,2,Severe Storm/Thunder Storm/ Wind,1,1991,1,0,0,844753,Storms
+1656,1,Lightning,3,1991,1,0,0,842216,Lightning
+1657,1,Flooding,3,1991,1,0,0,729826,Flooding
+1658,6,Lightning,2,1991,1,0,0,444482,Lightning
+1659,2,Lightning,3,1991,1,0,0,324997,Lightning
+1660,5,Lightning,3,1991,1,0,0,293553,Lightning
+1661,1,Flooding,2,1991,1,0,0,86147,Flooding
+1662,1,Flooding/ Lightning,2,1991,1,0,0,79981,Flooding
+1663,5,Severe Storm/Thunder Storm/ Wind,2,1991,1,12,12,79640,Storms
+1664,1,Lightning/ Severe Storm/Thunder Storm/ Wind,2,1991,1,0,0,79347,Lightning/Storms
+1665,4,Severe Storm/Thunder Storm,2,1991,1,0,0,77064,Storms
+1666,1,Lightning/ Severe Storm/Thunder Storm/ Wind,2,1991,1,0,0,75732,Lightning/Storms
+1667,2,Flooding,3,1991,1,0,0,75725,Flooding
+1668,3,Severe Storm/Thunder Storm/ Wind,1,1991,1,0,0,74575,Storms
+1669,3,Lightning,2,1991,1,0,0,70707,Lightning
+1670,4,Lightning,3,1991,1,0,0,31228,Lightning
+1671,5,Lightning,3,1991,1,0,0,17326,Lightning
+1672,2,Wind,1,1991,1,0,0,7513,Wind
+1673,1,Flooding,2,1991,1,0,0,7277,Flooding
+1674,1,Severe Storm/Thunder Storm/ Wind,2,1991,1,0,0,722,Storms
+1675,1,Winter Weather,1,1991,1,12,0,0,Winter Weather
+1676,3,Winter Weather,1,1991,1,12,0,0,Winter Weather
+1677,3,Lightning,3,1991,1,12,12,0,Lightning
+1678,2,Coastal,3,1991,1,12,0,0,Coastal
+1679,3,Winter Weather,4,1991,1,12,0,0,Winter Weather
+1680,6,Tornado,4,1992,1,0,28,2099993,Storms
+1681,1,Hail,1,1992,1,0,0,833815,Hail
+1682,1,Severe Storm/Thunder Storm/ Wind,3,1992,1,0,0,760578,Storms
+1683,1,Severe Storm/Thunder Storm,2,1992,1,0,0,737197,Storms
+1684,5,Winter Weather,4,1992,2,0,0,301467,Winter Weather
+1685,6,Winter Weather,4,1992,2,0,0,279020,Winter Weather
+1686,1,Winter Weather,4,1992,2,0,0,271547,Winter Weather
+1687,1,Winter Weather,4,1992,1,0,0,98566,Winter Weather
+1688,5,Severe Storm/Thunder Storm/ Wind,1,1992,1,0,12,84641,Storms
+1689,1,Severe Storm/Thunder Storm,3,1992,1,0,0,84277,Storms
+1690,2,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1992,1,0,0,75415,Hail/Storms
+1691,1,Severe Storm/Thunder Storm,3,1992,1,0,0,73236,Storms
+1692,1,Severe Storm/Thunder Storm,3,1992,1,0,0,8363,Storms
+1693,1,Severe Storm/Thunder Storm/ Wind,1,1992,1,0,0,8021,Storms
+1694,1,Severe Storm/Thunder Storm,3,1992,1,0,0,766,Storms
+1695,6,Winter Weather,2,1992,1,0,0,0,Winter Weather
+1696,4,Lightning,2,1992,1,12,0,0,Lightning
+1697,6,Winter Weather,2,1992,1,0,0,0,Winter Weather
+1698,2,Wind/ Winter Weather,1,1993,1,0,3,130098949,Winter Weather
+1699,2,Drought/ Heat,3,1993,31,0,0,98937152,Drought/Heat
+1700,6,Drought/ Heat,3,1993,31,0,0,95598307,Drought/Heat
+1701,3,Drought/ Heat,3,1993,31,0,0,91558942,Drought/Heat
+1702,1,Drought/ Heat,3,1993,31,0,0,90630980,Drought/Heat
+1703,5,Drought/ Heat,3,1993,31,0,0,89584748,Drought/Heat
+1704,4,Drought/ Heat,3,1993,31,0,0,84389979,Drought/Heat
+1705,1,Lightning/ Severe Storm/Thunder Storm,3,1993,1,0,0,7700901,Lightning/Storms
+1706,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1993,1,0,0,2919938,Hail/Storms
+1707,2,Flooding,2,1993,1,0,0,2831951,Flooding
+1708,4,Wind/ Winter Weather,1,1993,1,0,0,1070201,Winter Weather
+1709,3,Wind/ Winter Weather,1,1993,1,0,0,1019574,Winter Weather
+1710,1,Wind,1,1993,1,0,0,897812,Wind
+1711,1,Flooding,3,1993,1,0,0,826761,Flooding
+1712,5,Wind/ Winter Weather,1,1993,1,0,0,742983,Winter Weather
+1713,1,Winter Weather,1,1993,1,0,0,587592,Winter Weather
+1714,6,Winter Weather,1,1993,1,0,0,541395,Winter Weather
+1715,1,Flooding,1,1993,31,0,0,186338,Flooding
+1716,5,Flooding,1,1993,31,0,0,181755,Flooding
+1717,2,Flooding,1,1993,31,0,0,177292,Flooding
+1718,4,Flooding,1,1993,31,0,0,176379,Flooding
+1719,6,Flooding,1,1993,31,0,0,173984,Flooding
+1720,3,Flooding,1,1993,31,0,0,169625,Flooding
+1721,2,Flooding,1,1993,2,0,0,84998,Flooding
+1722,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1993,1,0,0,79862,Lightning/Storms
+1723,1,Severe Storm/Thunder Storm,2,1993,1,0,0,76359,Storms
+1724,1,Severe Storm/Thunder Storm,1,1993,1,0,0,75582,Storms
+1725,2,Wind,1,1993,1,0,0,74393,Wind
+1726,1,Winter Weather,1,1993,2,0,0,8990,Winter Weather
+1727,1,Lightning,1,1993,1,0,0,8688,Lightning
+1728,5,Tornado,2,1993,1,0,0,8007,Storms
+1729,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1993,1,0,11,7786,Lightning/Storms
+1730,4,Hail/ Severe Storm/Thunder Storm/ Wind,1,1993,1,0,0,7708,Hail/Storms
+1731,1,Hail,2,1993,1,0,0,7699,Hail
+1732,2,Lightning,3,1993,1,0,0,7523,Lightning
+1733,6,Wind,1,1993,1,0,0,5640,Wind
+1734,4,Wind,1,1993,1,0,0,5433,Wind
+1735,3,Wind,1,1993,1,0,0,4976,Wind
+1736,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1993,1,0,0,802,Hail/Storms
+1737,1,Hail/ Severe Storm/Thunder Storm/ Wind,1,1993,1,0,0,762,Hail/Storms
+1738,1,Lightning/ Severe Storm/Thunder Storm/ Wind,3,1993,1,0,0,742,Lightning/Storms
+1739,6,Heat,2,1993,30,0,0,0,Drought/Heat
+1740,1,Heat,2,1993,30,0,0,0,Drought/Heat
+1741,2,Heat,2,1993,30,0,0,0,Drought/Heat
+1742,4,Heat,2,1993,30,0,0,0,Drought/Heat
+1743,3,Heat,2,1993,30,0,0,0,Drought/Heat
+1744,5,Heat,2,1993,30,0,0,0,Drought/Heat
+1745,3,Heat,3,1993,1,12,0,0,Drought/Heat
+1746,4,Winter Weather,4,1993,1,12,0,0,Winter Weather
+1747,6,Winter Weather,1,1993,1,11,0,0,Winter Weather
+1748,6,Drought/ Heat,3,1993,31,0,0,0,Drought/Heat
+1749,1,Drought/ Heat,3,1993,31,0,0,0,Drought/Heat
+1750,2,Drought/ Heat,3,1993,31,0,0,0,Drought/Heat
+1751,4,Drought/ Heat,3,1993,31,0,0,0,Drought/Heat
+1752,3,Drought/ Heat,3,1993,31,0,0,0,Drought/Heat
+1753,5,Drought/ Heat,3,1993,31,0,0,0,Drought/Heat
+1754,2,Flooding,4,1994,1,0,0,4088230,Flooding
+1755,2,Severe Storm/Thunder Storm,3,1994,1,0,0,1192347,Storms
+1756,2,Flooding/ Severe Storm/Thunder Storm,4,1994,2,0,0,1176472,Flooding/Storms
+1757,4,Tornado,3,1994,1,0,0,835875,Storms
+1758,5,Severe Storm/Thunder Storm,3,1994,1,0,0,810592,Storms
+1759,1,Flooding,3,1994,1,0,0,776351,Flooding
+1760,1,Hail/ Lightning/ Severe Storm/Thunder Storm/ Wind,3,1994,1,0,0,762956,Hail/Storms
+1761,1,Lightning,3,1994,1,0,0,754396,Lightning
+1762,4,Flooding,3,1994,1,0,0,732203,Flooding
+1763,1,Winter Weather,1,1994,1,0,0,410189,Winter Weather
+1764,2,Flooding,2,1994,1,0,0,368757,Flooding
+1765,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1994,1,0,0,86607,Hail/Storms
+1766,1,Hail/ Severe Storm/Thunder Storm/ Wind,3,1994,1,0,0,85458,Hail/Storms
+1767,4,Severe Storm/Thunder Storm,3,1994,1,0,0,83809,Storms
+1768,1,Severe Storm/Thunder Storm/ Wind,1,1994,1,0,0,83722,Storms
+1769,4,Tornado,3,1994,1,0,0,82398,Storms
+1770,1,Flooding,3,1994,1,0,0,81122,Flooding
+1771,2,Severe Storm/Thunder Storm,2,1994,1,0,0,78839,Storms
+1772,1,Severe Storm/Thunder Storm,2,1994,1,0,0,76097,Storms
+1773,3,Lightning,3,1994,1,0,0,75035,Lightning
+1774,4,Lightning,3,1994,1,0,0,74987,Lightning
+1775,3,Severe Storm/Thunder Storm,3,1994,1,0,0,74242,Storms
+1776,1,Severe Storm/Thunder Storm,2,1994,1,0,0,72855,Storms
+1777,5,Flooding,3,1994,1,0,0,72300,Flooding
+1778,3,Flooding,4,1994,1,0,0,16630,Flooding
+1779,1,Hail/ Wind,3,1994,1,0,0,8014,Hail/Storms
+1780,1,Tornado,1,1994,1,0,0,7904,Storms
+1781,1,Severe Storm/Thunder Storm,2,1994,1,0,0,7253,Storms
+1782,2,Hail,1,1994,1,0,0,7174,Hail
+1783,1,Tornado,1,1994,1,0,0,4041,Storms
+1784,3,Severe Storm/Thunder Storm/ Wind,2,1994,1,0,0,3952,Storms
+1785,6,Winter Weather,1,1994,1,12,0,0,Winter Weather
+1786,6,Drought,2,1994,31,0,0,0,Drought/Heat
+1787,1,Drought,2,1994,31,0,0,0,Drought/Heat
+1788,2,Drought,2,1994,31,0,0,0,Drought/Heat
+1789,4,Drought,2,1994,31,0,0,0,Drought/Heat
+1790,3,Drought,2,1994,31,0,0,0,Drought/Heat
+1791,5,Drought,2,1994,31,0,0,0,Drought/Heat
+1792,1,Lightning,2,1994,1,10,0,0,Lightning
+1793,1,Lightning,3,1994,1,0,11,0,Lightning
+1794,1,Lightning,3,1994,1,0,11,0,Lightning
+1795,1,Hail/ Lightning,3,1994,1,0,12,0,Hail/Storms
+1796,3,Tornado,1,1995,1,0,0,164844948,Storms
+1797,1,Flooding,3,1995,1,11,59,78721032,Flooding
+1798,1,Flooding,3,1995,1,0,0,33346267,Flooding
+1799,2,Tornado,4,1995,1,0,0,22876813,Storms
+1800,1,Flooding,3,1995,1,0,0,8520450,Flooding
+1801,3,Hurricane/Tropical Storm,3,1995,6,0,0,3771040,Storms
+1802,5,Hurricane/Tropical Storm,3,1995,6,0,0,3748296,Storms
+1803,6,Hurricane/Tropical Storm,3,1995,6,0,0,3486739,Storms
+1804,2,Hurricane/Tropical Storm,3,1995,6,0,0,3423676,Storms
+1805,4,Hurricane/Tropical Storm,3,1995,6,0,0,3392317,Storms
+1806,4,Tornado,4,1995,1,0,36,3170717,Storms
+1807,1,Hurricane/Tropical Storm,3,1995,6,0,0,3163153,Storms
+1808,5,Severe Storm/Thunder Storm,1,1995,1,0,0,1589638,Storms
+1809,1,Tornado,4,1995,1,0,0,1285676,Storms
+1810,3,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,845387,Storms
+1811,4,Severe Storm/Thunder Storm/ Wind,1,1995,1,0,0,844515,Storms
+1812,1,Severe Storm/Thunder Storm,2,1995,1,0,0,758280,Storms
+1813,1,Wind,4,1995,1,0,0,611257,Wind
+1814,1,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,427647,Storms
+1815,4,Severe Storm/Thunder Storm,2,1995,1,0,0,307053,Storms
+1816,2,Flooding,2,1995,1,0,0,241560,Flooding
+1817,1,Flooding,1,1995,1,0,0,231098,Flooding
+1818,3,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,226865,Storms
+1819,4,Tornado,4,1995,1,0,0,225034,Storms
+1820,4,Severe Storm/Thunder Storm/ Wind,4,1995,1,0,0,171106,Storms
+1821,6,Hail,2,1995,1,0,0,164971,Hail
+1822,2,Severe Storm/Thunder Storm/ Wind,1,1995,1,0,0,161135,Storms
+1823,3,Hail,3,1995,1,0,0,158615,Hail
+1824,4,Flooding,1,1995,1,0,0,155714,Flooding
+1825,1,Winter Weather,1,1995,1,0,0,155349,Winter Weather
+1826,6,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,155333,Storms
+1827,3,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,149405,Storms
+1828,5,Severe Storm/Thunder Storm,2,1995,1,0,0,149024,Storms
+1829,3,Hail,2,1995,1,0,0,147804,Hail
+1830,1,Wind,1,1995,1,0,0,142668,Wind
+1831,5,Flooding/ Severe Storm/Thunder Storm/ Wind,1,1995,1,0,0,86924,Flooding/Storms
+1832,1,Severe Storm/Thunder Storm/ Wind,1,1995,1,0,0,85703,Storms
+1833,4,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,85141,Storms
+1834,2,Severe Storm/Thunder Storm,2,1995,1,0,0,84903,Storms
+1835,2,Severe Storm/Thunder Storm,1,1995,1,0,0,83785,Storms
+1836,4,Hail,2,1995,1,0,0,83191,Hail
+1837,3,Severe Storm/Thunder Storm,2,1995,1,0,0,79275,Storms
+1838,2,Severe Storm/Thunder Storm,2,1995,1,0,0,76890,Storms
+1839,5,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,71841,Storms
+1840,2,Severe Storm/Thunder Storm,2,1995,1,0,0,71381,Storms
+1841,2,Severe Storm/Thunder Storm/ Wind,3,1995,1,0,0,51850,Storms
+1842,1,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,34484,Storms
+1843,1,Severe Storm/Thunder Storm,1,1995,1,0,0,33891,Storms
+1844,2,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,32664,Storms
+1845,1,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,31184,Storms
+1846,2,Flooding,2,1995,1,0,0,31012,Flooding
+1847,5,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,30575,Storms
+1848,5,Hail,2,1995,1,0,0,29706,Hail
+1849,3,Hail,2,1995,1,0,0,29573,Hail
+1850,1,Lightning,1,1995,1,0,0,26499,Lightning
+1851,5,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,16975,Storms
+1852,1,Severe Storm/Thunder Storm,1,1995,1,0,0,16015,Storms
+1853,4,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,15038,Storms
+1854,4,Tornado,1,1995,1,0,0,14677,Storms
+1855,4,Severe Storm/Thunder Storm/ Wind,1,1995,1,0,0,14620,Storms
+1856,4,Flooding,1,1995,3,0,0,14569,Flooding
+1857,4,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,14534,Storms
+1858,2,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,0,8566,Storms
+1859,6,Drought,2,1995,31,0,0,0,Drought/Heat
+1860,1,Drought,2,1995,31,0,0,0,Drought/Heat
+1861,2,Drought,2,1995,31,0,0,0,Drought/Heat
+1862,4,Drought,2,1995,31,0,0,0,Drought/Heat
+1863,3,Drought,2,1995,31,0,0,0,Drought/Heat
+1864,5,Drought,2,1995,31,0,0,0,Drought/Heat
+1865,2,Severe Storm/Thunder Storm/ Wind,2,1995,1,0,23,0,Storms
+1866,2,Lightning,2,1995,1,0,12,0,Lightning
+1867,3,Lightning,3,1995,1,11,44,0,Lightning
+1868,2,Lightning,3,1995,1,0,21,0,Lightning
+1869,2,Heat,3,1995,1,12,0,0,Drought/Heat
+1870,1,Heat,3,1995,1,13,0,0,Drought/Heat
+1871,1,Winter Weather,4,1995,1,12,0,0,Winter Weather
+1872,1,Heat,3,1995,1,12,0,0,Drought/Heat
+1873,2,Lightning,2,1995,1,0,10,0,Lightning
+1874,2,Hurricane/Tropical Storm,3,1996,1,10,0,14333378,Storms
+1875,2,Hurricane/Tropical Storm,3,1996,1,0,0,13037192,Storms
+1876,2,Hurricane/Tropical Storm,3,1996,1,0,0,12367096,Storms
+1877,1,Severe Storm/Thunder Storm/ Wind,1,1996,1,0,0,6042782,Storms
+1878,2,Tornado,4,1996,1,0,0,3916236,Storms
+1879,4,Lightning,3,1996,1,0,0,3064508,Lightning
+1880,2,Flooding,3,1996,1,0,0,2882844,Flooding
+1881,3,Lightning,3,1996,1,0,0,1733016,Lightning
+1882,1,Severe Storm/Thunder Storm/ Wind,1,1996,1,12,36,1618489,Storms
+1883,5,Tornado,3,1996,1,0,0,1129336,Storms
+1884,1,Severe Storm/Thunder Storm/ Wind,1,1996,1,0,0,851886,Storms
+1885,4,Tornado,1,1996,1,0,0,492944,Storms
+1886,1,Severe Storm/Thunder Storm/ Wind,3,1996,1,0,0,314408,Storms
+1887,1,Severe Storm/Thunder Storm/ Wind,3,1996,1,0,0,305848,Storms
+1888,1,Severe Storm/Thunder Storm/ Wind,2,1996,1,0,0,248075,Storms
+1889,1,Severe Storm/Thunder Storm/ Wind,1,1996,1,0,0,241536,Storms
+1890,1,Severe Storm/Thunder Storm/ Wind,1,1996,1,0,0,232643,Storms
+1891,1,Severe Storm/Thunder Storm/ Wind,3,1996,1,0,0,217806,Storms
+1892,1,Tornado,3,1996,1,0,0,216593,Storms
+1893,1,Severe Storm/Thunder Storm/ Wind,3,1996,1,0,0,173072,Storms
+1894,2,Lightning,3,1996,1,0,0,167761,Lightning
+1895,1,Severe Storm/Thunder Storm/ Wind,2,1996,1,0,0,162165,Storms
+1896,1,Winter Weather,1,1996,1,0,0,122945,Winter Weather
+1897,1,Winter Weather,1,1996,1,0,0,106675,Winter Weather
+1898,3,Flooding,1,1996,1,0,0,85949,Flooding
+1899,4,Tornado,1,1996,1,0,0,79299,Storms
+1900,1,Severe Storm/Thunder Storm/ Wind,2,1996,1,0,0,74623,Storms
+1901,1,Wind,1,1996,1,0,0,26124,Wind
+1902,2,Severe Storm/Thunder Storm/ Wind,1,1996,1,0,0,8658,Storms
+1903,1,Winter Weather,1,1996,1,23,0,0,Winter Weather
+1904,4,Lightning,2,1996,1,0,11,0,Lightning
+1905,1,Winter Weather,1,1996,1,0,0,0,Winter Weather
+1906,1,Winter Weather,4,1996,1,25,0,0,Winter Weather
+1907,2,Severe Storm/Thunder Storm/ Wind,3,1997,1,0,25,8266818,Storms
+1908,4,Lightning,3,1997,1,0,0,4648123,Lightning
+1909,5,Lightning,3,1997,1,0,0,3360901,Lightning
+1910,3,Tornado,3,1997,1,0,11,3107974,Storms
+1911,1,Flooding,3,1997,1,0,0,1678568,Flooding
+1912,5,Severe Storm/Thunder Storm/ Wind,2,1997,1,0,0,748293,Storms
+1913,1,Winter Weather,1,1997,1,0,0,594132,Winter Weather
+1914,4,Severe Storm/Thunder Storm/ Wind,3,1997,1,0,49,487401,Storms
+1915,1,Severe Storm/Thunder Storm/ Wind,3,1997,1,0,0,376247,Storms
+1916,2,Tornado,2,1997,1,0,13,347475,Storms
+1917,3,Severe Storm/Thunder Storm/ Wind,3,1997,1,0,0,313904,Storms
+1918,3,Severe Storm/Thunder Storm/ Wind,2,1997,1,0,10,287238,Storms
+1919,3,Severe Storm/Thunder Storm/ Wind,1,1997,1,0,0,86147,Storms
+1920,1,Severe Storm/Thunder Storm/ Wind,3,1997,1,0,0,80773,Storms
+1921,2,Severe Storm/Thunder Storm/ Wind,4,1997,1,0,0,75582,Storms
+1922,1,Wind,2,1997,1,0,68,44940,Wind
+1923,3,Severe Storm/Thunder Storm/ Wind,4,1997,1,0,0,34138,Storms
+1924,2,Hail,2,1997,1,0,0,0,Hail
+1925,4,Severe Storm/Thunder Storm/ Wind,2,1997,1,0,49,0,Storms
+1926,2,Hurricane/Tropical Storm,3,1998,1,0,0,55436663,Storms
+1927,6,Tornado,2,1998,1,12,110,16162699,Storms
+1928,6,Tornado,2,1998,1,0,23,7597863,Storms
+1929,6,Tornado,2,1998,1,0,0,4453619,Storms
+1930,4,Tornado,1,1998,1,0,0,3393627,Storms
+1931,4,Tornado,1,1998,1,0,0,1275642,Storms
+1932,2,Lightning,3,1998,1,0,0,1223972,Lightning
+1933,1,Flooding,1,1998,2,0,0,865202,Flooding
+1934,2,Severe Storm/Thunder Storm/ Wind,2,1998,1,0,0,818518,Storms
+1935,2,Severe Storm/Thunder Storm,3,1998,1,0,0,807025,Storms
+1936,2,Hail,2,1998,1,0,0,719997,Hail
+1937,2,Lightning,2,1998,1,0,0,449784,Lightning
+1938,2,Severe Storm/Thunder Storm/ Wind,3,1998,1,0,0,424833,Storms
+1939,2,Tornado,1,1998,1,0,0,411319,Storms
+1940,1,Severe Storm/Thunder Storm/ Wind,2,1998,1,0,0,310730,Storms
+1941,2,Severe Storm/Thunder Storm/ Wind,2,1998,1,0,0,306450,Storms
+1942,1,Wind,1,1998,1,0,0,162736,Wind
+1943,2,Severe Storm/Thunder Storm/ Wind,3,1998,1,0,0,146202,Storms
+1944,2,Severe Storm/Thunder Storm/ Wind,3,1998,1,0,0,145553,Storms
+1945,1,Lightning,3,1998,1,0,0,79957,Lightning
+1946,2,Severe Storm/Thunder Storm/ Wind,1,1998,1,0,0,65354,Storms
+1947,5,Tornado,2,1998,1,0,0,29712,Storms
+1948,1,Severe Storm/Thunder Storm/ Wind,2,1998,1,0,36,0,Storms
+1949,2,Lightning,3,1998,1,11,11,0,Lightning
+1950,1,Winter Weather,1,1999,2,0,0,30432669,Winter Weather
+1951,5,Severe Storm/Thunder Storm/ Wind,3,1999,1,0,0,12000604,Storms
+1952,2,Severe Storm/Thunder Storm/ Wind,1,1999,1,0,21,2828393,Storms
+1953,1,Severe Storm/Thunder Storm/ Wind,3,1999,1,0,0,1006887,Storms
+1954,2,Flooding,2,1999,1,0,0,410606,Flooding
+1955,2,Tornado,2,1999,1,0,0,403671,Storms
+1956,1,Lightning,2,1999,1,0,0,292374,Lightning
+1957,1,Severe Storm/Thunder Storm/ Wind,3,1999,1,0,0,154572,Storms
+1958,1,Severe Storm/Thunder Storm/ Wind,2,1999,1,0,0,79022,Storms
+1959,1,Hail,2,1999,1,0,0,73537,Hail
+1960,4,Hail,3,1999,1,0,0,8282,Hail
+1961,6,Tornado,2,1999,1,0,0,8175,Storms
+1962,3,Lightning,2,1999,1,0,35,0,Lightning
+1963,2,Heat,3,1999,12,0,175,0,Drought/Heat
+1964,1,Heat,3,1999,6,16,0,0,Drought/Heat
+1965,2,Lightning,3,1999,1,0,12,0,Lightning
+1966,2,Flooding,3,2000,1,0,0,30762391,Flooding
+1967,1,Lightning,2,2000,1,0,0,6622331,Lightning
+1968,1,Severe Storm/Thunder Storm/ Wind,3,2000,1,0,0,1968850,Storms
+1969,2,Flooding,3,2000,1,0,0,1171898,Flooding
+1970,2,Flooding,3,2000,1,0,0,428677,Flooding
+1971,2,Severe Storm/Thunder Storm/ Wind,3,2000,1,0,0,232429,Storms
+1972,2,Flooding,3,2000,1,0,0,152892,Flooding
+1973,2,Severe Storm/Thunder Storm/ Wind,2,2000,1,0,0,81241,Storms
+1974,2,Severe Storm/Thunder Storm/ Wind,3,2000,1,0,0,45668,Storms
+1975,2,Severe Storm/Thunder Storm/ Wind,3,2000,1,0,0,33504,Storms
+1976,2,Hail,2,2000,1,0,0,32569,Hail
+1977,1,Severe Storm/Thunder Storm/ Wind,4,2000,1,0,0,16704,Storms
+1978,1,Severe Storm/Thunder Storm/ Wind,2,2000,1,0,0,15772,Storms
+1979,3,Severe Storm/Thunder Storm/ Wind,2,2000,1,11,11,0,Storms
+1980,1,Severe Storm/Thunder Storm/ Wind,2,2000,1,0,23,0,Storms
+1981,3,Severe Storm/Thunder Storm/ Wind,2,2000,1,0,12,0,Storms
+1982,2,Lightning,3,2000,1,0,11,0,Lightning
+1983,1,Heat,3,2000,1,11,0,0,Drought/Heat
+1984,2,Tornado,3,2001,1,0,471,127652985,Storms
+1985,2,Tornado,3,2001,1,0,0,11943530,Storms
+1986,2,Lightning,2,2001,1,0,0,2863822,Lightning
+1987,2,Flooding,1,2001,1,10,0,726180,Flooding
+1988,2,Lightning,3,2001,1,0,0,388374,Lightning
+1989,2,Lightning,2,2001,1,0,0,321668,Lightning
+1990,2,Severe Storm/Thunder Storm/ Wind,2,2001,1,0,0,255137,Storms
+1991,2,Fog,4,2001,1,10,109,217925,Fog
+1992,2,Severe Storm/Thunder Storm/ Wind,2,2001,1,0,0,82604,Storms
+1993,2,Severe Storm/Thunder Storm/ Wind,1,2001,1,0,0,50219,Storms
+1994,2,Wind/ Winter Weather,2,2001,1,0,0,0,Winter Weather
+1995,1,Winter Weather,4,2002,2,0,0,183566160,Winter Weather
+1996,1,Tornado,4,2002,1,0,0,4018482,Storms
+1997,1,Flooding,2,2002,1,0,0,775638,Flooding
+1998,2,Lightning,3,2002,1,0,0,437610,Lightning
+1999,1,Severe Storm/Thunder Storm/ Wind,3,2002,1,0,0,402640,Storms
+2000,1,Severe Storm/Thunder Storm/ Wind,4,2002,1,0,0,170615,Storms
+2001,1,Severe Storm/Thunder Storm/ Wind,2,2002,1,0,0,168490,Storms
+2002,1,Severe Storm/Thunder Storm/ Wind,3,2002,1,0,0,157362,Storms
+2003,1,Severe Storm/Thunder Storm/ Wind,3,2002,1,0,0,151307,Storms
+2004,4,Severe Storm/Thunder Storm/ Wind,3,2002,1,0,11,122225,Storms
+2005,4,Severe Storm/Thunder Storm/ Wind,3,2002,1,0,0,97489,Storms
+2006,1,Severe Storm/Thunder Storm/ Wind,4,2002,1,0,0,78879,Storms
+2007,3,Severe Storm/Thunder Storm/ Wind,4,2002,1,0,0,46676,Storms
+2008,1,Severe Storm/Thunder Storm/ Wind,2,2002,1,0,0,43504,Storms
+2009,1,Tornado,4,2002,1,0,0,30930,Storms
+2010,4,Severe Storm/Thunder Storm/ Wind,2,2002,1,0,0,29766,Storms
+2011,4,Severe Storm/Thunder Storm/ Wind,2,2002,1,0,0,29541,Storms
+2012,1,Wind,1,2002,1,0,0,14403,Wind
+2013,2,Wind/ Winter Weather,1,2002,1,12,0,0,Winter Weather
+2014,1,Flooding,1,2003,1,0,0,16417916,Flooding
+2015,1,Severe Storm/Thunder Storm/ Wind,3,2003,1,0,0,4704239,Storms
+2016,3,Lightning,3,2003,1,0,0,2551339,Lightning
+2017,2,Severe Storm/Thunder Storm/ Wind,3,2003,1,0,0,1713125,Storms
+2018,1,Lightning,3,2003,1,0,0,1627366,Lightning
+2019,3,Lightning,1,2003,1,0,0,1084007,Lightning
+2020,3,Lightning,2,2003,1,0,0,786330,Lightning
+2021,1,Wind,1,2003,1,0,23,772071,Wind
+2022,3,Severe Storm/Thunder Storm/ Wind,2,2003,1,0,0,474989,Storms
+2023,1,Flooding,3,2003,1,0,0,171835,Flooding
+2024,2,Severe Storm/Thunder Storm/ Wind,3,2003,1,0,0,147534,Storms
+2025,2,Severe Storm/Thunder Storm/ Wind,3,2003,1,0,0,72958,Storms
+2026,1,Severe Storm/Thunder Storm/ Wind,2,2003,1,0,0,50228,Storms
+2027,1,Severe Storm/Thunder Storm/ Wind,2,2003,1,0,0,34826,Storms
+2028,1,Severe Storm/Thunder Storm/ Wind,2,2003,1,0,0,16944,Storms
+2029,1,Hail,2,2003,1,0,0,16799,Hail
+2030,1,Severe Storm/Thunder Storm/ Wind,3,2003,1,0,0,16032,Storms
+2031,1,Severe Storm/Thunder Storm/ Wind,1,2003,1,0,0,15720,Storms
+2032,1,Severe Storm/Thunder Storm/ Wind,3,2003,1,0,0,14336,Storms
+2033,1,Hail,2,2003,1,0,11,0,Hail
+2034,4,Lightning,3,2003,1,0,11,0,Lightning
+2035,2,Hurricane/Tropical Storm,3,2004,1,0,38,68683545,Storms
+2036,1,Flooding,3,2004,1,0,0,56691507,Flooding
+2037,2,Winter Weather,1,2004,2,0,0,52567926,Winter Weather
+2038,5,Tornado,3,2004,1,0,37,28198805,Storms
+2039,3,Tornado,3,2004,1,0,0,5049020,Storms
+2040,3,Severe Storm/Thunder Storm/ Wind,3,2004,1,0,33,4387992,Storms
+2041,4,Lightning,3,2004,1,0,0,2407522,Lightning
+2042,1,Severe Storm/Thunder Storm/ Wind,3,2004,1,0,0,2158091,Storms
+2043,2,Severe Storm/Thunder Storm/ Wind,2,2004,1,0,0,1934538,Storms
+2044,3,Tornado,3,2004,1,0,36,1622927,Storms
+2045,2,Severe Storm/Thunder Storm/ Wind,2,2004,1,0,0,576315,Storms
+2046,2,Severe Storm/Thunder Storm/ Wind,2,2004,1,0,0,322683,Storms
+2047,1,Flooding,3,2004,1,0,0,286952,Flooding
+2048,1,Flooding,3,2004,2,0,0,261343,Flooding
+2049,2,Wind,1,2004,1,0,0,248099,Wind
+2050,2,Severe Storm/Thunder Storm/ Wind,3,2004,1,0,0,156617,Storms
+2051,1,Lightning,2,2004,1,0,0,153685,Lightning
+2052,1,Wind,1,2004,1,0,0,147233,Wind
+2053,1,Flooding,3,2004,1,0,0,121857,Flooding
+2054,3,Severe Storm/Thunder Storm/ Wind,3,2004,1,0,0,94046,Storms
+2055,1,Wind,3,2004,2,0,0,85172,Wind
+2056,1,Wind,3,2004,2,0,0,77262,Wind
+2057,1,Wind,3,2004,1,0,0,76921,Wind
+2058,1,Severe Storm/Thunder Storm/ Wind,3,2004,1,0,0,76715,Storms
+2059,1,Wind,1,2004,1,0,0,32287,Wind
+2060,1,Winter Weather,1,2004,2,0,0,30854,Winter Weather
+2061,1,Severe Storm/Thunder Storm/ Wind,3,2004,1,0,0,30334,Storms
+2062,2,Coastal,2,2004,1,23,0,0,Coastal
+2063,4,Tornado,4,2004,1,0,11,0,Storms
+2064,2,Severe Storm/Thunder Storm/ Wind,2,2005,1,0,0,19581658,Storms
+2065,3,Lightning,2,2005,1,0,0,11421809,Lightning
+2066,2,Severe Storm/Thunder Storm,4,2005,3,0,0,7582011,Storms
+2067,1,Winter Weather,4,2005,1,0,0,5093723,Winter Weather
+2068,3,Lightning,3,2005,1,0,0,4921570,Lightning
+2069,1,Flooding,3,2005,1,0,0,4574887,Flooding
+2070,1,Winter Weather,4,2005,1,0,0,1486600,Winter Weather
+2071,1,Severe Storm/Thunder Storm/ Wind,2,2005,1,0,0,381716,Storms
+2072,1,Severe Storm/Thunder Storm/ Wind,2,2005,1,0,0,87051,Storms
+2073,1,Wind,2,2005,1,0,0,75201,Wind
+2074,1,Severe Storm/Thunder Storm/ Wind,2,2005,1,0,0,14288,Storms
+2075,2,Coastal,2,2005,1,24,0,0,Coastal
+2076,2,Coastal,3,2005,1,24,0,0,Coastal
+2077,3,Lightning,2,2006,1,0,0,25342592,Lightning
+2078,4,Severe Storm/Thunder Storm/ Wind,3,2006,1,0,0,673036,Storms
+2079,2,Severe Storm/Thunder Storm/ Wind,2,2006,1,0,0,660394,Storms
+2080,2,Lightning,3,2006,1,0,0,431967,Lightning
+2081,2,Severe Storm/Thunder Storm/ Wind,3,2006,1,0,0,151957,Storms
+2082,4,Tornado,1,2006,1,0,0,86821,Storms
+2083,4,Severe Storm/Thunder Storm/ Wind,2,2006,1,0,0,86559,Storms
+2084,5,Severe Storm/Thunder Storm/ Wind,4,2006,1,0,0,76882,Storms
+2085,2,Lightning,3,2006,1,0,0,76113,Lightning
+2086,1,Wind,3,2006,1,0,0,16753,Wind
+2087,2,Severe Storm/Thunder Storm/ Wind,2,2006,1,0,0,15205,Storms
+2088,2,Coastal,2,2006,1,12,0,0,Coastal
+2089,5,Hail,2,2006,1,0,117,0,Hail
+2090,1,Severe Storm/Thunder Storm/ Wind,3,2006,1,11,0,0,Storms
+2091,2,Severe Storm/Thunder Storm/ Wind,3,2007,1,0,90,17131256,Storms
+2092,1,Wind,2,2007,1,0,0,7606582,Wind
+2093,3,Flooding,2,2007,2,0,0,849667,Flooding
+2094,5,Severe Storm/Thunder Storm/ Wind,2,2007,1,0,0,731094,Storms
+2095,2,Severe Storm/Thunder Storm/ Wind,3,2007,1,0,0,216094,Storms
+2096,1,Severe Storm/Thunder Storm/ Wind,2,2007,1,0,0,155428,Storms
+2097,2,Severe Storm/Thunder Storm/ Wind,2,2007,1,0,0,148057,Storms
+2098,2,Severe Storm/Thunder Storm/ Wind,3,2007,1,0,0,86353,Storms
+2099,1,Lightning,3,2007,1,0,0,79077,Lightning
+2100,5,Severe Storm/Thunder Storm/ Wind,3,2007,1,0,0,77738,Storms
+2101,1,Severe Storm/Thunder Storm/ Wind,2,2007,1,0,0,45006,Storms
+2102,4,Tornado,2,2007,1,0,0,14645,Storms
+2103,2,Tornado,3,2007,1,0,0,8422,Storms
+2104,6,Tornado,1,2007,1,0,0,0,Storms
+2105,5,Tornado,2,2007,1,11,55,0,Storms
+2106,3,Heat,3,2007,1,13,0,0,Drought/Heat
+2107,2,Lightning,2,2007,1,0,12,0,Lightning
+2108,1,Winter Weather,2,2007,1,0,0,0,Winter Weather
+2109,1,Winter Weather,2,2007,1,0,0,0,Winter Weather
+2110,2,Coastal,3,2007,1,12,0,0,Coastal
+2111,2,Coastal,3,2007,1,11,0,0,Coastal
+2112,1,Severe Storm/Thunder Storm/ Wind,3,2008,1,0,0,8193106,Storms
+2113,3,Wind,4,2008,1,0,0,1473284,Wind
+2114,1,Tornado,3,2008,1,0,0,767791,Storms
+2115,3,Flooding,3,2008,1,0,0,431285,Flooding
+2116,3,Flooding,3,2008,1,0,0,345129,Flooding
+2117,3,Severe Storm/Thunder Storm/ Wind,4,2008,1,0,0,337425,Storms
+2118,2,Lightning,3,2008,1,0,0,298176,Lightning
+2119,4,Wind,4,2008,1,0,0,253853,Wind
+2120,6,Wind,4,2008,1,0,0,172342,Wind
+2121,5,Severe Storm/Thunder Storm/ Wind,4,2008,1,0,0,169410,Storms
+2122,5,Tornado,4,2008,1,0,0,159661,Storms
+2123,5,Wind,4,2008,1,0,0,156506,Wind
+2124,3,Tornado,1,2008,1,0,0,150942,Storms
+2125,1,Severe Storm/Thunder Storm/ Wind,3,2008,1,0,0,148089,Storms
+2126,2,Tornado,1,2008,1,0,0,87146,Storms
+2127,3,Severe Storm/Thunder Storm/ Wind,2,2008,1,0,0,79584,Storms
+2128,3,Flooding,3,2008,1,0,0,77857,Flooding
+2129,2,Severe Storm/Thunder Storm/ Wind,1,2008,1,0,0,72586,Storms
+2130,4,Severe Storm/Thunder Storm/ Wind,3,2008,1,0,0,61239,Storms
+2131,3,Flooding,3,2008,1,0,0,34753,Flooding
+2132,1,Wind,2,2008,1,0,0,31012,Wind
+2133,4,Severe Storm/Thunder Storm/ Wind,4,2008,1,0,0,15775,Storms
+2134,2,Lightning,1,2008,1,0,0,15748,Lightning
+2135,6,Tornado,2,2008,1,0,0,0,Storms
+2136,4,Lightning,3,2008,1,12,0,0,Lightning
+2137,2,Wildfire,2,2009,7,0,0,624505392,Wildfire
+2138,3,Lightning,2,2009,1,0,0,8583065,Lightning
+2139,2,Lightning,2,2009,1,0,0,6733929,Lightning
+2140,2,Lightning,2,2009,1,0,0,5045216,Lightning
+2141,3,Flooding,3,2009,2,0,0,4653830,Flooding
+2142,3,Lightning,2,2009,1,0,0,3722493,Lightning
+2143,1,Lightning,3,2009,1,0,0,3265512,Lightning
+2144,2,Lightning,2,2009,1,0,0,1277235,Lightning
+2145,4,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,985360,Storms
+2146,3,Wind,1,2009,1,0,0,434661,Wind
+2147,3,Flooding,2,2009,1,0,0,267429,Flooding
+2148,5,Lightning,3,2009,1,0,0,262204,Lightning
+2149,4,Wind,1,2009,1,0,0,243462,Wind
+2150,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,34,241280,Storms
+2151,5,Wind,1,2009,1,0,0,239230,Wind
+2152,5,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,196101,Storms
+2153,2,Tornado,3,2009,1,0,0,192619,Storms
+2154,6,Wind,1,2009,1,0,0,172501,Wind
+2155,4,Flooding,2,2009,1,0,0,130278,Flooding
+2156,3,Flooding,4,2009,1,0,0,124330,Flooding
+2157,4,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,118103,Storms
+2158,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,101532,Storms
+2159,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,96890,Storms
+2160,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,93257,Storms
+2161,4,Severe Storm/Thunder Storm/ Wind,1,2009,1,0,0,91402,Storms
+2162,5,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,86295,Storms
+2163,6,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,80742,Storms
+2164,5,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,74393,Storms
+2165,5,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,68626,Storms
+2166,5,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,67954,Storms
+2167,5,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,67757,Storms
+2168,6,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,65804,Storms
+2169,4,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,65760,Storms
+2170,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,63566,Storms
+2171,3,Flooding,4,2009,1,0,0,61315,Flooding
+2172,5,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,59235,Storms
+2173,5,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,59166,Storms
+2174,3,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,46490,Storms
+2175,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,44864,Storms
+2176,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,43713,Storms
+2177,4,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,34468,Storms
+2178,3,Flooding,4,2009,1,0,0,34154,Flooding
+2179,4,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,33580,Storms
+2180,3,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,33501,Storms
+2181,4,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,33270,Storms
+2182,6,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,32290,Storms
+2183,5,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,32179,Storms
+2184,4,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,31783,Storms
+2185,2,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,31488,Storms
+2186,3,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,31333,Storms
+2187,5,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,30385,Storms
+2188,4,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,29922,Storms
+2189,3,Severe Storm/Thunder Storm/ Wind,4,2009,1,0,0,28971,Storms
+2190,6,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,28660,Storms
+2191,1,Flooding,4,2009,1,0,0,16917,Flooding
+2192,2,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,15558,Storms
+2193,2,Severe Storm/Thunder Storm/ Wind,2,2009,1,0,0,15468,Storms
+2194,5,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,14376,Storms
+2195,3,Severe Storm/Thunder Storm/ Wind,3,2009,1,0,0,7284,Storms
+2196,2,Coastal,2,2009,1,12,0,0,Coastal
+2197,2,Coastal,3,2009,1,10,10,0,Coastal
+2198,2,Coastal,3,2009,1,12,12,0,Coastal
+2199,3,Heat,4,2009,1,12,0,0,Drought/Heat
+2200,6,Tornado,1,2010,1,0,0,3746223,Storms
+2201,3,Lightning,3,2010,1,0,0,3542414,Lightning
+2202,2,Lightning,3,2010,1,0,0,1630853,Lightning
+2203,5,Tornado,3,2010,1,0,0,1378997,Storms
+2204,5,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,1313648,Storms
+2205,2,Hail,2,2010,1,0,0,784991,Hail
+2206,2,Hail,2,2010,1,0,0,536954,Hail
+2207,2,Hail,2,2010,1,0,0,515261,Hail
+2208,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,479009,Storms
+2209,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,448161,Storms
+2210,5,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,390035,Storms
+2211,3,Flooding,3,2010,1,0,0,378003,Flooding
+2212,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,377176,Storms
+2213,2,Hail,2,2010,1,0,0,345732,Hail
+2214,2,Hail,2,2010,1,0,0,341800,Hail
+2215,4,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,339676,Storms
+2216,1,Flooding,2,2010,1,0,0,339486,Flooding
+2217,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,322905,Storms
+2218,2,Hail,2,2010,1,0,0,297827,Hail
+2219,2,Hail,2,2010,1,0,0,295703,Hail
+2220,2,Hail,2,2010,1,0,0,291803,Hail
+2221,2,Hail,2,2010,1,0,0,290218,Hail
+2222,5,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,275349,Storms
+2223,6,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,245997,Storms
+2224,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,242954,Storms
+2225,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,230789,Storms
+2226,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,223148,Storms
+2227,2,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,218115,Storms
+2228,2,Lightning,2,2010,1,0,0,216831,Lightning
+2229,6,Hail,2,2010,1,0,0,203663,Hail
+2230,3,Flooding,3,2010,1,0,0,194370,Flooding
+2231,6,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,191821,Storms
+2232,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,191213,Storms
+2233,2,Lightning,3,2010,1,0,0,174324,Lightning
+2234,6,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,147296,Storms
+2235,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,130924,Storms
+2236,5,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,129326,Storms
+2237,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,127627,Storms
+2238,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,124064,Storms
+2239,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,123417,Storms
+2240,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,119346,Storms
+2241,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,115225,Storms
+2242,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,103348,Storms
+2243,4,Tornado,3,2010,1,0,0,101941,Storms
+2244,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,101836,Storms
+2245,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,100599,Storms
+2246,4,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,97813,Storms
+2247,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,90394,Storms
+2248,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,89262,Storms
+2249,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,85829,Storms
+2250,4,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,85315,Storms
+2251,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,84261,Storms
+2252,2,Wind,1,2010,1,0,0,81986,Wind
+2253,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,80456,Storms
+2254,2,Hail,4,2010,1,0,0,76652,Hail
+2255,6,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,75257,Storms
+2256,3,Flooding,2,2010,1,0,0,74972,Flooding
+2257,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,69660,Storms
+2258,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,67973,Storms
+2259,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,67053,Storms
+2260,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,66502,Storms
+2261,5,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,66438,Storms
+2262,6,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,66153,Storms
+2263,4,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,65601,Storms
+2264,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,65227,Storms
+2265,5,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,65081,Storms
+2266,5,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,63946,Storms
+2267,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,62983,Storms
+2268,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,62843,Storms
+2269,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,62082,Storms
+2270,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,62057,Storms
+2271,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,61594,Storms
+2272,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,61315,Storms
+2273,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,60884,Storms
+2274,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,60700,Storms
+2275,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,60605,Storms
+2276,5,Tornado,3,2010,1,0,0,59920,Storms
+2277,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,58994,Storms
+2278,6,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,58741,Storms
+2279,3,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,58614,Storms
+2280,6,Severe Storm/Thunder Storm/ Wind,4,2010,1,0,0,58170,Storms
+2281,4,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,58075,Storms
+2282,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,57885,Storms
+2283,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,52140,Storms
+2284,4,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,49976,Storms
+2285,6,Severe Storm/Thunder Storm/ Wind,1,2010,1,0,0,49553,Storms
+2286,2,Hail,2,2010,1,0,0,48882,Hail
+2287,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,48878,Storms
+2288,2,Hail,4,2010,1,0,0,45939,Hail
+2289,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,45677,Storms
+2290,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,44507,Storms
+2291,2,Hail,2,2010,1,0,0,44108,Hail
+2292,3,Severe Storm/Thunder Storm/ Wind,4,2010,1,0,0,42852,Storms
+2293,2,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,39671,Storms
+2294,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,33168,Storms
+2295,4,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,32924,Storms
+2296,3,Severe Storm/Thunder Storm/ Wind,4,2010,1,0,0,32315,Storms
+2297,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,31872,Storms
+2298,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,31833,Storms
+2299,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,31681,Storms
+2300,3,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,31669,Storms
+2301,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,31526,Storms
+2302,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,30927,Storms
+2303,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,30857,Storms
+2304,5,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,30160,Storms
+2305,2,Wind,1,2010,1,0,0,29424,Wind
+2306,3,Flooding,3,2010,1,0,0,28986,Flooding
+2307,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,28898,Storms
+2308,4,Severe Storm/Thunder Storm/ Wind,1,2010,1,0,0,28882,Storms
+2309,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,23453,Storms
+2310,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,23453,Storms
+2311,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,23375,Storms
+2312,3,Severe Storm/Thunder Storm/ Wind,1,2010,1,0,0,17403,Storms
+2313,2,Hail,2,2010,1,0,0,17270,Hail
+2314,2,Hail,4,2010,1,0,0,17131,Hail
+2315,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,17093,Storms
+2316,2,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,16888,Storms
+2317,6,Severe Storm/Thunder Storm/ Wind,4,2010,1,0,0,16738,Storms
+2318,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,16558,Storms
+2319,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,16425,Storms
+2320,2,Hail,2,2010,1,0,0,16126,Hail
+2321,2,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,15939,Storms
+2322,2,Wind,3,2010,1,0,0,15208,Wind
+2323,3,Severe Storm/Thunder Storm/ Wind,1,2010,1,0,0,14995,Storms
+2324,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,14510,Storms
+2325,4,Severe Storm/Thunder Storm/ Wind,3,2010,1,0,0,14498,Storms
+2326,2,Hail,2,2010,1,0,0,7733,Hail
+2327,6,Severe Storm/Thunder Storm/ Wind,2,2010,1,0,0,0,Storms
+2328,6,Tornado,1,2010,1,0,0,0,Storms
+2329,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,15682066,Storms
+2330,6,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8652814,Storms
+2331,3,Severe Storm/Thunder Storm,3,2011,1,0,0,2037108,Storms
+2332,5,Hail,2,2011,1,0,0,1561580,Hail
+2333,5,Lightning,3,2011,1,0,0,1422980,Lightning
+2334,3,Flooding,3,2011,1,0,0,1393707,Flooding
+2335,5,Hail,2,2011,1,0,0,1043378,Hail
+2336,5,Hail,2,2011,1,0,0,967384,Hail
+2337,5,Hail,2,2011,1,0,0,966433,Hail
+2338,5,Hail,2,2011,1,0,0,881593,Hail
+2339,2,Hail,2,2011,1,0,0,832539,Hail
+2340,4,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,808670,Storms
+2341,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,782533,Storms
+2342,5,Tornado,2,2011,1,0,0,751993,Storms
+2343,3,Flooding,3,2011,1,0,0,664148,Flooding
+2344,4,Hail,2,2011,1,0,0,640040,Hail
+2345,5,Hail,2,2011,1,0,0,630909,Hail
+2346,5,Hail,2,2011,1,0,0,595401,Hail
+2347,5,Hail,2,2011,1,0,0,573778,Hail
+2348,3,Flooding,3,2011,1,0,0,515982,Flooding
+2349,2,Hail,2,2011,1,0,0,504164,Hail
+2350,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,453066,Storms
+2351,2,Hail,2,2011,1,0,0,372125,Hail
+2352,3,Flooding,3,2011,1,0,0,347881,Flooding
+2353,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,344020,Storms
+2354,3,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,343259,Storms
+2355,5,Flooding,3,2011,1,0,0,325866,Flooding
+2356,3,Flooding,3,2011,1,0,0,319608,Flooding
+2357,2,Hail,2,2011,1,0,0,315042,Hail
+2358,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,301971,Storms
+2359,6,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,301172,Storms
+2360,5,Tornado,2,2011,1,0,0,300002,Storms
+2361,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,294783,Storms
+2362,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,285906,Storms
+2363,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,268700,Storms
+2364,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,264335,Storms
+2365,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,218510,Storms
+2366,6,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,205156,Storms
+2367,4,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,199640,Storms
+2368,5,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,192715,Storms
+2369,3,Hail,2,2011,1,0,0,190014,Hail
+2370,3,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,189767,Storms
+2371,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,188721,Storms
+2372,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,173217,Storms
+2373,2,Hail,2,2011,1,0,0,172786,Hail
+2374,2,Hail,2,2011,1,0,0,170060,Hail
+2375,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,165019,Storms
+2376,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,155730,Storms
+2377,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,151354,Storms
+2378,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,148057,Storms
+2379,5,Hail,2,2011,1,0,0,148041,Hail
+2380,2,Hail,2,2011,1,0,0,144253,Hail
+2381,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,136809,Storms
+2382,4,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,134615,Storms
+2383,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,129859,Storms
+2384,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,123138,Storms
+2385,6,Severe Storm/Thunder Storm/ Wind,1,2011,1,0,0,120449,Storms
+2386,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,116505,Storms
+2387,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,99962,Storms
+2388,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,96205,Storms
+2389,6,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,95948,Storms
+2390,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,94208,Storms
+2391,2,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,93476,Storms
+2392,3,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,90860,Storms
+2393,3,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,90470,Storms
+2394,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,87655,Storms
+2395,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,86987,Storms
+2396,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,86542,Storms
+2397,4,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,85600,Storms
+2398,3,Flooding,3,2011,1,0,0,79933,Flooding
+2399,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,77579,Storms
+2400,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,75835,Storms
+2401,6,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,75669,Storms
+2402,3,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,75653,Storms
+2403,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,75384,Storms
+2404,2,Hail,2,2011,1,0,0,71603,Hail
+2405,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,69419,Storms
+2406,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,69038,Storms
+2407,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,67827,Storms
+2408,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,67649,Storms
+2409,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,66952,Storms
+2410,3,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,65817,Storms
+2411,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,65424,Storms
+2412,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,64764,Storms
+2413,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,64435,Storms
+2414,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,63452,Storms
+2415,2,Hail,2,2011,1,0,0,61955,Hail
+2416,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,61397,Storms
+2417,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,61328,Storms
+2418,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,60339,Storms
+2419,6,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,60098,Storms
+2420,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,59762,Storms
+2421,3,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,59711,Storms
+2422,5,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,59387,Storms
+2423,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,59387,Storms
+2424,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,59292,Storms
+2425,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,58969,Storms
+2426,5,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,58785,Storms
+2427,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,58386,Storms
+2428,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,58335,Storms
+2429,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,57745,Storms
+2430,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,57701,Storms
+2431,3,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,51778,Storms
+2432,6,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,51593,Storms
+2433,5,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,51493,Storms
+2434,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,49800,Storms
+2435,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,49567,Storms
+2436,3,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,49258,Storms
+2437,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,49210,Storms
+2438,6,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,48801,Storms
+2439,2,Hail,2,2011,1,0,0,48702,Hail
+2440,4,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,47451,Storms
+2441,2,Hail,2,2011,1,0,0,46077,Hail
+2442,2,Hail,2,2011,1,0,0,46005,Hail
+2443,2,Hail,2,2011,1,0,0,45934,Hail
+2444,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,45848,Storms
+2445,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,45701,Storms
+2446,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,44231,Storms
+2447,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,44074,Storms
+2448,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,43537,Storms
+2449,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,43508,Storms
+2450,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,43223,Storms
+2451,2,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,43014,Storms
+2452,2,Hail,2,2011,1,0,0,42847,Hail
+2453,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,34791,Storms
+2454,5,Hail,2,2011,1,0,0,34677,Hail
+2455,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,34500,Storms
+2456,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,34284,Storms
+2457,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,34148,Storms
+2458,6,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,34084,Storms
+2459,4,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,34056,Storms
+2460,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,33628,Storms
+2461,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,33317,Storms
+2462,4,Hail,2,2011,1,0,0,33247,Hail
+2463,2,Hail,2,2011,1,0,0,32452,Hail
+2464,3,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,32284,Storms
+2465,4,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,31786,Storms
+2466,6,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,31199,Storms
+2467,6,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,30879,Storms
+2468,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,30743,Storms
+2469,3,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,30737,Storms
+2470,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,30166,Storms
+2471,2,Hail,2,2011,1,0,0,29820,Hail
+2472,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,29766,Storms
+2473,4,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,29481,Storms
+2474,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,29126,Storms
+2475,4,Severe Storm/Thunder Storm/ Wind,1,2011,1,0,0,28901,Storms
+2476,2,Hail,2,2011,1,0,0,25842,Hail
+2477,2,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,17435,Storms
+2478,2,Hail,2,2011,1,0,0,17395,Hail
+2479,6,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,17343,Storms
+2480,6,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,17251,Storms
+2481,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,17232,Storms
+2482,2,Hail,2,2011,1,0,0,17132,Hail
+2483,2,Hail,2,2011,1,0,0,17012,Hail
+2484,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,16971,Storms
+2485,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,16825,Storms
+2486,3,Severe Storm/Thunder Storm/ Wind,4,2011,1,0,0,16481,Storms
+2487,2,Hail,2,2011,1,0,0,16440,Hail
+2488,2,Hail,2,2011,1,0,0,16297,Hail
+2489,2,Hail,2,2011,1,0,0,16249,Hail
+2490,2,Hail,2,2011,1,0,0,16245,Hail
+2491,2,Hail,2,2011,1,0,0,16200,Hail
+2492,4,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,16004,Storms
+2493,2,Hail,2,2011,1,0,0,15955,Hail
+2494,2,Hail,2,2011,1,0,0,15936,Hail
+2495,2,Hail,3,2011,1,0,0,15893,Hail
+2496,2,Hail,2,2011,1,0,0,15855,Hail
+2497,2,Hail,2,2011,1,0,0,15771,Hail
+2498,2,Hail,3,2011,1,0,0,15771,Hail
+2499,2,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,15685,Storms
+2500,2,Wind,4,2011,1,0,0,15637,Wind
+2501,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,15173,Storms
+2502,2,Hail,2,2011,1,0,0,15170,Hail
+2503,2,Hail,2,2011,1,0,0,15162,Hail
+2504,2,Hail,2,2011,1,0,0,15100,Hail
+2505,2,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,14984,Storms
+2506,2,Hail,2,2011,1,0,0,14766,Hail
+2507,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,14642,Storms
+2508,2,Hail,2,2011,1,0,0,14309,Hail
+2509,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8695,Storms
+2510,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8643,Storms
+2511,2,Hail,2,2011,1,0,0,8566,Hail
+2512,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8511,Storms
+2513,2,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8492,Storms
+2514,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8487,Storms
+2515,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8438,Storms
+2516,2,Hail,3,2011,1,0,0,8428,Hail
+2517,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8427,Storms
+2518,4,Severe Storm/Thunder Storm/ Wind,3,2011,1,0,0,8392,Storms
+2519,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,8274,Storms
+2520,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,7988,Storms
+2521,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,7981,Storms
+2522,5,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,7979,Storms
+2523,2,Hail,3,2011,1,0,0,7968,Hail
+2524,4,Wind,4,2011,1,0,0,7550,Wind
+2525,2,Hail,2,2011,1,0,0,7350,Hail
+2526,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,7293,Storms
+2527,3,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,0,7236,Storms
+2528,2,Hail,3,2011,1,0,0,4272,Hail
+2529,2,Coastal,3,2011,1,24,0,0,Coastal
+2530,3,Lightning,2,2011,1,0,63,0,Lightning
+2531,3,Hail,2,2011,1,0,0,0,Hail
+2532,2,Coastal,2,2011,1,12,0,0,Coastal
+2533,5,Hail,2,2011,1,0,0,0,Hail
+2534,3,Hail,2,2011,1,0,0,0,Hail
+2535,2,Coastal,2,2011,1,0,12,0,Coastal
+2536,1,Severe Storm/Thunder Storm/ Wind,2,2011,1,0,12,0,Storms
+2537,5,Lightning,3,2012,1,0,0,20329397,Lightning
+2538,5,Hail,2,2012,1,0,0,1307980,Hail
+2539,3,Lightning,2,2012,1,0,0,790777,Lightning
+2540,5,Lightning,2,2012,1,0,0,508658,Lightning
+2541,3,Tornado,1,2012,1,0,0,501810,Storms
+2542,4,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,390831,Storms
+2543,6,Hail,3,2012,1,0,0,348522,Hail
+2544,1,Wind,2,2012,1,0,0,339771,Wind
+2545,4,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,319829,Storms
+2546,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,315137,Storms
+2547,4,Tornado,2,2012,1,0,0,314313,Storms
+2548,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,306133,Storms
+2549,6,Hail,3,2012,1,0,0,296020,Hail
+2550,6,Hail,3,2012,1,0,0,290281,Hail
+2551,4,Hail,2,2012,1,0,0,226509,Hail
+2552,3,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,200191,Storms
+2553,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,177764,Storms
+2554,2,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,161230,Storms
+2555,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,156792,Storms
+2556,4,Tornado,2,2012,1,0,0,156522,Storms
+2557,5,Tornado,1,2012,1,0,0,152559,Storms
+2558,3,Flooding,2,2012,1,0,0,150498,Flooding
+2559,3,Flooding,2,2012,1,0,0,145664,Flooding
+2560,6,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,133029,Storms
+2561,6,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,127640,Storms
+2562,4,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,122821,Storms
+2563,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,119029,Storms
+2564,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,93704,Storms
+2565,5,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,91897,Storms
+2566,5,Hail,3,2012,1,0,0,83460,Hail
+2567,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,82747,Storms
+2568,4,Hail,2,2012,1,0,0,82739,Hail
+2569,3,Hail,3,2012,1,0,0,82493,Hail
+2570,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,78578,Storms
+2571,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,77349,Storms
+2572,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,76525,Storms
+2573,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,69602,Storms
+2574,3,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,69083,Storms
+2575,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,68924,Storms
+2576,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,68867,Storms
+2577,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,68683,Storms
+2578,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,67751,Storms
+2579,5,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,67510,Storms
+2580,6,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,64181,Storms
+2581,4,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,63965,Storms
+2582,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,63205,Storms
+2583,3,Flooding,3,2012,1,0,0,63154,Flooding
+2584,3,Flooding,3,2012,1,0,0,62450,Flooding
+2585,4,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,62057,Storms
+2586,4,Severe Storm/Thunder Storm/ Wind,2,2012,1,11,0,59502,Storms
+2587,5,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,58233,Storms
+2588,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,57752,Storms
+2589,4,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,57517,Storms
+2590,3,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,51517,Storms
+2591,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,50604,Storms
+2592,2,Hail,2,2012,1,0,0,50490,Hail
+2593,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,50242,Storms
+2594,5,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,49924,Storms
+2595,4,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,49577,Storms
+2596,5,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,47598,Storms
+2597,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,47403,Storms
+2598,3,Flooding,3,2012,1,0,0,46614,Flooding
+2599,2,Hail,4,2012,1,0,0,46462,Hail
+2600,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,45767,Storms
+2601,5,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,44507,Storms
+2602,4,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,43718,Storms
+2603,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,43109,Storms
+2604,5,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,34627,Storms
+2605,2,Hail,4,2012,1,0,0,34468,Hail
+2606,3,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,34294,Storms
+2607,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,34170,Storms
+2608,6,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,34107,Storms
+2609,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,32918,Storms
+2610,3,Flooding,3,2012,1,0,0,32899,Flooding
+2611,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,32464,Storms
+2612,2,Hail,4,2012,1,0,0,32192,Hail
+2613,2,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,31872,Storms
+2614,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,31849,Storms
+2615,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,31738,Storms
+2616,2,Hail,4,2012,1,0,0,31510,Hail
+2617,2,Hail,4,2012,1,0,0,30749,Hail
+2618,5,Severe Storm/Thunder Storm/ Wind,4,2012,1,0,0,30657,Storms
+2619,2,Hail,2,2012,1,0,0,29164,Hail
+2620,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,29135,Storms
+2621,6,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,29094,Storms
+2622,3,Flooding,2,2012,1,0,0,29056,Flooding
+2623,3,Flooding,3,2012,1,0,0,28812,Flooding
+2624,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,28673,Storms
+2625,3,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,28593,Storms
+2626,2,Hail,3,2012,1,0,0,25191,Hail
+2627,2,Hail,4,2012,1,0,0,22673,Hail
+2628,2,Hail,3,2012,1,0,0,21004,Hail
+2629,2,Hail,2,2012,1,0,0,17310,Hail
+2630,2,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,17302,Storms
+2631,3,Flooding,3,2012,1,0,0,17155,Flooding
+2632,2,Hail,2,2012,1,0,0,17140,Hail
+2633,2,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,17082,Storms
+2634,2,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,16641,Storms
+2635,2,Hail,1,2012,1,0,0,16560,Hail
+2636,2,Hail,2,2012,1,0,0,16245,Hail
+2637,2,Hail,2,2012,1,0,0,16173,Hail
+2638,2,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,16008,Storms
+2639,2,Hail,2,2012,1,0,0,15905,Hail
+2640,2,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,15839,Storms
+2641,3,Flooding,3,2012,1,0,0,15672,Flooding
+2642,3,Flooding,2,2012,1,0,0,15371,Flooding
+2643,2,Lightning,3,2012,1,0,0,15333,Lightning
+2644,2,Hail,2,2012,1,0,0,15059,Hail
+2645,2,Hail,1,2012,1,0,0,14786,Hail
+2646,2,Hail,2,2012,1,0,0,14721,Hail
+2647,2,Severe Storm/Thunder Storm/ Wind,1,2012,1,0,0,14487,Storms
+2648,3,Severe Storm/Thunder Storm/ Wind,2,2012,1,0,0,14423,Storms
+2649,2,Hail,2,2012,1,0,0,8266,Hail
+2650,4,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,8102,Storms
+2651,2,Hail,1,2012,1,0,0,8006,Hail
+2652,2,Severe Storm/Thunder Storm/ Wind,3,2012,1,0,0,7767,Storms
+2653,2,Hail,1,2012,1,0,0,7619,Hail
+2654,2,Hail,3,2012,1,0,0,7489,Hail
+2655,2,Hail,2,2012,1,0,0,7388,Hail
+2656,2,Hail,1,2012,1,0,0,4240,Hail
+2657,2,Hail,4,2012,1,0,0,4133,Hail
+2658,2,Hail,2,2012,1,0,0,3993,Hail
+2659,2,Hail,3,2012,1,0,0,3792,Hail
+2660,5,Hail,2,2012,1,0,0,0,Hail
+2661,2,Lightning,3,2012,1,0,13,0,Lightning
+2662,2,Wildfire,1,2013,1,0,0,177745305,Wildfire
+2663,3,Severe Storm/Thunder Storm - Wind,3,2013,1,0,0,13384699,Storms
+2664,1,Flooding,3,2013,1,0,0,8238284,Flooding
+2665,4,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,6480361,Storms
+2666,4,Tornado,2,2013,1,0,0,4881972,Storms
+2667,2,Tornado,2,2013,1,0,0,581895,Storms
+2668,1,Flooding,2,2013,1,0,0,429192,Flooding
+2669,3,Flooding,3,2013,1,0,0,377746,Flooding
+2670,2,Lightning,3,2013,1,0,0,303121,Lightning
+2671,3,Flooding,3,2013,1,0,0,296977,Flooding
+2672,2,Tornado,2,2013,1,0,0,224773,Storms
+2673,5,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,205632,Storms
+2674,6,Flooding,2,2013,2,0,0,197357,Flooding
+2675,3,Flooding,3,2013,1,0,0,184954,Flooding
+2676,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,173943,Storms
+2677,5,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,170868,Storms
+2678,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,168411,Storms
+2679,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,167650,Storms
+2680,5,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,164131,Storms
+2681,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,150514,Storms
+2682,6,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,149056,Storms
+2683,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,148739,Storms
+2684,4,Flooding,3,2013,1,0,0,138812,Flooding
+2685,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,128984,Storms
+2686,5,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,121806,Storms
+2687,3,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,121210,Storms
+2688,4,Hail,2,2013,1,0,0,117710,Hail
+2689,6,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,116036,Storms
+2690,4,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,115034,Storms
+2691,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,114628,Storms
+2692,2,Severe Storm/Thunder Storm - Wind,4,2013,1,0,0,102797,Storms
+2693,5,Severe Storm/Thunder Storm - Wind,2,2013,1,0,0,98906,Storms
+2694,5,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,93723,Storms
+2695,1,Tornado,2,2013,1,0,0,83817,Storms
+2696,4,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,78316,Storms
+2697,6,Severe Storm/Thunder Storm - Wind,2,2013,1,0,0,69691,Storms
+2698,6,Flooding,2,2013,1,0,0,67890,Flooding
+2699,5,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,67529,Storms
+2700,3,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,67085,Storms
+2701,5,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,66603,Storms
+2702,5,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,62976,Storms
+2703,4,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,61074,Storms
+2704,4,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,57771,Storms
+2705,5,Severe Storm/Thunder Storm - Wind,2,2013,1,0,0,57536,Storms
+2706,3,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,52126,Storms
+2707,6,Severe Storm/Thunder Storm - Wind,2,2013,1,0,0,52069,Storms
+2708,4,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,50618,Storms
+2709,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,49976,Storms
+2710,3,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,49429,Storms
+2711,2,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,47998,Storms
+2712,6,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,46571,Storms
+2713,4,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,46452,Storms
+2714,6,Severe Storm/Thunder Storm/ Wind,1,2013,1,0,0,45572,Storms
+2715,4,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,44859,Storms
+2716,5,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,44816,Storms
+2717,3,Flooding,2,2013,3,0,0,44712,Flooding
+2718,4,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,43080,Storms
+2719,2,Severe Storm/Thunder Storm - Wind,3,2013,1,0,0,36675,Storms
+2720,3,Flooding,3,2013,1,0,0,34306,Flooding
+2721,4,Flooding,3,2013,1,0,0,34078,Flooding
+2722,3,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,33764,Storms
+2723,3,Severe Storm/Thunder Storm,3,2013,1,0,0,33644,Storms
+2724,3,Flooding,3,2013,1,0,0,33580,Flooding
+2725,4,Flooding,2,2013,1,0,0,33523,Flooding
+2726,3,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,33498,Storms
+2727,4,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,33216,Storms
+2728,3,Flooding,2,2013,1,0,0,32816,Flooding
+2729,3,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,32160,Storms
+2730,3,Flooding,3,2013,1,0,0,31535,Flooding
+2731,3,Flooding,3,2013,1,0,0,31101,Flooding
+2732,4,Flooding,3,2013,1,0,0,30898,Flooding
+2733,6,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,30813,Storms
+2734,4,Severe Storm/Thunder Storm - Wind,2,2013,1,0,0,29766,Storms
+2735,3,Flooding,3,2013,1,0,0,29237,Flooding
+2736,2,Severe Storm/Thunder Storm - Wind,3,2013,1,0,0,29037,Storms
+2737,3,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,28850,Storms
+2738,2,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,17407,Storms
+2739,2,Wind,1,2013,1,0,0,16923,Wind
+2740,3,Flooding,2,2013,7,0,0,16687,Flooding
+2741,2,Severe Storm/Thunder Storm - Wind,4,2013,1,0,0,16578,Storms
+2742,2,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,16422,Storms
+2743,3,Flooding,2,2013,1,0,0,16097,Flooding
+2744,4,Flooding,2,2013,1,0,0,14791,Flooding
+2745,4,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,14661,Storms
+2746,4,Severe Storm/Thunder Storm/ Wind,3,2013,1,0,0,14621,Storms
+2747,2,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,14493,Storms
+2748,2,Severe Storm/Thunder Storm - Wind,3,2013,1,0,0,14472,Storms
+2749,4,Severe Storm/Thunder Storm/ Wind,2,2013,1,0,0,8310,Storms
+2750,3,Severe Storm/Thunder Storm - Wind,2,2013,1,0,0,7750,Storms
+2751,2,Coastal,3,2013,1,12,0,0,Coastal
+2752,2,Coastal,3,2013,1,22,0,0,Coastal
+2753,2,Hurricane/Tropical Storm,2,2013,1,11,0,0,Storms
+2754,2,Coastal,3,2013,1,12,0,0,Coastal
+2755,1,Flooding,3,2014,2,22,0,22598611,Flooding
+2756,1,Flooding,3,2014,2,0,0,3169448,Flooding
+2757,1,Flooding,3,2014,1,0,0,835241,Flooding
+2758,2,Lightning,2,2014,1,0,0,693937,Lightning
+2759,3,Flooding,3,2014,1,0,0,513909,Flooding
+2760,2,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,77,424199,Storms
+2761,1,Lightning,2,2014,1,0,0,357224,Lightning
+2762,1,Flooding,3,2014,1,0,0,340944,Flooding
+2763,4,Wind,4,2014,1,0,0,290871,Wind
+2764,3,Flooding,3,2014,1,0,0,215336,Flooding
+2765,6,Severe Storm/Thunder Storm/ Wind,4,2014,1,0,0,209588,Storms
+2766,4,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,187047,Storms
+2767,1,Flooding,3,2014,1,0,0,147391,Flooding
+2768,4,Severe Storm/Thunder Storm/ Wind,1,2014,1,0,0,138102,Storms
+2769,5,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,127957,Storms
+2770,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,117877,Storms
+2771,5,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,101370,Storms
+2772,2,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,96243,Storms
+2773,4,Tornado,3,2014,1,0,0,91564,Storms
+2774,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,91431,Storms
+2775,6,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,89918,Storms
+2776,1,Flooding,3,2014,1,0,0,86393,Flooding
+2777,4,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,67916,Storms
+2778,3,Severe Storm/Thunder Storm/ Wind,4,2014,1,0,0,67326,Storms
+2779,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,67161,Storms
+2780,3,Flooding,3,2014,1,0,0,63870,Flooding
+2781,3,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,63414,Storms
+2782,5,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,59134,Storms
+2783,4,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,57726,Storms
+2784,3,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,48725,Storms
+2785,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,47984,Storms
+2786,3,Severe Storm/Thunder Storm/ Wind,4,2014,1,0,0,47023,Storms
+2787,2,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,46837,Storms
+2788,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,46062,Storms
+2789,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,45144,Storms
+2790,3,Flooding,2,2014,1,0,0,34861,Flooding
+2791,2,Hail,2,2014,1,0,0,34503,Hail
+2792,2,Hail,2,2014,1,0,0,34446,Hail
+2793,2,Hail,2,2014,1,0,0,34430,Hail
+2794,2,Hail,2,2014,1,0,0,34249,Hail
+2795,2,Hail,2,2014,1,0,0,33729,Hail
+2796,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,33593,Storms
+2797,6,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,32151,Storms
+2798,2,Hail,2,2014,1,0,0,31494,Hail
+2799,2,Hail,2,2014,1,0,0,31463,Hail
+2800,2,Hail,2,2014,1,0,0,31203,Hail
+2801,3,Flooding,3,2014,1,0,0,30901,Flooding
+2802,2,Hail,2,2014,1,0,0,30797,Hail
+2803,3,Flooding,2,2014,1,0,0,30683,Flooding
+2804,2,Hail,2,2014,1,0,0,30673,Hail
+2805,3,Severe Storm/Thunder Storm/ Wind,4,2014,1,0,0,29554,Storms
+2806,4,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,29506,Storms
+2807,2,Hail,2,2014,1,0,0,29123,Hail
+2808,3,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,28780,Storms
+2809,3,Flooding,3,2014,1,0,0,28676,Flooding
+2810,5,Severe Storm/Thunder Storm/ Wind,1,2014,1,0,0,28597,Storms
+2811,2,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,23619,Storms
+2812,1,Tornado,4,2014,1,0,0,17348,Storms
+2813,2,Hail,3,2014,1,0,0,17286,Hail
+2814,2,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,17177,Storms
+2815,2,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,16644,Storms
+2816,2,Hail,2,2014,1,0,0,16275,Hail
+2817,2,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,16048,Storms
+2818,2,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,15985,Storms
+2819,2,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,15967,Storms
+2820,2,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,15885,Storms
+2821,3,Severe Storm/Thunder Storm,3,2014,1,0,0,15469,Storms
+2822,2,Hail,3,2014,1,0,0,15152,Hail
+2823,2,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,15011,Storms
+2824,2,Hail,2,2014,1,0,0,14907,Hail
+2825,2,Hail,2,2014,1,0,0,14869,Hail
+2826,3,Severe Storm/Thunder Storm,3,2014,1,0,0,14693,Storms
+2827,2,Hail,3,2014,1,0,0,14604,Hail
+2828,3,Flooding,1,2014,1,0,0,14460,Flooding
+2829,2,Severe Storm/Thunder Storm/ Wind,2,2014,1,0,0,14273,Storms
+2830,2,Hail,3,2014,1,0,0,11749,Hail
+2831,2,Hail,2,2014,1,0,0,8379,Hail
+2832,3,Severe Storm/Thunder Storm/ Wind,3,2014,1,0,0,8333,Storms
+2833,2,Hail,2,2014,1,0,0,8165,Hail
+2834,2,Hail,2,2014,1,0,0,8113,Hail
+2835,2,Hail,2,2014,1,0,0,7804,Hail
+2836,2,Hail,2,2014,1,0,0,7664,Hail
+2837,2,Hail,2,2014,1,0,0,7417,Hail
+2838,2,Hail,3,2014,1,0,0,4272,Hail
+2839,2,Hail,2,2014,1,0,0,3996,Hail
+2840,2,Hail,3,2014,1,0,0,3990,Hail
+2841,2,Hail,3,2014,1,0,0,3989,Hail
+2842,2,Hail,3,2014,1,0,0,3845,Hail
+2843,2,Hail,3,2014,1,0,0,3631,Hail
+2844,2,Hail,3,2014,1,0,0,3626,Hail
+2845,2,Hail,2,2014,1,0,0,3442,Hail
+2846,2,Hail,2,2014,1,0,0,3162,Hail
+2847,2,Hail,2,2014,1,0,0,2874,Hail
+2848,2,Hail,2,2014,1,0,0,1537,Hail
+2849,2,Hail,3,2014,1,0,0,1463,Hail
+2850,5,Winter Weather,1,2014,2,0,11,0,Winter Weather
+2851,2,Coastal,3,2014,1,12,0,0,Coastal
+2852,4,Flooding,4,2015,2,0,0,305816784,Flooding
+2853,2,Flooding,4,2015,16,0,0,158393184,Flooding
+2854,3,Flooding,4,2015,1,21,216,142858224,Flooding
+2855,3,Flooding,4,2015,1,0,0,72903348,Flooding
+2856,3,Flooding,4,2015,1,0,0,28917218,Flooding
+2857,3,Flooding,4,2015,1,0,0,28803084,Flooding
+2858,3,Flooding,4,2015,1,0,0,17265998,Flooding
+2859,3,Flooding,4,2015,1,0,0,16803120,Flooding
+2860,3,Flooding,4,2015,1,0,0,16324389,Flooding
+2861,3,Flooding,4,2015,1,0,0,14900880,Flooding
+2862,3,Flooding,4,2015,1,0,0,14450683,Flooding
+2863,3,Flooding,4,2015,1,13,13,13855916,Flooding
+2864,3,Flooding,4,2015,1,0,0,12933963,Flooding
+2865,3,Flooding,4,2015,1,0,0,12506593,Flooding
+2866,3,Flooding,4,2015,1,0,0,8277121,Flooding
+2867,4,Flooding,4,2015,1,0,0,8239869,Flooding
+2868,4,Flooding,4,2015,1,0,0,7771443,Flooding
+2869,3,Flooding,4,2015,1,0,0,7513848,Flooding
+2870,3,Flooding,4,2015,1,0,0,4921570,Flooding
+2871,3,Flooding,4,2015,1,0,0,4176209,Flooding
+2872,2,Flooding,4,2015,1,0,0,4031163,Flooding
+2873,2,Flooding,4,2015,1,0,0,3661812,Flooding
+2874,2,Flooding,4,2015,1,0,0,3374573,Flooding
+2875,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,3316602,Storms
+2876,3,Flooding,2,2015,1,0,0,1942567,Flooding
+2877,3,Flooding,4,2015,1,26,65,1743561,Flooding
+2878,4,Flooding,4,2015,2,0,0,1722795,Flooding
+2879,3,Flooding,4,2015,1,12,12,1689664,Flooding
+2880,1,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,1593601,Storms
+2881,3,Flooding,4,2015,1,0,0,1478516,Flooding
+2882,2,Flooding,4,2015,1,0,0,1306006,Flooding
+2883,2,Flooding,4,2015,1,0,0,1281871,Flooding
+2884,3,Flooding,3,2015,1,0,0,927884,Flooding
+2885,2,Flooding,4,2015,1,0,0,900900,Flooding
+2886,2,Flooding,4,2015,1,0,0,868134,Flooding
+2887,2,Flooding,4,2015,1,0,0,858861,Flooding
+2888,2,Flooding,4,2015,1,0,0,839284,Flooding
+2889,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,769113,Storms
+2890,2,Flooding,4,2015,1,0,0,687731,Flooding
+2891,2,Flooding,4,2015,1,0,0,647142,Flooding
+2892,2,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,522196,Storms
+2893,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,518740,Storms
+2894,3,Flooding,3,2015,1,0,0,477589,Flooding
+2895,2,Flooding,4,2015,1,0,0,369827,Flooding
+2896,3,Flooding,4,2015,1,13,13,344590,Flooding
+2897,3,Flooding,4,2015,1,12,12,332765,Flooding
+2898,1,Wind,1,2015,2,0,0,294625,Wind
+2899,3,Flooding,3,2015,2,0,0,285136,Flooding
+2900,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,272695,Storms
+2901,3,Flooding,3,2015,1,0,0,270320,Flooding
+2902,3,Flooding,3,2015,1,0,0,268558,Flooding
+2903,3,Flooding,4,2015,1,0,0,260059,Flooding
+2904,3,Flooding,4,2015,1,12,12,257087,Flooding
+2905,3,Flooding,3,2015,1,0,0,237374,Flooding
+2906,3,Flooding,3,2015,1,0,0,223836,Flooding
+2907,4,Flooding,4,2015,1,0,0,222482,Flooding
+2908,3,Flooding,3,2015,1,0,0,206678,Flooding
+2909,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,182748,Storms
+2910,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,179286,Storms
+2911,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,173500,Storms
+2912,2,Flooding,4,2015,1,0,0,172469,Flooding
+2913,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,169331,Storms
+2914,3,Flooding,3,2015,1,0,0,167809,Flooding
+2915,1,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,153146,Storms
+2916,2,Flooding,4,2015,1,0,0,148041,Flooding
+2917,2,Flooding,4,2015,1,0,0,144110,Flooding
+2918,2,Flooding,4,2015,2,0,0,126587,Flooding
+2919,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,122352,Storms
+2920,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,121971,Storms
+2921,2,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,108023,Storms
+2922,2,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,100999,Storms
+2923,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,100305,Storms
+2924,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,99563,Storms
+2925,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,98945,Storms
+2926,6,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,92182,Storms
+2927,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,86694,Storms
+2928,6,Tornado,2,2015,1,0,0,84094,Storms
+2929,3,Flooding,4,2015,1,0,0,80528,Flooding
+2930,3,Flooding,4,2015,1,0,0,79228,Flooding
+2931,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,76137,Storms
+2932,3,Flooding,4,2015,1,0,0,74662,Flooding
+2933,1,Wind,1,2015,2,0,0,72047,Wind
+2934,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,69507,Storms
+2935,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,69247,Storms
+2936,2,Flooding,4,2015,1,0,0,68512,Flooding
+2937,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,68366,Storms
+2938,5,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,67288,Storms
+2939,3,Flooding,3,2015,1,0,0,65811,Flooding
+2940,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,65576,Storms
+2941,5,Flooding,3,2015,1,0,0,65189,Flooding
+2942,3,Severe Storm/Thunder Storm/ Wind,1,2015,1,0,0,63420,Storms
+2943,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,61784,Storms
+2944,5,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,59673,Storms
+2945,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,51474,Storms
+2946,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,51336,Storms
+2947,3,Flooding,2,2015,1,0,0,51331,Flooding
+2948,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,51241,Storms
+2949,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,50761,Storms
+2950,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,50613,Storms
+2951,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,49791,Storms
+2952,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,49320,Storms
+2953,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,48597,Storms
+2954,4,Flooding,4,2015,1,0,0,47836,Flooding
+2955,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,47337,Storms
+2956,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,46937,Storms
+2957,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,46880,Storms
+2958,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,46314,Storms
+2959,5,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,45748,Storms
+2960,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,45701,Storms
+2961,6,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,45263,Storms
+2962,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,44108,Storms
+2963,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,43998,Storms
+2964,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,43694,Storms
+2965,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,43019,Storms
+2966,5,Flooding,3,2015,1,0,0,34459,Flooding
+2967,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,34455,Storms
+2968,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,34443,Storms
+2969,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,34103,Storms
+2970,3,Flooding,3,2015,1,0,0,34012,Flooding
+2971,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,33774,Storms
+2972,5,Flooding,3,2015,1,0,0,33526,Flooding
+2973,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,33511,Storms
+2974,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,33317,Storms
+2975,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,32560,Storms
+2976,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,32490,Storms
+2977,3,Flooding,3,2015,1,0,0,32471,Flooding
+2978,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,32331,Storms
+2979,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,32027,Storms
+2980,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,31501,Storms
+2981,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,30939,Storms
+2982,5,Flooding,3,2015,1,0,0,30800,Flooding
+2983,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,30752,Storms
+2984,5,Flooding,3,2015,1,0,0,30743,Flooding
+2985,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,30730,Storms
+2986,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,30413,Storms
+2987,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,30340,Storms
+2988,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,30134,Storms
+2989,3,Flooding,2,2015,1,0,0,29865,Flooding
+2990,3,Flooding,3,2015,1,0,0,29570,Flooding
+2991,3,Flooding,2,2015,1,0,0,29475,Flooding
+2992,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,29199,Storms
+2993,3,Flooding,3,2015,1,0,0,29196,Flooding
+2994,3,Flooding,3,2015,1,0,0,29189,Flooding
+2995,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,28882,Storms
+2996,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,28730,Storms
+2997,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,28562,Storms
+2998,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,17112,Storms
+2999,2,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,17086,Storms
+3000,2,Hail,2,2015,1,0,0,17086,Hail
+3001,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,17053,Storms
+3002,2,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,16996,Storms
+3003,3,Flooding,2,2015,1,0,0,16283,Flooding
+3004,3,Flooding,4,2015,1,0,0,16276,Flooding
+3005,1,Flooding,4,2015,1,0,0,15931,Flooding
+3006,2,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,15918,Storms
+3007,3,Flooding,3,2015,1,0,0,15915,Flooding
+3008,1,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,15897,Storms
+3009,2,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,15022,Storms
+3010,1,Flooding,4,2015,1,0,0,14883,Flooding
+3011,1,Flooding,4,2015,1,0,0,14743,Flooding
+3012,3,Flooding,3,2015,1,0,0,14439,Flooding
+3013,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,8665,Storms
+3014,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,8516,Storms
+3015,2,Hail,3,2015,1,0,0,8480,Hail
+3016,3,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,8424,Storms
+3017,3,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,8365,Storms
+3018,4,Severe Storm/Thunder Storm/ Wind,3,2015,1,0,0,8079,Storms
+3019,4,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,8049,Storms
+3020,2,Hail,3,2015,1,0,0,7987,Hail
+3021,5,Severe Storm/Thunder Storm/ Wind,2,2015,1,0,0,7904,Storms
+3022,1,Flooding,4,2015,1,0,0,7889,Flooding
+3023,2,Hail,2,2015,1,0,0,3637,Hail
+3024,2,Coastal,2,2015,1,13,0,0,Coastal
+3025,2,Coastal,3,2015,1,12,0,0,Coastal
+3026,2,Coastal,3,2015,1,11,0,0,Coastal
+3027,2,Coastal,2,2015,1,13,0,0,Coastal
+3028,2,Hurricane/Tropical Storm,4,2016,18,0,0,1132181544,Storms
+3029,2,Hurricane/Tropical Storm,4,2016,18,0,0,1120498620,Storms
+3030,5,Wind,4,2016,1,0,0,21849604,Wind
+3031,2,Flooding,4,2016,2,0,0,16463887,Flooding
+3032,2,Flooding,4,2016,1,0,0,16075513,Flooding
+3033,2,Flooding,4,2016,1,0,0,15899556,Flooding
+3034,3,Severe Storm/Thunder Storm,3,2016,1,0,0,15813955,Storms
+3035,4,Wind,4,2016,1,0,0,15802858,Wind
+3036,2,Flooding,4,2016,2,0,0,15403388,Flooding
+3037,2,Flooding,4,2016,2,0,0,15390706,Flooding
+3038,3,Wind,4,2016,1,0,0,14980140,Wind
+3039,3,Flooding,3,2016,1,0,0,14628225,Flooding
+3040,2,Flooding,4,2016,1,0,0,14529943,Flooding
+3041,2,Flooding,4,2016,1,0,0,14333378,Flooding
+3042,2,Flooding,4,2016,1,0,0,12433516,Flooding
+3043,1,Tornado,4,2016,1,0,0,7163518,Storms
+3044,4,Flooding,3,2016,1,0,0,6413085,Flooding
+3045,2,Flooding,4,2016,1,0,0,4188891,Flooding
+3046,2,Flooding,4,2016,1,0,0,3712934,Flooding
+3047,1,Flooding,2,2016,2,0,0,851490,Flooding
+3048,3,Flooding,3,2016,1,0,0,424754,Flooding
+3049,3,Flooding,3,2016,1,0,0,404067,Flooding
+3050,4,Flooding,4,2016,1,0,0,323190,Flooding
+3051,3,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,293357,Storms
+3052,3,Wind,1,2016,1,0,0,259394,Wind
+3053,5,Wind,3,2016,1,0,0,223251,Wind
+3054,5,Flooding,4,2016,1,0,0,167539,Flooding
+3055,5,Flooding,4,2016,1,0,0,165304,Flooding
+3056,4,Flooding,3,2016,1,0,0,153922,Flooding
+3057,3,Flooding,3,2016,1,0,0,152353,Flooding
+3058,3,Flooding,3,2016,1,0,0,152337,Flooding
+3059,5,Flooding,3,2016,1,0,0,77040,Flooding
+3060,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,73104,Storms
+3061,4,Flooding,4,2016,1,0,0,49843,Flooding
+3062,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,49696,Storms
+3063,2,Wind,2,2016,1,0,0,47684,Wind
+3064,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,46809,Storms
+3065,5,Flooding,3,2016,1,0,0,33187,Flooding
+3066,2,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,33003,Storms
+3067,3,Flooding,3,2016,1,0,0,32404,Flooding
+3068,4,Flooding,4,2016,1,0,0,32309,Flooding
+3069,3,Flooding,4,2016,1,0,0,31374,Flooding
+3070,2,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,30356,Storms
+3071,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,17364,Storms
+3072,3,Flooding,3,2016,1,0,0,16906,Flooding
+3073,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,16354,Storms
+3074,3,Flooding,3,2016,1,0,0,16102,Flooding
+3075,2,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,16034,Storms
+3076,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,15772,Storms
+3077,3,Flooding,3,2016,1,0,0,15482,Flooding
+3078,2,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,15370,Storms
+3079,3,Flooding,3,2016,1,0,0,15008,Flooding
+3080,2,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,15000,Storms
+3081,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,14918,Storms
+3082,3,Wind,3,2016,1,0,0,14601,Wind
+3083,2,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,14510,Storms
+3084,2,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,14436,Storms
+3085,5,Flooding,3,2016,1,0,0,14434,Flooding
+3086,2,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,14387,Storms
+3087,1,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,8423,Storms
+3088,5,Flooding,3,2016,1,0,0,7257,Flooding
+3089,2,Hail,3,2016,1,0,0,4157,Hail
+3090,2,Hail,3,2016,1,0,0,3870,Hail
+3091,2,Hail,3,2016,1,0,0,3868,Hail
+3092,5,Hail,3,2016,1,0,0,1509,Hail
+3093,5,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,166,Storms
+3094,3,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,0,154,Storms
+3095,3,Hail,3,2016,1,0,0,141,Hail
+3096,5,Severe Storm/Thunder Storm/ Wind,2,2016,1,0,0,0,Storms
+3097,2,Lightning,2,2016,1,0,51,0,Lightning
+3098,2,Lightning,3,2016,1,0,11,0,Lightning
+3099,3,Severe Storm/Thunder Storm/ Wind,3,2016,1,0,10,0,Storms
+3100,6,Lightning,3,2016,1,0,52,0,Lightning
+3101,2,Tornado,1,2017,1,0,0,14288797,Storms
+3102,1,Tornado,4,2017,1,0,0,816457,Storms
+3103,1,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,745202,Storms
+3104,2,Tornado,4,2017,1,0,0,430896,Storms
+3105,1,Tornado,2,2017,1,0,0,340944,Storms
+3106,1,Severe Storm/Thunder Storm/ Wind,1,2017,1,0,0,305024,Storms
+3107,2,Flooding,3,2017,1,0,0,261201,Flooding
+3108,2,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,235901,Storms
+3109,2,Severe Storm/Thunder Storm/ Wind,4,2017,1,0,0,235402,Storms
+3110,1,Wind,3,2017,1,0,0,172279,Wind
+3111,1,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,170234,Storms
+3112,1,Wind,3,2017,1,0,0,168221,Wind
+3113,1,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,164385,Storms
+3114,1,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,144903,Storms
+3115,1,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,144094,Storms
+3116,3,Flooding,1,2017,1,0,0,74829,Flooding
+3117,2,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,49824,Storms
+3118,2,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,47227,Storms
+3119,2,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,33095,Storms
+3120,1,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,28876,Storms
+3121,2,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,17159,Storms
+3122,2,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,16520,Storms
+3123,2,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,16199,Storms
+3124,2,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,16130,Storms
+3125,2,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,15951,Storms
+3126,2,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,15948,Storms
+3127,3,Flooding,2,2017,1,0,0,15048,Flooding
+3128,3,Flooding,2,2017,1,0,0,14417,Flooding
+3129,1,Flooding,3,2017,1,0,0,8318,Flooding
+3130,2,Hail,2,2017,1,0,0,8094,Hail
+3131,1,Severe Storm/Thunder Storm/ Wind,2,2017,1,0,0,7883,Storms
+3132,3,Flooding,2,2017,1,0,0,1729,Flooding
+3133,3,Hail,3,2017,1,0,0,1729,Hail
+3134,4,Wind,3,2017,1,0,0,1725,Wind
+3135,3,Flooding,2,2017,1,0,0,1724,Flooding
+3136,4,Hail,2,2017,1,0,0,1713,Hail
+3137,3,Severe Storm/Thunder Storm,3,2017,1,0,0,1713,Storms
+3138,5,Wind,3,2017,1,0,0,1711,Wind
+3139,3,Flooding,3,2017,1,0,0,1691,Flooding
+3140,4,Hail,3,2017,1,0,0,1689,Hail
+3141,3,Severe Storm/Thunder Storm,3,2017,1,0,0,1688,Storms
+3142,3,Flooding,3,2017,1,0,0,1684,Flooding
+3143,3,Flooding,3,2017,1,0,0,1681,Flooding
+3144,4,Flooding,2,2017,1,0,0,1681,Flooding
+3145,4,Flooding,3,2017,1,0,0,1673,Flooding
+3146,3,Severe Storm/Thunder Storm/ Wind,3,2017,1,0,0,1673,Storms
+3147,3,Severe Storm/Thunder Storm,3,2017,1,0,0,1667,Storms
+3148,3,Flooding,3,2017,1,0,0,1653,Flooding
+3149,3,Severe Storm/Thunder Storm,3,2017,1,0,0,1637,Storms
+3150,3,Severe Storm/Thunder Storm,3,2017,1,0,0,1635,Storms
+3151,3,Flooding,3,2017,1,0,0,1633,Flooding
+3152,3,Flooding,3,2017,1,0,0,1626,Flooding
+3153,3,Flooding,2,2017,1,0,0,1623,Flooding
+3154,4,Hail,2,2017,1,0,0,1621,Hail
+3155,3,Severe Storm/Thunder Storm,2,2017,2,0,0,1609,Storms
+3156,3,Flooding,3,2017,1,0,0,1604,Flooding
+3157,4,Flooding,2,2017,1,0,0,1602,Flooding
+3158,3,Flooding,3,2017,1,0,0,1600,Flooding
+3159,3,Flooding,2,2017,1,0,0,1592,Flooding
+3160,5,Hail,2,2017,1,0,0,1588,Hail
+3161,3,Flooding,3,2017,1,0,0,1588,Flooding
+3162,3,Flooding,3,2017,1,0,0,1587,Flooding
+3163,3,Hail,3,2017,1,0,0,1579,Hail
+3164,3,Flooding,2,2017,1,0,0,1562,Flooding
+3165,3,Flooding,3,2017,1,0,0,1561,Flooding
+3166,3,Flooding,3,2017,1,0,0,1546,Flooding
+3167,3,Severe Storm/Thunder Storm,2,2017,2,0,0,1542,Storms
+3168,3,Flooding,2,2017,1,0,0,1539,Flooding
+3169,4,Flooding,2,2017,1,0,0,1530,Flooding
+3170,3,Severe Storm/Thunder Storm,3,2017,1,0,0,1530,Storms
+3171,3,Flooding,2,2017,1,0,0,1524,Flooding
+3172,5,Severe Storm/Thunder Storm,2,2017,1,0,0,1524,Storms
+3173,3,Flooding,2,2017,1,0,0,1509,Flooding
+3174,4,Hail,2,2017,1,0,0,1504,Hail
+3175,3,Flooding,2,2017,1,0,0,1500,Flooding
+3176,4,Hail,3,2017,1,0,0,1491,Hail
+3177,3,Flooding,3,2017,1,0,0,1489,Flooding
+3178,3,Severe Storm/Thunder Storm,2,2017,2,0,0,1480,Storms
+3179,3,Flooding,2,2017,1,0,0,1459,Flooding
+3180,3,Flooding,2,2017,1,0,0,1455,Flooding
+3181,6,Severe Storm/Thunder Storm,3,2017,1,0,0,1443,Storms
+3182,3,Flooding,2,2017,1,0,0,1434,Flooding
+3183,3,Flooding,2,2017,1,0,0,1433,Flooding
+3184,3,Hail,1,2017,1,0,0,163,Hail
+3185,5,Hail,1,2017,1,0,0,157,Hail
+3186,3,Hail,1,2017,1,0,0,145,Hail
+3187,3,Hail,1,2017,1,0,0,145,Hail
+3188,3,Hail,2,2017,1,0,0,141,Hail
+3189,1,Wind/ Winter Weather,1,2017,1,0,0,0,Winter Weather
+3190,1,Wind/ Winter Weather,1,2017,1,0,0,0,Winter Weather
+3191,6,Tornado,2,2017,1,0,12,0,Storms
+3192,2,Flooding,3,2018,1,0,0,833339,Flooding
+3193,2,Hurricane/Tropical Storm,3,2018,1,0,0,666861,Storms
+3194,2,Hurricane/Tropical Storm,4,2018,1,0,0,515126,Storms
+3195,2,Severe Storm/Thunder Storm/ Wind,3,2018,1,0,0,332860,Storms
+3196,1,Wind,3,2018,2,0,0,306228,Wind
+3197,2,Severe Storm/Thunder Storm/ Wind,2,2018,1,0,0,257491,Storms
+3198,2,Flooding,3,2018,1,26,0,173864,Flooding
+3199,2,Flooding,3,2018,1,0,0,163006,Flooding
+3200,2,Flooding,3,2018,2,0,0,158472,Flooding
+3201,2,Flooding,3,2018,1,11,0,157521,Flooding
+3202,2,Lightning,2,2018,1,0,0,148232,Lightning
+3203,1,Severe Storm/Thunder Storm/ Wind,2,2018,1,0,0,85719,Storms
+3204,1,Severe Storm/Thunder Storm/ Wind,2,2018,1,0,0,83421,Storms
+3205,3,Flooding,4,2018,2,0,0,83159,Flooding
+3206,2,Tornado,3,2018,1,0,0,80599,Storms
+3207,2,Hurricane/Tropical Storm,4,2018,1,0,0,62279,Storms
+3208,2,Hurricane/Tropical Storm,3,2018,1,0,0,44507,Storms
+3209,2,Hail,1,2018,1,0,0,34427,Hail
+3210,1,Flooding,4,2018,2,0,0,28790,Flooding
+3211,2,Hail,1,2018,1,0,0,21210,Hail
+3212,2,Severe Storm/Thunder Storm/ Wind,3,2018,1,0,0,17391,Storms
+3213,1,Flooding,4,2018,2,0,0,17220,Flooding
+3214,2,Severe Storm/Thunder Storm/ Wind,2,2018,1,0,0,16826,Storms
+3215,2,Wind,4,2018,1,0,0,16360,Wind
+3216,2,Hail,1,2018,1,0,0,14946,Hail
+3217,2,Severe Storm/Thunder Storm/ Wind,2,2018,1,0,0,8615,Storms
+3218,2,Hail,1,2018,1,0,0,8380,Hail
+3219,2,Severe Storm/Thunder Storm/ Wind,2,2018,1,0,0,7667,Storms
+3220,2,Tornado,3,2018,1,0,0,7136,Storms
+3221,5,Severe Storm/Thunder Storm/ Wind,1,2018,1,0,0,1738,Storms
+3222,5,Hail,2,2018,1,0,0,1731,Hail
+3223,4,Flooding,2,2018,1,0,0,1693,Flooding
+3224,3,Severe Storm/Thunder Storm/ Wind,3,2018,1,0,0,1684,Storms
+3225,3,Severe Storm/Thunder Storm/ Wind,1,2018,1,0,0,1644,Storms
+3226,3,Flooding,4,2018,2,0,0,1579,Flooding
+3227,3,Severe Storm/Thunder Storm/ Wind,2,2018,1,0,0,1577,Storms
+3228,5,Flooding,3,2018,1,0,0,1556,Flooding
+3229,3,Hail,2,2018,1,0,0,1553,Hail
+3230,5,Flooding,3,2018,1,0,0,1542,Flooding
+3231,3,Lightning,3,2018,1,0,0,1509,Lightning
+3232,3,Hail,2,2018,1,0,0,1495,Hail
+3233,3,Hail,3,2018,1,0,0,1491,Hail
+3234,4,Flooding,2,2018,1,0,0,1490,Flooding
+3235,3,Severe Storm/Thunder Storm/ Wind,1,2018,1,0,0,1489,Storms
+3236,4,Flooding,2,2018,1,0,0,1486,Flooding
+3237,2,Coastal,3,2018,1,11,0,0,Coastal
+3238,1,Lightning,2,2018,1,0,11,0,Lightning
+3239,3,Hurricane/Tropical Storm,4,2018,2,0,12,0,Storms
+3240,5,Hail,2,2018,1,0,0,0,Hail
+3241,5,Hail,2,2018,1,0,0,0,Hail
+3242,5,Lightning,3,2018,1,0,0,0,Lightning
+3243,2,Tornado,3,2019,1,0,0,3353649,Storms
+3244,2,Tornado,3,2019,1,0,0,3178326,Storms
+3245,1,Tornado,2,2019,1,0,0,2289583,Storms
+3246,2,Lightning,3,2019,1,0,0,2266281,Lightning
+3247,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,823590,Storms
+3248,2,Lightning,2,2019,1,0,0,803775,Lightning
+3249,2,Tornado,4,2019,1,0,0,420949,Storms
+3250,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,168554,Storms
+3251,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,163148,Storms
+3252,2,Tornado,3,2019,1,0,0,160549,Storms
+3253,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,158837,Storms
+3254,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,83690,Storms
+3255,2,Lightning,3,2019,1,0,0,77991,Lightning
+3256,3,Flooding,2,2019,1,0,0,51883,Flooding
+3257,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,17189,Storms
+3258,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,15135,Storms
+3259,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,14988,Storms
+3260,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,14783,Storms
+3261,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,14487,Storms
+3262,2,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,14387,Storms
+3263,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1680,Storms
+3264,4,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1654,Storms
+3265,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1642,Storms
+3266,4,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1622,Storms
+3267,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1619,Storms
+3268,3,Flooding,4,2019,1,0,0,1588,Flooding
+3269,5,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1578,Storms
+3270,5,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1576,Storms
+3271,3,Hail,2,2019,1,0,0,1523,Hail
+3272,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1520,Storms
+3273,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1518,Storms
+3274,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1516,Storms
+3275,4,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1451,Storms
+3276,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1441,Storms
+3277,5,Severe Storm/Thunder Storm/ Wind,2,2019,1,0,0,1436,Storms
+3278,5,Severe Storm/Thunder Storm/ Wind,3,2019,1,0,0,170,Storms
+3279,4,Severe Storm/Thunder Storm/ Wind,3,2019,1,0,0,166,Storms
+3280,4,Hail,3,2019,1,0,0,157,Hail
+3281,4,Hail,3,2019,1,0,0,155,Hail
+3282,3,Hail,3,2019,1,0,0,150,Hail
+3283,3,Severe Storm/Thunder Storm/ Wind,1,2019,1,0,0,147,Storms
+3284,6,Tornado,1,2019,1,0,78,0,Storms
+3285,3,Severe Storm/Thunder Storm/ Wind,2,2019,1,12,0,0,Storms
+3286,4,Severe Storm/Thunder Storm/ Wind,3,2019,1,11,0,0,Storms
+3287,3,Heat,2,2019,1,11,0,0,Drought/Heat
+3288,1,Tornado,2,2020,1,0,0,78110730,Storms
+3289,1,Flooding,1,2020,2,0,0,15038792,Flooding
+3290,1,Flooding,1,2020,1,0,0,13494490,Flooding
+3291,1,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,4312932,Storms
+3292,2,Tornado,1,2020,1,0,0,3452565,Storms
+3293,1,Flooding,1,2020,1,0,0,3386304,Flooding
+3294,1,Flooding,2,2020,1,0,0,3302605,Flooding
+3295,2,Tornado,4,2020,1,0,11,2285303,Storms
+3296,1,Hurricane/Tropical Storm,4,2020,1,0,0,2145964,Storms
+3297,1,Tornado,2,2020,1,0,0,1694261,Storms
+3298,1,Tornado,2,2020,1,0,0,333779,Storms
+3299,2,Severe Storm/Thunder Storm/ Wind,1,2020,1,0,0,333716,Storms
+3300,2,Tornado,4,2020,1,0,0,300839,Storms
+3301,2,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,171645,Storms
+3302,3,Flooding,2,2020,1,0,0,169061,Flooding
+3303,6,Flooding,3,2020,1,0,0,167508,Flooding
+3304,3,Flooding,2,2020,1,0,25,166604,Flooding
+3305,6,Flooding,3,2020,1,0,0,163735,Flooding
+3306,1,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,163101,Storms
+3307,1,Flooding,2,2020,2,0,0,162213,Flooding
+3308,6,Flooding,3,2020,1,0,0,161706,Flooding
+3309,2,Severe Storm/Thunder Storm/ Wind,1,2020,1,0,0,147788,Storms
+3310,2,Severe Storm/Thunder Storm/ Wind,4,2020,1,0,0,87059,Storms
+3311,2,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,85640,Storms
+3312,6,Flooding,3,2020,1,0,0,85252,Flooding
+3313,3,Lightning,1,2020,1,0,0,81764,Lightning
+3314,6,Flooding,3,2020,1,0,0,81669,Flooding
+3315,2,Lightning,3,2020,1,0,0,81479,Lightning
+3316,1,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,80092,Storms
+3317,3,Flooding,3,2020,1,0,0,74377,Flooding
+3318,3,Flooding,2,2020,1,0,0,71357,Flooding
+3319,3,Flooding,2,2020,1,0,0,51065,Flooding
+3320,2,Tornado,3,2020,1,0,0,50223,Storms
+3321,2,Wind,4,2020,1,0,0,34291,Wind
+3322,3,Flooding,3,2020,1,0,0,33057,Flooding
+3323,3,Flooding,2,2020,1,0,0,32303,Flooding
+3324,2,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,32052,Storms
+3325,1,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,29995,Storms
+3326,5,Flooding,3,2020,1,0,0,29833,Flooding
+3327,2,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,28980,Storms
+3328,2,Flooding,4,2020,1,0,0,16822,Flooding
+3329,3,Flooding,4,2020,1,0,0,16509,Flooding
+3330,4,Flooding,4,2020,1,0,0,16397,Flooding
+3331,4,Flooding,3,2020,1,0,0,15715,Flooding
+3332,3,Flooding,3,2020,1,0,0,8586,Flooding
+3333,5,Flooding,3,2020,1,0,0,8450,Flooding
+3334,4,Flooding,3,2020,1,0,0,8342,Flooding
+3335,5,Flooding,3,2020,1,0,0,7833,Flooding
+3336,5,Flooding,3,2020,1,0,0,7767,Flooding
+3337,4,Flooding,3,2020,1,0,0,7726,Flooding
+3338,5,Flooding,2,2020,1,0,0,1710,Flooding
+3339,4,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,1654,Storms
+3340,3,Flooding,2,2020,1,0,0,1646,Flooding
+3341,3,Flooding,2,2020,1,0,0,1636,Flooding
+3342,3,Flooding,2,2020,1,0,0,1611,Flooding
+3343,3,Flooding,2,2020,1,0,0,1503,Flooding
+3344,3,Flooding,2,2020,1,0,0,1489,Flooding
+3345,3,Flooding,2,2020,1,0,0,1429,Flooding
+3346,5,Hail,2,2020,1,0,0,168,Hail
+3347,4,Severe Storm/Thunder Storm/ Wind,2,2020,1,0,0,168,Storms
+3348,3,Severe Storm/Thunder Storm/ Wind,1,2020,1,0,0,168,Storms
+3349,6,Wind,2,2020,1,0,0,167,Wind
+3350,3,Hail,1,2020,1,0,0,166,Hail
+3351,3,Lightning,3,2020,1,0,0,166,Lightning
+3352,3,Wind,2,2020,1,0,0,165,Wind
+3353,5,Severe Storm/Thunder Storm/ Wind,1,2020,1,0,0,163,Storms
+3354,6,Hail,4,2020,1,0,0,160,Hail
+3355,3,Wind,2,2020,1,0,0,155,Wind
+3356,3,Wind,4,2020,1,0,0,152,Wind
+3357,5,Wind,4,2020,1,0,0,150,Wind
+3358,3,Severe Storm/Thunder Storm/ Wind,1,2020,1,0,0,148,Storms
+3359,3,Lightning,3,2020,1,0,0,148,Lightning
+3360,4,Severe Storm/Thunder Storm/ Wind,1,2020,1,0,0,147,Storms
+3361,3,Hail,2,2020,1,0,0,144,Hail
+3362,3,Wind,1,2020,1,12,0,0,Wind
+3363,3,Lightning,3,2020,1,0,12,0,Lightning
+3364,2,Coastal,3,2020,1,12,0,0,Coastal
+3365,4,Tornado,2,2020,8,23,83,0,Storms
+3366,2,Coastal,2,2020,2,34,0,0,Coastal
