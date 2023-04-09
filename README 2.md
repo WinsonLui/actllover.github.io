@@ -125,6 +125,7 @@ We have also tested for the impact of a healthy and recessive economic environme
 ![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Graph1.png)
 
 In contrast, under economic recessions _(GDP growth = 0% and Inflation rate = 10%)_, the inflationary environment will push the costs up, resulting in a lower confidence level, especially in the long term.  
+![alt text](https://github.com/WinsonLui/ACTL4001-Assignment/blob/6fd997d32b012f18ba5e9a9ac635868386df8039/Graphs/Graph2.png)
 
 ### 5.3 Degrees of Certainty
 
