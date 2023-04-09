@@ -124,3 +124,13 @@ We have set the fixed portions to be 70% for voluntary costs and 60% for involun
 The following table summarises the data we have received from the client, Storslysia:
 
 ### 6.2 Data Limitations
+
+https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/image.png
+
+https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme1
+
+https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme2
+
+https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme3
+
+https://github.com/WinsonLui/ACTL4001-Assignment/blob/main/Memes/meme4
