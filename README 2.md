@@ -4,12 +4,19 @@ _Social insurance program design for catastrophic climate-related displacement r
 
 ---
 # Table of Contents
+- [Case Background](##-Case-Background)
 - [Objectives](##-1-Objectives)
 - [Program Design](##-2-Program-Design)
 - [Pricing/Costs](##-3-Pricing/Costs)
 - [Assumptions](##-4-Assumptions)
 - [Risk and Risk Mitigation Considerations](##-5-Risk-and-Risk-Mitigation-Considerations)
 - [Data and Data Limitations](##-6-Data-and-Data-Limitations)
+
+## Case Background
+
+The fictitious country of Storslysia is acutely threatened by the impact of climate-related catastrophes that are increasing over time due to climate change. Storslysia has diverse geography; different geographic regions are subject to different current and future threats from catastrophic climate-related events. Residents who live in the areas at high threat run the risk of permanent displacement when catastrophic events occur. The residents of Storslysia are keenly aware of these threats, both to the individuals who live in areas at risk as well as to the overall economy of Storslysia. 
+
+The leaders of Storslysia are highly motivated to manage the risks associated with catastrophe-related displacement and wish to consider implementing a social insurance program to help manage its exposure to the financial impacts of mass displacement due to these events.
 
 ## 1 Objectives
 
